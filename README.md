@@ -4,7 +4,7 @@
 
 Instead of scaling up the model, PerceptQA gives a small VLM what it cannot see well on its own: how the car is moving, where the traffic lights are, and what lies far down the road. All of it is computed with classical OpenCV geometry; there is no object detector or depth network. The whole system is trained and served on a single free T4 GPU.
 
-<p align="center"><img src="assets/Screenshot From 2026-11-16 22-52-14.png" width="100%"></p>
+<p align="center"><img src="assets/Screenshot%20From%202026-11-16%2022-52-14.png" width="100%"></p>
 
 ## Pipeline
 
@@ -43,9 +43,7 @@ In the LingoQA paper, the authors' own model (Vicuna-1.5-7B, fine-tuned on Lingo
 
 | | |
 |---|---|
-| ![](assets/Screenshot From 2026-11-16 22-52-14.png) | ![](assets/Screenshot From 2026-11-16 22-51-02.png) |
-
-Raw screenshots go in `assets/screenshots/`; `python assets/prepare_screenshots.py` writes the trimmed versions to `assets/demo/`.
+| [![PerceptQA demo](assets/Screenshot%20From%202026-11-16%2022-52-14.png)](assets/Screenshot%20From%202026-11-16%2022-52-14.png) | [![PerceptQA demo](assets/Screenshot%20From%202026-11-16%2022-51-02.png)](assets/Screenshot%20From%202026-11-16%2022-51-02.png) |
 
 ## Repository
 
