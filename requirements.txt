@@ -1,0 +1,8 @@
+unsloth
+opencv-python>=4.8
+scikit-learn
+pandas
+pyarrow
+pillow
+joblib
+gradio

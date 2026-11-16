@@ -1,0 +1,4 @@
+model,lingo_judge,questions
+Qwen/Qwen3.5-2B,65.4,500
+Qwen/Qwen3-VL-2B-Instruct,49.8,500
+google/gemma-4-E2B-it,29.2,500

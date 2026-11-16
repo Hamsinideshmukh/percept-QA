@@ -1,0 +1,92 @@
+[ 0.55h] collator: loss on the answer only
+[ 0.56h] graded text of example 1: '<think>\n\n</think>\n\nI am steering right in this situation to keep a safe distance from the cycle lane on the left.<|im_end|>'
+[ 0.72h] update 25/1814 | {'loss': 0.6914117431640625, 'grad_norm': 3.3166420459747314, 'learning_rate': 0.00019844789356984478, 'epoch': 0.013785497656465398}
+[ 0.82h] update 50/1814 | {'loss': 0.5852113342285157, 'grad_norm': 3.0012166500091553, 'learning_rate': 0.00019567627494456764, 'epoch': 0.027570995312930797}
+[ 0.92h] update 75/1814 | {'loss': 0.5646541976928711, 'grad_norm': 1.780631422996521, 'learning_rate': 0.00019290465631929045, 'epoch': 0.0413564929693962}
+[ 1.02h] update 100/1814 | {'loss': 0.5291348266601562, 'grad_norm': 2.0899112224578857, 'learning_rate': 0.00019013303769401332, 'epoch': 0.055141990625861594}
+[ 1.12h] update 125/1814 | {'loss': 0.5590124130249023, 'grad_norm': 1.8903003931045532, 'learning_rate': 0.00018736141906873613, 'epoch': 0.06892748828232699}
+[ 1.22h] update 150/1814 | {'loss': 0.5208219909667968, 'grad_norm': 1.9841142892837524, 'learning_rate': 0.000184589800443459, 'epoch': 0.0827129859387924}
+[ 1.32h] update 175/1814 | {'loss': 0.4783672332763672, 'grad_norm': 1.6109949350357056, 'learning_rate': 0.00018181818181818183, 'epoch': 0.09649848359525778}
+[ 1.42h] update 200/1814 | {'loss': 0.5457738876342774, 'grad_norm': 1.4792102575302124, 'learning_rate': 0.00017904656319290467, 'epoch': 0.11028398125172319}
+[ 1.52h] update 225/1814 | {'loss': 0.47251354217529296, 'grad_norm': 1.3441716432571411, 'learning_rate': 0.0001762749445676275, 'epoch': 0.12406947890818859}
+[ 1.62h] update 250/1814 | {'loss': 0.5491372680664063, 'grad_norm': 1.590387225151062, 'learning_rate': 0.00017350332594235035, 'epoch': 0.13785497656465398}
+[ 1.72h] update 275/1814 | {'loss': 0.4458211517333984, 'grad_norm': 1.7709782123565674, 'learning_rate': 0.0001707317073170732, 'epoch': 0.15164047422111937}
+[ 1.82h] update 300/1814 | {'loss': 0.5441872024536133, 'grad_norm': 1.541260004043579, 'learning_rate': 0.00016796008869179602, 'epoch': 0.1654259718775848}
+[ 1.92h] update 325/1814 | {'loss': 0.47517738342285154, 'grad_norm': 1.8538525104522705, 'learning_rate': 0.00016518847006651886, 'epoch': 0.17921146953405018}
+[ 2.02h] update 350/1814 | {'loss': 0.4799996566772461, 'grad_norm': 1.8539763689041138, 'learning_rate': 0.0001624168514412417, 'epoch': 0.19299696719051557}
+[ 2.12h] update 375/1814 | {'loss': 0.4880350112915039, 'grad_norm': 1.6525079011917114, 'learning_rate': 0.00015964523281596454, 'epoch': 0.20678246484698098}
+[ 2.22h] update 400/1814 | {'loss': 0.48648895263671876, 'grad_norm': 1.4117512702941895, 'learning_rate': 0.00015687361419068738, 'epoch': 0.22056796250344637}
+[ 2.32h] update 425/1814 | {'loss': 0.4904534530639648, 'grad_norm': 1.2673603296279907, 'learning_rate': 0.00015410199556541022, 'epoch': 0.23435346015991176}
+[ 2.42h] update 450/1814 | {'loss': 0.4327654266357422, 'grad_norm': 1.8068455457687378, 'learning_rate': 0.00015133037694013303, 'epoch': 0.24813895781637718}
+[ 2.52h] update 475/1814 | {'loss': 0.40512107849121093, 'grad_norm': 0.9627406001091003, 'learning_rate': 0.0001485587583148559, 'epoch': 0.26192445547284254}
+[ 2.62h] update 500/1814 | {'loss': 0.495413818359375, 'grad_norm': 0.9776380658149719, 'learning_rate': 0.0001457871396895787, 'epoch': 0.27570995312930796}
+[ 2.72h] update 525/1814 | {'loss': 0.44059986114501953, 'grad_norm': 1.4421123266220093, 'learning_rate': 0.00014301552106430157, 'epoch': 0.2894954507857734}
+[ 2.82h] update 550/1814 | {'loss': 0.47437255859375, 'grad_norm': 1.3694148063659668, 'learning_rate': 0.00014024390243902438, 'epoch': 0.30328094844223874}
+[ 2.92h] update 575/1814 | {'loss': 0.46331626892089844, 'grad_norm': 1.3964308500289917, 'learning_rate': 0.00013747228381374724, 'epoch': 0.31706644609870416}
+[ 3.02h] update 600/1814 | {'loss': 0.4998529052734375, 'grad_norm': 1.4316792488098145, 'learning_rate': 0.00013470066518847006, 'epoch': 0.3308519437551696}
+[ 3.12h] update 625/1814 | {'loss': 0.4458119201660156, 'grad_norm': 1.539494276046753, 'learning_rate': 0.00013192904656319292, 'epoch': 0.34463744141163494}
+[ 3.22h] update 650/1814 | {'loss': 0.4181246566772461, 'grad_norm': 1.165451169013977, 'learning_rate': 0.00012915742793791573, 'epoch': 0.35842293906810035}
+[ 3.32h] update 675/1814 | {'loss': 0.4303607559204102, 'grad_norm': 1.1624594926834106, 'learning_rate': 0.0001263858093126386, 'epoch': 0.37220843672456577}
+[ 3.42h] update 700/1814 | {'loss': 0.41603492736816405, 'grad_norm': 1.9045711755752563, 'learning_rate': 0.0001236141906873614, 'epoch': 0.38599393438103113}
+[ 3.52h] update 725/1814 | {'loss': 0.4730500030517578, 'grad_norm': 1.5742179155349731, 'learning_rate': 0.00012084257206208427, 'epoch': 0.39977943203749655}
+[ 3.62h] update 750/1814 | {'loss': 0.42362369537353517, 'grad_norm': 1.187960147857666, 'learning_rate': 0.0001180709534368071, 'epoch': 0.41356492969396197}
+[ 3.73h] update 775/1814 | {'loss': 0.4489546203613281, 'grad_norm': 1.4174333810806274, 'learning_rate': 0.00011529933481152995, 'epoch': 0.42735042735042733}
+[ 3.83h] update 800/1814 | {'loss': 0.41151309967041017, 'grad_norm': 1.6479789018630981, 'learning_rate': 0.00011252771618625277, 'epoch': 0.44113592500689275}
+[ 3.93h] update 825/1814 | {'loss': 0.4400161361694336, 'grad_norm': 1.315542459487915, 'learning_rate': 0.00010975609756097563, 'epoch': 0.45492142266335817}
+[ 4.03h] update 850/1814 | {'loss': 0.41154815673828127, 'grad_norm': 1.2538961172103882, 'learning_rate': 0.00010698447893569845, 'epoch': 0.46870692031982353}
+[ 4.13h] update 875/1814 | {'loss': 0.4320646286010742, 'grad_norm': 1.6104025840759277, 'learning_rate': 0.0001042128603104213, 'epoch': 0.48249241797628895}
+[ 4.23h] update 900/1814 | {'loss': 0.3953838348388672, 'grad_norm': 1.2865804433822632, 'learning_rate': 0.00010144124168514413, 'epoch': 0.49627791563275436}
+[ 4.33h] update 925/1814 | {'loss': 0.4083530807495117, 'grad_norm': 1.8474229574203491, 'learning_rate': 9.866962305986696e-05, 'epoch': 0.5100634132892198}
+[ 4.43h] update 950/1814 | {'loss': 0.40144824981689453, 'grad_norm': 1.2118476629257202, 'learning_rate': 9.58980044345898e-05, 'epoch': 0.5238489109456851}
+[ 4.53h] update 975/1814 | {'loss': 0.42539875030517577, 'grad_norm': 1.5047703981399536, 'learning_rate': 9.312638580931264e-05, 'epoch': 0.5376344086021505}
+[ 4.63h] update 1000/1814 | {'loss': 0.4168299865722656, 'grad_norm': 1.550759196281433, 'learning_rate': 9.035476718403548e-05, 'epoch': 0.5514199062586159}
+[ 4.73h] update 1025/1814 | {'loss': 0.38493507385253906, 'grad_norm': 1.5210238695144653, 'learning_rate': 8.758314855875832e-05, 'epoch': 0.5652054039150813}
+[ 4.83h] update 1050/1814 | {'loss': 0.4469208908081055, 'grad_norm': 1.5813144445419312, 'learning_rate': 8.481152993348116e-05, 'epoch': 0.5789909015715468}
+[ 4.93h] update 1075/1814 | {'loss': 0.3892181777954102, 'grad_norm': 0.9565257430076599, 'learning_rate': 8.2039911308204e-05, 'epoch': 0.5927763992280122}
+[ 5.03h] update 1100/1814 | {'loss': 0.41765895843505857, 'grad_norm': 1.375869870185852, 'learning_rate': 7.926829268292683e-05, 'epoch': 0.6065618968844775}
+[ 5.13h] update 1125/1814 | {'loss': 0.4244791412353516, 'grad_norm': 1.2442266941070557, 'learning_rate': 7.649667405764967e-05, 'epoch': 0.6203473945409429}
+[ 5.23h] update 1150/1814 | {'loss': 0.4011302185058594, 'grad_norm': 1.4045464992523193, 'learning_rate': 7.372505543237251e-05, 'epoch': 0.6341328921974083}
+[ 5.33h] update 1175/1814 | {'loss': 0.36470706939697267, 'grad_norm': 1.4642921686172485, 'learning_rate': 7.095343680709535e-05, 'epoch': 0.6479183898538737}
+[ 5.43h] update 1200/1814 | {'loss': 0.3983709716796875, 'grad_norm': 1.1912600994110107, 'learning_rate': 6.818181818181818e-05, 'epoch': 0.6617038875103392}
+[ 5.54h] update 1225/1814 | {'loss': 0.44823486328125, 'grad_norm': 1.5555461645126343, 'learning_rate': 6.541019955654102e-05, 'epoch': 0.6754893851668046}
+[ 5.64h] update 1250/1814 | {'loss': 0.3767118453979492, 'grad_norm': 1.29036545753479, 'learning_rate': 6.263858093126386e-05, 'epoch': 0.6892748828232699}
+[ 5.74h] update 1275/1814 | {'loss': 0.4248772048950195, 'grad_norm': 1.5813474655151367, 'learning_rate': 5.98669623059867e-05, 'epoch': 0.7030603804797353}
+[ 5.84h] update 1300/1814 | {'loss': 0.40541683197021483, 'grad_norm': 1.0701239109039307, 'learning_rate': 5.709534368070954e-05, 'epoch': 0.7168458781362007}
+[ 5.94h] update 1325/1814 | {'loss': 0.4145008850097656, 'grad_norm': 1.2337749004364014, 'learning_rate': 5.4323725055432375e-05, 'epoch': 0.7306313757926661}
+[ 6.04h] update 1350/1814 | {'loss': 0.3932033920288086, 'grad_norm': 1.3061518669128418, 'learning_rate': 5.155210643015521e-05, 'epoch': 0.7444168734491315}
+[ 6.14h] update 1375/1814 | {'loss': 0.3568975830078125, 'grad_norm': 1.4094042778015137, 'learning_rate': 4.878048780487805e-05, 'epoch': 0.758202371105597}
+[ 6.24h] update 1400/1814 | {'loss': 0.38152481079101563, 'grad_norm': 1.4633996486663818, 'learning_rate': 4.600886917960089e-05, 'epoch': 0.7719878687620623}
+[ 6.35h] update 1425/1814 | {'loss': 0.3963568878173828, 'grad_norm': 1.4228211641311646, 'learning_rate': 4.323725055432373e-05, 'epoch': 0.7857733664185277}
+[ 6.45h] update 1450/1814 | {'loss': 0.3653063583374023, 'grad_norm': 1.3762832880020142, 'learning_rate': 4.0465631929046566e-05, 'epoch': 0.7995588640749931}
+[ 6.55h] update 1475/1814 | {'loss': 0.38918266296386717, 'grad_norm': 1.3546764850616455, 'learning_rate': 3.7694013303769404e-05, 'epoch': 0.8133443617314585}
+[ 6.65h] update 1500/1814 | {'loss': 0.38952777862548826, 'grad_norm': 1.4037806987762451, 'learning_rate': 3.492239467849224e-05, 'epoch': 0.8271298593879239}
+[ 6.75h] update 1525/1814 | {'loss': 0.3757310485839844, 'grad_norm': 1.4097901582717896, 'learning_rate': 3.215077605321508e-05, 'epoch': 0.8409153570443894}
+[ 6.85h] update 1550/1814 | {'loss': 0.3662946319580078, 'grad_norm': 1.3678525686264038, 'learning_rate': 2.9379157427937915e-05, 'epoch': 0.8547008547008547}
+[ 6.95h] update 1575/1814 | {'loss': 0.35955467224121096, 'grad_norm': 1.2443056106567383, 'learning_rate': 2.6607538802660753e-05, 'epoch': 0.8684863523573201}
+[ 7.06h] update 1600/1814 | {'loss': 0.3817343521118164, 'grad_norm': 1.110323429107666, 'learning_rate': 2.3835920177383595e-05, 'epoch': 0.8822718500137855}
+[ 7.16h] update 1625/1814 | {'loss': 0.3925135040283203, 'grad_norm': 1.1734939813613892, 'learning_rate': 2.106430155210643e-05, 'epoch': 0.8960573476702509}
+[ 7.26h] update 1650/1814 | {'loss': 0.3649506759643555, 'grad_norm': 1.1941747665405273, 'learning_rate': 1.8292682926829268e-05, 'epoch': 0.9098428453267163}
+[ 7.36h] update 1675/1814 | {'loss': 0.3427457427978516, 'grad_norm': 1.1847755908966064, 'learning_rate': 1.5521064301552106e-05, 'epoch': 0.9236283429831816}
+[ 7.46h] update 1700/1814 | {'loss': 0.33653400421142576, 'grad_norm': 1.502328634262085, 'learning_rate': 1.2749445676274946e-05, 'epoch': 0.9374138406396471}
+[ 7.56h] update 1725/1814 | {'loss': 0.363768196105957, 'grad_norm': 1.7668102979660034, 'learning_rate': 9.977827050997784e-06, 'epoch': 0.9511993382961125}
+[ 7.66h] update 1750/1814 | {'loss': 0.3573020553588867, 'grad_norm': 0.8708656430244446, 'learning_rate': 7.206208425720622e-06, 'epoch': 0.9649848359525779}
+[ 7.77h] update 1775/1814 | {'loss': 0.4424496078491211, 'grad_norm': 1.0016424655914307, 'learning_rate': 4.434589800443459e-06, 'epoch': 0.9787703336090433}
+[ 7.87h] update 1800/1814 | {'loss': 0.33326168060302735, 'grad_norm': 1.0753059387207031, 'learning_rate': 1.662971175166297e-06, 'epoch': 0.9925558312655087}
+[ 7.92h] update 1814/1814 | {'train_runtime': 26502.9805, 'train_samples_per_second': 0.547, 'train_steps_per_second': 0.068, 'total_flos': 1.2888572108057318e+17, 'train_loss': 0.43449496670883836, 'epoch': 1.0}
+[ 7.92h] FINE-TUNED {'mode': 'plain', 'updates': 1814, 'minutes': 441.7, 'loss_first': [0.6914117431640625], 'loss_last': [0.33326168060302735]}
+[ 7.93h] Q: Should you stop or brake in this situation?
+  human: No, I should not stop or brake because the traffic lights to go straight are green.
+  before: No, you should not stop or brake in this situation.
+  after:  No, I should not stop or brake in this situation because there is a gap in the traffic behind the car ahead and the traffic lights are green.
+[ 7.93h] Q: Should you stop or brake in this situation?
+  human: I should be stopping in this situation because the traffic lights to turn left are red.
+  before: Yes, you should stop.
+  after:  I should be remaining stopped because the traffic lights to go straight are red.
+[ 7.93h] Q: Why is it unsafe for you to accelerate in this situation?
+  human: It would be unsafe to accelerate in this situation because there is a pedestrian crossing the road ahead, and it is important to ensure their safety.
+  before: There is a pedestrian crossing the road with dogs, and you must yield to ensure their safety.
+  after:  It would be unsafe to accelerate in this situation because there is a pedestrian crossing the road ahead and I need to ensure their safety.
+[ 7.93h] test 0/1000 | 'Yes, there is a traffic light, and it is currently green.'
+[ 8.01h] test 250/1000 | 'No, there are no obstacles preventing me from continuing straight.'
+[ 8.09h] test 500/1000 | 'No, I should not stop or brake in this situation because there is a ga'
+[ 8.20h] test 750/1000 | 'Yes, it is safe for me to accelerate in this situation because the zeb'

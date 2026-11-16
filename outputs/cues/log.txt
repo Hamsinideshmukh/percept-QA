@@ -1,0 +1,40 @@
+[ 0.00h] CPUs: 4
+[ 0.39h] test questions 1000 | training pool 14508 clips (same order as the fine-tuning notebooks)
+[ 0.39h] ego labels mined from training answers: {'slowing': 600, 'steady': 600, 'turn_left': 600, 'accelerating': 600, 'turn_right': 600, 'stopped': 490}
+[ 0.39h] computing ego features for 15108 clips on 4 CPUs ...
+[ 0.40h]   ego features 0/15108
+[ 0.55h]   ego features 1000/15108
+[ 0.72h]   ego features 2000/15108
+[ 0.87h]   ego features 3000/15108
+[ 1.03h]   ego features 4000/15108
+[ 1.19h]   ego features 5000/15108
+[ 1.35h]   ego features 6000/15108
+[ 1.51h]   ego features 7000/15108
+[ 1.67h]   ego features 8000/15108
+[ 1.83h]   ego features 9000/15108
+[ 1.99h]   ego features 10000/15108
+[ 2.15h]   ego features 11000/15108
+[ 2.31h]   ego features 12000/15108
+[ 2.47h]   ego features 13000/15108
+[ 2.64h]   ego features 14000/15108
+[ 2.79h]   ego features 15000/15108
+[ 2.81h] EGO gates (5-fold CV balanced accuracy): {'stop': np.float64(84.5), 'trend': np.float64(85.4), 'turn': np.float64(69.9)}
+[ 2.85h] state sentences: {'speeding up': 4813, 'slowing down': 4175, 'stopped': 3612, None: 2508}
+[ 2.86h]   light / vanishing-point records 0/15108
+[ 2.93h]   light / vanishing-point records 1000/15108
+[ 3.00h]   light / vanishing-point records 2000/15108
+[ 3.06h]   light / vanishing-point records 3000/15108
+[ 3.13h]   light / vanishing-point records 4000/15108
+[ 3.19h]   light / vanishing-point records 5000/15108
+[ 3.26h]   light / vanishing-point records 6000/15108
+[ 3.32h]   light / vanishing-point records 7000/15108
+[ 3.39h]   light / vanishing-point records 8000/15108
+[ 3.46h]   light / vanishing-point records 9000/15108
+[ 3.52h]   light / vanishing-point records 10000/15108
+[ 3.59h]   light / vanishing-point records 11000/15108
+[ 3.66h]   light / vanishing-point records 12000/15108
+[ 3.72h]   light / vanishing-point records 13000/15108
+[ 3.79h]   light / vanishing-point records 14000/15108
+[ 3.85h]   light / vanishing-point records 15000/15108
+[ 3.86h] DONE: 15108 clips | state spoken 12600 | lights 8429 | vp {'motion': 11729, 'lanes': 1342, 'default': 2037} | errors 0
+[ 3.86h] output: /kaggle/working/cues/cues_all.json

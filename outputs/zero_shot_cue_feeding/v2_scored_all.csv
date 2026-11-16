@@ -1,0 +1,1001 @@
+question_id,set,segment_id,cls,cname,cues_given,answer,correct,words,copy
+1a938d25604410ccd63b60285919eaec,eval,f2e4286e94457b8605069190e29f955a,7,light_state,TIME|LIGHT_ZOOM|SHOTS,"Yes, there is a traffic light displaying a green light.",1,10,0
+49cd6149f02ec01ee03a6eb8287ab2df,eval,f2e4286e94457b8605069190e29f955a,6,counting,TIME|SHOTS,There are no pedestrians visible in the image.,1,8,0
+c6050fe51d3408b1eaef27e08e7f1956,eval,f2e4286e94457b8605069190e29f955a,1,why,TIME|EGO|SHOTS,I am currently accelerating because there is a gap in the traffic behind the car ahead.,1,16,0
+bb98dd0bceac09d24db1ecb2af549a92,eval,f2e4286e94457b8605069190e29f955a,10,others_motion,TIME|FAR_ZOOM|SHOTS,"No, there are no pedestrian crossing ahead.",1,7,0
+b877dd782edba758ab429e3ee3de3329,eval,f2e4286e94457b8605069190e29f955a,6,counting,TIME|SHOTS,There is one motorcyclist visible in the image.,1,8,0
+4f59fbf51a0a5bfb4dc5af02cf294693,eval,0cb55ed0d4ce02a27a2647c97c2ab6e8,6,counting,TIME|SHOTS,"Yes, there is one pedestrian crossing the road.",1,8,0
+e7f85a6744056849fb03c6c2fc8760c5,eval,0cb55ed0d4ce02a27a2647c97c2ab6e8,6,counting,TIME|SHOTS,There are no cyclists on the road.,1,7,0
+95705feaac0515f7b77312771885e5bc,eval,0cb55ed0d4ce02a27a2647c97c2ab6e8,5,layout,TIME|SHOTS,"No, there is no dedicated cycle lane.",0,7,0
+fa7e0dd659520ac38a53948e9f348b35,eval,0cb55ed0d4ce02a27a2647c97c2ab6e8,1,why,TIME|EGO|SHOTS,I am currently accelerating because there is a gap in the traffic behind the car ahead.,0,16,0
+c9c6a134fb3432ac6acadbd623e2caaa,eval,0cb55ed0d4ce02a27a2647c97c2ab6e8,8,presence,TIME|FAR_ZOOM|SHOTS,"No, there is no traffic in your lane.",1,8,0
+06b3e36dcd8b203f5dd698aca32339bc,eval,a395b347e02d4f0bf9d69da3ebd52ea4,4,hazard,TIME|SHOTS,I am focusing on the traffic lights ahead because they are green and I am approaching an intersection.,1,18,0
+48ef042697fcfecf798dc8441a8d8627,eval,a395b347e02d4f0bf9d69da3ebd52ea4,9,where,TIME|SHOTS,There is a black van in the right lane and a white car in the left lane.,0,17,0
+f83361e7b4f147c70b47e65e584da08a,eval,a395b347e02d4f0bf9d69da3ebd52ea4,9,where,TIME|SHOTS,"No, I do not see any cyclists around.",1,8,0
+0ae8a0bf679482f6d1ebb948aefb071d,eval,a395b347e02d4f0bf9d69da3ebd52ea4,7,light_state,TIME|LIGHT_ZOOM|SHOTS,The traffic lights in my lane are displaying green.,1,9,0
+a6d4e7c7cd305fc911ffbafe31d6977f,eval,a395b347e02d4f0bf9d69da3ebd52ea4,1,why,TIME|EGO|SHOTS,I am currently remaining stopped because the traffic lights to go straight are red.,0,14,0
+706096127b4151944e7ead4dc589ea94,eval,671f88abd84414b26768da2aa6f6a65f,1,why,TIME|EGO|SHOTS,I am currently accelerating because there is a gap in the traffic behind the car ahead.,1,16,0
+64478e433295c83f00786de8edf5e8b9,eval,671f88abd84414b26768da2aa6f6a65f,2,decision,TIME|EGO|SHOTS,"No, you are not permitted to make a right turn at the upcoming junction because the traffic lights are red.",0,20,0
+7a106f2b003d3e869c76b59b97c30d46,eval,671f88abd84414b26768da2aa6f6a65f,6,counting,TIME|SHOTS,There are two pedestrians present in this image.,0,8,0
+0235b71544efeec1e859a1f00330bb0f,eval,671f88abd84414b26768da2aa6f6a65f,7,light_state,TIME|LIGHT_ZOOM|SHOTS,The traffic light is exhibiting a yellow color.,1,8,0
+fd1f6a4ae0a8df4b0fda0afd8248830b,eval,671f88abd84414b26768da2aa6f6a65f,1,why,TIME|EGO|SHOTS,I am currently accelerating because there is a gap in the traffic behind the car ahead.,0,16,0
+5931673848fa9a37e4ed44e3197d7108,eval,6589b1e61fdd4905f501cccac9241d0b,1,why,TIME|EGO|SHOTS,"No, you cannot proceed straight ahead because the traffic lights to go straight are red.",0,15,0
+4d90276889b93312b0cb24fb7f997b9c,eval,6589b1e61fdd4905f501cccac9241d0b,1,why,TIME|EGO|SHOTS,I am accelerating because there is a gap in the traffic behind the car ahead.,0,15,0
+117ee766ebc732db16529f2225e19f29,eval,6589b1e61fdd4905f501cccac9241d0b,1,why,TIME|EGO|SHOTS,"No, changing lanes is not possible because the right lane is occupied by a white car.",1,16,0
+427c5367704e98e7e6ea613eee13afa9,eval,6589b1e61fdd4905f501cccac9241d0b,1,why,TIME|EGO|SHOTS,You are correctly positioned to make a left turn at this intersection.,0,12,0
+32b726a7ef4081b3c49bc39c374b5ba7,eval,6589b1e61fdd4905f501cccac9241d0b,6,counting,TIME|SHOTS,"There are 3 traffic lights visible, and they are all displaying green.",1,12,0
+eeb5333028e5883ae3bd42ce310f5a1d,eval,9192c58d9644f2254f27d76948d46e0c,8,presence,TIME|FAR_ZOOM|SHOTS,"No, there is no traffic in my lane preventing me from moving forward.",1,13,0
+ebcb71b452ee1aec1e34657cfdf613cd,eval,9192c58d9644f2254f27d76948d46e0c,2,decision,TIME|EGO|SHOTS,"No, the road is not clear for you to accelerate because there is a motorcyclist in the right lane.",0,19,0
+965df131406b61789ce770ef0c48d367,eval,9192c58d9644f2254f27d76948d46e0c,8,presence,TIME|FAR_ZOOM|SHOTS,"No, there are no cyclists in this image.",1,8,0
+b51896c29b0037a0e52ba27f7abb4ff2,eval,9192c58d9644f2254f27d76948d46e0c,6,counting,TIME|SHOTS,There are no parked cars.,1,5,0
+f9e6d6a81a613f94954759fa29cf9dc4,eval,9192c58d9644f2254f27d76948d46e0c,1,why,TIME|EGO|SHOTS,I am currently remaining stopped because the traffic lights to go straight are red.,0,14,0
+36a5235bcd9eeafe5536549b43a382d4,eval,458febd2f34dcd202a1d21b7b75fcbc9,1,why,TIME|EGO|SHOTS,I am currently decelerating because of the upcoming speedbump on the road ahead.,0,13,0
+bc3cc88ae4416e33d922d30633bb5c14,eval,458febd2f34dcd202a1d21b7b75fcbc9,6,counting,TIME|SHOTS,There are two pedestrians crossing the road.,0,7,0
+96b2f61186d8985150a5225a71391728,eval,458febd2f34dcd202a1d21b7b75fcbc9,8,presence,TIME|FAR_ZOOM|SHOTS,"No, there is no traffic currently in my lane.",1,9,0
+55a5198bc636eb7997b3da25166e111a,eval,458febd2f34dcd202a1d21b7b75fcbc9,1,why,TIME|EGO|SHOTS,I am currently decelerating because of the upcoming speedbump on the road ahead.,1,13,0
+c918c0ad5ea1dc236fb6f2727617c4fb,eval,458febd2f34dcd202a1d21b7b75fcbc9,9,where,TIME|SHOTS,"No, I do not observe any cyclists on the road.",1,10,0
+6f05518e9fc9af2b7dc864f7ed7b8603,eval,e07246bab040227c8561572a226333d5,4,hazard,TIME|SHOTS,There is no obstacle that hinders your forward movement.,1,9,0
+b75be00c7794873028185e914b8024dc,eval,e07246bab040227c8561572a226333d5,1,why,TIME|EGO|SHOTS,I am currently decelerating because I am turning right at an intersection.,0,12,0
+64feac8e25b4284b5ff1f3bab4b26cb9,eval,e07246bab040227c8561572a226333d5,1,why,TIME|EGO|SHOTS,"Yes, I am slowing down because I am turning right at an intersection.",0,13,1
+e1270639f411325b01b45d1bfa8a8aeb,eval,e07246bab040227c8561572a226333d5,4,hazard,TIME|SHOTS,The traffic lights are capturing my attention because they are green.,0,11,0
+0e26830feddb885743bb074007bc5caa,eval,e07246bab040227c8561572a226333d5,2,decision,TIME|EGO|SHOTS,I am currently decelerating and steering right to prepare for the upcoming intersection and potential traffic.,0,16,0
+14858d3fc909b2f175ff64b9f10cf59d,eval,d0983de189bba9f90dfd5f91e81be620,1,why,TIME|EGO|SHOTS,I am currently accelerating because there is a gap in the traffic behind the car ahead.,1,16,0
+53d3b48462adcf7fde874d96b65f6676,eval,d0983de189bba9f90dfd5f91e81be620,8,presence,TIME|FAR_ZOOM|SHOTS,"Yes, there is a cyclist ahead of me in my lane.",0,11,0
+8b25b53f48fe5c2960210d152e2fbc4d,eval,d0983de189bba9f90dfd5f91e81be620,6,counting,TIME|SHOTS,There are 2 parked vehicles visible.,0,6,0
+a17dd1676db260c7b69272d666722656,eval,d0983de189bba9f90dfd5f91e81be620,1,why,TIME|EGO|SHOTS,I am accelerating because there is a gap in the traffic behind the car ahead.,0,15,0
+ada227c90281d26df80175526fb33856,eval,d0983de189bba9f90dfd5f91e81be620,2,decision,TIME|EGO|SHOTS,"No, I am not braking because the traffic lights to go straight are green.",1,14,0
+e5151a16fcc1bd7a9db7cce0ee392cb7,eval,46d5b17141fa51e9654427ff1fb7ffc7,4,hazard,TIME|SHOTS,The traffic lights are capturing my attention because they are green.,1,11,0
+65863cc168e769fdf79d3d22d7669296,eval,46d5b17141fa51e9654427ff1fb7ffc7,2,decision,TIME|EGO|SHOTS,I am currently accelerating because there is a gap in the traffic behind the car ahead.,0,16,0
+031eb66c4c5c72601232b93f318e9486,eval,46d5b17141fa51e9654427ff1fb7ffc7,2,decision,TIME|EGO|SHOTS,"Yes, it is safe to enter the intersection because the traffic lights are green.",1,14,0
+aa2f9b3a78842f316adedb53521a7973,eval,46d5b17141fa51e9654427ff1fb7ffc7,1,why,TIME|EGO|SHOTS,I am currently accelerating because there is a gap in the traffic behind the car ahead.,0,16,0
+faaa3cdd941a0e11aa09b763fe31b9e4,eval,46d5b17141fa51e9654427ff1fb7ffc7,1,why,TIME|EGO|SHOTS,I am changing lane to avoid the oncoming traffic and to follow the straight-ahead arrow on the road.,0,18,0
+64f4b4520b9752dd29044b3ccd8a3b39,eval,0f54dedab4ab997e8cdf97c570146292,1,why,TIME|EGO|SHOTS,I am currently accelerating because there is a gap in the traffic behind the car ahead.,0,16,0
+e4a586f23ab5083a397fee1597c54556,eval,0f54dedab4ab997e8cdf97c570146292,11,identity,TIME|FAR_ZOOM|SHOTS,"Yes, there is a red double-decker bus in your lane.",1,10,0
+2e21668a54ee594a356ec663e5fe1c4c,eval,0f54dedab4ab997e8cdf97c570146292,2,decision,TIME|EGO|SHOTS,"No, I am currently accelerating because there is a gap in the traffic behind the car ahead.",0,17,0
+110acb6b1a76a8e7f39c550b1874b547,eval,0f54dedab4ab997e8cdf97c570146292,4,hazard,TIME|SHOTS,"Yes, there is a pedestrian crossing the road in front of your car.",1,13,0
+f669fb93aa32fe758eb9b4f06e15d76d,eval,0f54dedab4ab997e8cdf97c570146292,7,light_state,TIME|LIGHT_ZOOM|SHOTS,The traffic lights are showing green.,1,6,0
+45adbd6608819048d23e7ebd6d85bd3b,eval,8e9323f72ccc4b6637f4f27f0657f3d4,4,hazard,TIME|SHOTS,Pay attention to the pedestrians crossing the road and the oncoming silver car.,1,13,0
+ada9a09151269aeabd7fc7c92edc1f5f,eval,8e9323f72ccc4b6637f4f27f0657f3d4,6,counting,TIME|SHOTS,There are two pedestrians crossing the road.,1,7,0
+50f39223d3904e914a28fcc4179b11d7,eval,8e9323f72ccc4b6637f4f27f0657f3d4,7,light_state,TIME|LIGHT_ZOOM|SHOTS,"Yes, there are traffic lights showing yellow.",0,7,0
+20018bf30a7de649ccf6f358877197bd,eval,8e9323f72ccc4b6637f4f27f0657f3d4,6,counting,TIME|SHOTS,There are no cyclists visible in the image.,1,8,0
+02383afb5fa8609c0509c6ad683270d0,eval,8e9323f72ccc4b6637f4f27f0657f3d4,1,why,TIME|EGO|SHOTS,I am currently decelerating because of the pedestrian crossing the road ahead.,1,12,0
+e29817a79c9f93fef0bbbc9f22e041fc,eval,e99f7824f2219b27f6bddc184eb505c1,9,where,TIME|SHOTS,The bus is stopped at the bus stop on the left side of the road.,1,15,0
+cb9d365fecd467d866e6848c09eb164d,eval,e99f7824f2219b27f6bddc184eb505c1,11,identity,TIME|FAR_ZOOM|SHOTS,"Yes, there is traffic in your lane, consisting of a cyclist and a grey SUV.",1,15,0
+daafd1717974aeab9816c0ee21da75a7,eval,e99f7824f2219b27f6bddc184eb505c1,2,decision,TIME|FAR_ZOOM|EGO|SHOTS,"No, I cannot overtake the cyclists because there is oncoming traffic and a speed limit of 20 mph.",1,18,0
+c11bfa8549fb5ff57902a9856af7489e,eval,e99f7824f2219b27f6bddc184eb505c1,1,why,TIME|EGO|SHOTS,"No, it is not required for you to come to a stop because the speed limit is 20 mph and you are currently traveling at that speed.",1,27,0
+5b4213a0f2af953a9b13b9e1c17e22f2,eval,e99f7824f2219b27f6bddc184eb505c1,1,why,TIME|EGO|SHOTS,I am currently turning left because the traffic lights to go straight are red.,0,14,0
+a5fffa577ad85f02842be4b494c0c412,eval,d082bdc55d81a79652063c87996514aa,7,light_state,TIME|LIGHT_ZOOM|SHOTS,The traffic lights are green.,1,5,0
+728815a5bd3b48e323b65950888801f7,eval,d082bdc55d81a79652063c87996514aa,8,presence,TIME|FAR_ZOOM|SHOTS,No emergency vehicles are visible in this image.,1,8,0
+a5def98b01dd1b69b70eb93c5560be72,eval,d082bdc55d81a79652063c87996514aa,1,why,TIME|EGO|SHOTS,I am accelerating because there is a gap in the traffic behind the car ahead.,0,15,0
+7e02239edf0b705ab28cb7eb301a1d2f,eval,d082bdc55d81a79652063c87996514aa,4,hazard,TIME|SHOTS,You should pay attention to the large red double-decker bus on your left and the bus ahead of you because they are occupying your lane and may slow down or stop.,1,31,0
+06bbcb4587ad9d9547ff6786fd2c3bef,eval,d082bdc55d81a79652063c87996514aa,4,hazard,TIME|SHOTS,"Yes, there is a large red double-decker bus directly in front of me.",1,13,0
+4860009561613bec77fcc736e767e83a,eval,7cf8c089882c2b649b788bbd01d6e94f,8,presence,TIME|FAR_ZOOM|SHOTS,"Yes, there is a bicycle on the road.",1,8,0
+11c88d44b70010194299119179ae67b4,eval,7cf8c089882c2b649b788bbd01d6e94f,7,light_state,TIME|LIGHT_ZOOM|SHOTS,The traffic lights are red.,0,5,0
+a87f1591498ea59ca22ffdbabe027c80,eval,7cf8c089882c2b649b788bbd01d6e94f,1,why,TIME|SHOTS,I am remaining stopped because the traffic lights to go straight are red.,0,13,0
+15433a57e93bdd85dae018f97d946107,eval,7cf8c089882c2b649b788bbd01d6e94f,8,presence,TIME|FAR_ZOOM|SHOTS,"Yes, there is a vehicle ahead of me in my lane.",1,11,0
+37628cdcb0a71e3955c1ce1e920c5d4e,eval,7cf8c089882c2b649b788bbd01d6e94f,1,why,TIME|SHOTS,I am currently remaining stopped because the traffic lights to go straight are red.,0,14,0
+ffc8dec4fbe1d76c0a4850053f08c59f,eval,0ad3c6571f5aff651d43b4014b693e94,5,layout,TIME|SHOTS,"Yes, there is a zebra crossing ahead.",1,7,0
+6fb4b82e3004d61fca7e5af61df74ccf,eval,0ad3c6571f5aff651d43b4014b693e94,4,hazard,TIME|SHOTS,The potential hazards or barriers are pedestrians crossing the zebra crossing ahead and the construction scaffolding on the building in the distance.,0,22,0
+99e66a94b6b25c813470a244e4c25bae,eval,0ad3c6571f5aff651d43b4014b693e94,1,why,TIME|EGO|SHOTS,I am currently accelerating because there is a gap in the traffic behind the car ahead.,1,16,0
+d6436e881b7d1b945ea15dcac8547296,eval,0ad3c6571f5aff651d43b4014b693e94,1,why,TIME|EGO|SHOTS,I am currently starting because there is a gap in the traffic behind the car ahead.,0,16,0
+0fa0e48f0af0b835c0f75ed28fd3f7df,eval,0ad3c6571f5aff651d43b4014b693e94,8,presence,TIME|FAR_ZOOM|SHOTS,"No, there is no traffic on the road ahead.",1,9,0
+6b4e94f9cb2d7ff4af248bc74a331d37,eval,69600f140a234e057c519e38116e7a89,7,light_state,TIME|LIGHT_ZOOM|SHOTS,The traffic lights are displaying green.,1,6,0
+4f8cb99b920a61ccd0f1397a16623933,eval,69600f140a234e057c519e38116e7a89,12,scene_other,TIME|SHOTS,"Yes, the white truck is parked on the left side of the road.",1,13,0
+82ce1e41670bcf2726cb72f517841976,eval,69600f140a234e057c519e38116e7a89,10,others_motion,TIME|LIGHT_ZOOM|SHOTS,"No, the car in front is not stopping at the traffic lights because the traffic lights are green.",1,18,0
+f2846ffa16a9d86d5a30356dfe0d0d62,eval,69600f140a234e057c519e38116e7a89,6,counting,TIME|SHOTS,There are 3 pedestrians crossing the road.,0,7,0
+a0bf0b3896d98b5820d1afd28724f319,eval,69600f140a234e057c519e38116e7a89,1,why,TIME|SHOTS,I am remaining stopped because the traffic lights to go straight are red.,0,13,0
+ff650981695f0f04e0e8e8d46e4bb73c,eval,3561e15b7feb2e922e9c962754f75dde,1,why,TIME|EGO|SHOTS,I am accelerating because there is a gap in the traffic behind the car ahead.,0,15,0
+20f0eb9596a520b6560a6fceb1d1ef81,eval,3561e15b7feb2e922e9c962754f75dde,2,decision,TIME|EGO|SHOTS,"No, I do not need to come to a stop because the traffic lights to go straight are green.",0,19,0
+672c6891cbd60b8c79ebd9d14b4021c7,eval,3561e15b7feb2e922e9c962754f75dde,6,counting,TIME|SHOTS,There are two cyclists visible in the image.,0,8,0
+d8a141555d0a5bc35a70ced5ab848aec,eval,3561e15b7feb2e922e9c962754f75dde,4,hazard,TIME|SHOTS,A cyclist is riding in the lane ahead.,1,8,0
+4556739ce595296635b70173b7183a4c,eval,3561e15b7feb2e922e9c962754f75dde,10,others_motion,TIME|FAR_ZOOM|SHOTS,"Yes, there is a pedestrian waiting to cross the road.",1,10,0
+25276cee5904aa09ea65655df89c0c09,eval,7ae30db643ea8d142589ff909fdb0a63,6,counting,TIME|SHOTS,There are two cyclists on the road.,1,7,0
+42d0cd97362d36b7ef3afb0b152d19d6,eval,7ae30db643ea8d142589ff909fdb0a63,1,why,TIME|EGO|SHOTS,I am remaining stopped because the traffic lights to go straight are red.,0,13,0
+8ddd75507f10ab9e3b500f81958f12c1,eval,7ae30db643ea8d142589ff909fdb0a63,4,hazard,TIME|SHOTS,A cyclist is approaching from the right side of the road.,1,11,0
+55e675a4f64116b4bdd8f21c36d4e64f,eval,7ae30db643ea8d142589ff909fdb0a63,2,decision,TIME|EGO|SHOTS,"No, it is not safe for you to accelerate because there is a cyclist and a car approaching in your lane.",1,21,0
+24504ee58deeeb036006c07f85186375,eval,7ae30db643ea8d142589ff909fdb0a63,12,scene_other,TIME|SHOTS,I am currently decelerating because of the upcoming speedbump on the road ahead.,0,13,0
+f25c0c7c366e629531bb2ae097bd899a,eval,eafb7e051fe110abb845b985ae6d9a2b,7,light_state,TIME|LIGHT_ZOOM|SHOTS,"Yes, there are visible traffic lights and they are green.",1,10,0
+74075b9d1d3f898af0b30f698357b3cc,eval,eafb7e051fe110abb845b985ae6d9a2b,6,counting,TIME|SHOTS,There are two pedestrians crossing the road.,1,7,0
+54f457677e9cff55d24096ab55410f18,eval,eafb7e051fe110abb845b985ae6d9a2b,6,counting,TIME|SHOTS,There are 3 pedestrians visible in the image.,0,8,0
+d0601315b75823a14a2dee73690a122f,eval,eafb7e051fe110abb845b985ae6d9a2b,8,presence,TIME|FAR_ZOOM|SHOTS,"No, there is no traffic in the opposite direction.",0,9,0
+6a381270a3d4c85837e68334addaec23,eval,eafb7e051fe110abb845b985ae6d9a2b,1,why,TIME|EGO|SHOTS,I am currently remaining stopped because the traffic lights to go straight are red.,0,14,0
+d534d48e492d528cac5084b66c8a2d33,eval,e2e859bb03ca10ec89d45bd16c3879ce,5,layout,TIME|SHOTS,"Yes, the cyclist is in a dedicated cycle lane.",1,9,0
+033495d1f5a21b60b6460284b3d37c0b,eval,e2e859bb03ca10ec89d45bd16c3879ce,8,presence,TIME|FAR_ZOOM|SHOTS,"No, there is no vehicle in my lane.",1,8,0
+3fd76c0d0133cf75221d963bd4c256a6,eval,e2e859bb03ca10ec89d45bd16c3879ce,1,why,TIME|EGO|SHOTS,I am currently remaining stopped because the traffic lights to go straight are red.,0,14,0
+8a88bde45d2e9bd02bfb2872490de52f,eval,e2e859bb03ca10ec89d45bd16c3879ce,12,scene_other,TIME|SHOTS,It is raining.,1,3,0
+5d01bcf254729fdfd366c0c75d7a9604,eval,e2e859bb03ca10ec89d45bd16c3879ce,2,decision,TIME|EGO|SHOTS,I am currently remaining stopped because the traffic lights to go straight are red.,0,14,0
+8de7006a398fe83def580c83509a7846,eval,94dee4a9b5603e9cbac8c2444d6cda6e,6,counting,TIME|SHOTS,There are two motorcyclists visible in the image.,1,8,0
+c370c22fb5cccd99a72f0e03e8258ce3,eval,94dee4a9b5603e9cbac8c2444d6cda6e,1,why,TIME|EGO|SHOTS,I am accelerating because there is a gap in the traffic behind the car ahead.,1,15,0
+66ab64fe89ebba7a83b32923a0d30d39,eval,94dee4a9b5603e9cbac8c2444d6cda6e,6,counting,TIME|SHOTS,There are 4 cyclists visible in the image.,0,8,0
+3c50e6232999f73fc88abd8ffa243ec0,eval,94dee4a9b5603e9cbac8c2444d6cda6e,7,light_state,TIME|SHOTS,The traffic lights in my lane are green.,1,8,0
+df1a58a1d535e2794d8648715a7c9e3e,eval,94dee4a9b5603e9cbac8c2444d6cda6e,6,counting,TIME|SHOTS,There are 2 cars that I can spot.,0,8,0
+2e25826d3b274f70182bf4fad2c404ce,eval,74f8db8cfd196bdaf188f43e2aba689d,1,why,TIME|EGO|SHOTS,I am currently remaining stopped because the traffic lights to go straight are red.,0,14,0
+d6b58d4f1cbefe25e4d18485dab96e64,eval,74f8db8cfd196bdaf188f43e2aba689d,7,light_state,TIME|LIGHT_ZOOM|SHOTS,"Yes, the traffic signals are displaying green.",1,7,0
+0078d30631c287c02400ee1c66f7a56a,eval,74f8db8cfd196bdaf188f43e2aba689d,5,layout,TIME|SHOTS,"No, the cyclist is not in a dedicated cycle lane.",1,10,0
+6245b4b13d19d715edfb45fde2d1d2c4,eval,74f8db8cfd196bdaf188f43e2aba689d,4,hazard,TIME|SHOTS,"No, there are no roadworks or construction zones that you need to be cautious about.",1,15,0
+e2927ad948b1a832f6880041a732dc2b,eval,74f8db8cfd196bdaf188f43e2aba689d,2,decision,TIME|FAR_ZOOM|EGO|SHOTS,"No, you cannot overtake the cyclist as there is oncoming traffic and a white car approaching in the adjacent lane.",1,20,0
+5d82908d65ce29c3106311be77c5b3bb,eval,0c137e4925941da4553d0ce02ab9c770,2,decision,TIME|EGO|SHOTS,"No, I do not need to come to a stop because the road ahead is clear and there are no immediate obstacles or hazards requiring me to slow down or stop.",1,31,0
+59c71df8b4ea036a2a4ef15b899d5d48,eval,0c137e4925941da4553d0ce02ab9c770,2,decision,TIME|EGO|SHOTS,"No, it is not possible for me to accelerate in this situation because I am currently slowing down.",0,18,1
+5cdae4783763d6472e3619b46cad276b,eval,0c137e4925941da4553d0ce02ab9c770,1,why,TIME|EGO|SHOTS,I am currently decelerating because of the upcoming speedbump on the road ahead.,0,13,0
+d0722f931953c8c76da108d8a5d801b7,eval,0c137e4925941da4553d0ce02ab9c770,2,decision,TIME|FAR_ZOOM|EGO|SHOTS,"No, you cannot overtake the cyclist as there is oncoming traffic and a parked car on the right.",1,18,0
+ab7a6a4b57fe7b7f298b39706e2ee282,eval,0c137e4925941da4553d0ce02ab9c770,5,layout,TIME|SHOTS,"No, there are no vehicles stopped at the zebra crossing.",1,10,0
+5977f6135b136b0924d18d5092a7a10b,eval,b458631e4e946fe134f09a9e979d6347,4,hazard,TIME|SHOTS,There is a pedestrian crossing the road from left to right in front of the car.,1,16,0
+bfa1123c4d0196380e0b95cbb97a1705,eval,b458631e4e946fe134f09a9e979d6347,7,light_state,TIME|LIGHT_ZOOM|SHOTS,The traffic lights are displaying a yellow light.,0,8,0
+d15c3806857a42dbf7d4cdfcd7b4dfdb,eval,b458631e4e946fe134f09a9e979d6347,1,why,TIME|EGO|SHOTS,I am currently decelerating because the traffic lights to go straight are red.,0,13,0
+38c0855d546839314788d610610afe9b,eval,b458631e4e946fe134f09a9e979d6347,4,hazard,TIME|SHOTS,There is a pedestrian crossing the road from left to right in front of the car.,1,16,0
+1bf73a88123495af14d55f1e1be495a3,eval,b458631e4e946fe134f09a9e979d6347,6,counting,TIME|SHOTS,There are no cyclists on the road.,1,7,0
+aaa92c773a111d8f509a09d176d2cdd4,eval,cc0f48b73f7f13adff2113931a41805e,2,decision,TIME|EGO|SHOTS,"No, it is not possible for me to accelerate in this situation because I am currently decelerating.",0,17,0
+1b2e59dd33449c8555a5a1ff932d2b86,eval,cc0f48b73f7f13adff2113931a41805e,6,counting,TIME|SHOTS,There are two pedestrians crossing the road.,1,7,0
+2f73628901788216bd1f44fe6e3c5281,eval,cc0f48b73f7f13adff2113931a41805e,2,decision,TIME|EGO|SHOTS,I am currently remaining stopped because the traffic lights to go straight are red.,1,14,0
+cca2067320e6e3f27155a3615ba02294,eval,cc0f48b73f7f13adff2113931a41805e,6,counting,TIME|SHOTS,There are two cars driving in your direction.,0,8,0
+694c045c22f46472c5a939b678079f21,eval,cc0f48b73f7f13adff2113931a41805e,1,why,TIME|EGO|SHOTS,I am currently decelerating because of the pedestrians crossing the road ahead.,1,12,0
+d8c757f84feaefe78dd4dfd7af4c10c3,eval,79025c008b1da246fedc52de4db9bd75,1,why,TIME|EGO|SHOTS,I am currently accelerating because there is a gap in the traffic behind the car ahead.,1,16,0
+253a714bed254fb45bdf7e7f3d20f05f,eval,79025c008b1da246fedc52de4db9bd75,1,why,TIME|EGO|SHOTS,I am accelerating because there is a gap in the traffic behind the car ahead.,1,15,0
+897c2c3d4fda3517c77fd4fc25b73b5d,eval,79025c008b1da246fedc52de4db9bd75,4,hazard,TIME|SHOTS,"No, there is no obstacle on the road ahead.",1,9,0
+f7da9d63e22b88509d72fbbc969f06d7,eval,79025c008b1da246fedc52de4db9bd75,6,counting,TIME|SHOTS,There are no pedestrians crossing the road ahead.,1,8,0
+833397aa1ce1b1df88ea4da5f165d4cd,eval,79025c008b1da246fedc52de4db9bd75,2,decision,TIME|FAR_ZOOM|EGO|SHOTS,"No, it is not safe to overtake the cyclist ahead to your left because there is oncoming traffic in the opposite lane.",0,22,0
+4dabd5c30d575585c0ee41821524beb7,eval,0ff4996e9ca57453795987c48245dc15,6,counting,TIME|SHOTS,There are no cyclists visible in the image.,1,8,0
+7afb8f932d90f7ed07e82189416451f7,eval,0ff4996e9ca57453795987c48245dc15,9,where,TIME|SHOTS,The truck is parked on the left side of the road.,1,11,0
+85fb761fc64debae7ed3b86881af78b4,eval,0ff4996e9ca57453795987c48245dc15,6,counting,TIME|SHOTS,There are 3 parked cars on the right side of the road.,1,12,0
+1109aa77084d1420cd0a6af1c0347abb,eval,0ff4996e9ca57453795987c48245dc15,1,why,TIME|EGO|SHOTS,I am currently accelerating because there is a gap in the traffic behind the car ahead.,1,16,0
+7b136c6164abf75b282b294ba8d25f24,eval,0ff4996e9ca57453795987c48245dc15,1,why,TIME|EGO|SHOTS,I am encroaching on the lane to my right because there is a large white truck parked on the left side of the road.,1,24,0
+97b900ca565b85ed996e0fbbbee9bd72,eval,a1109658670fb29d13ac113d322c004c,1,why,TIME|EGO|SHOTS,I am accelerating because there is a gap in the traffic behind the car ahead.,0,15,0
+d9d0e72a885fe77a501c801cd159840d,eval,a1109658670fb29d13ac113d322c004c,7,light_state,TIME|SHOTS,The traffic lights are green.,0,5,0
+af7f8c085825f900f2286286a037169a,eval,a1109658670fb29d13ac113d322c004c,5,layout,TIME|SHOTS,The road speed limit is 20 mph.,1,7,0
+939f41613979657ba0d9b5ff35921938,eval,a1109658670fb29d13ac113d322c004c,2,decision,TIME|EGO|SHOTS,"No, you cannot turn right at this intersection because it is a one-way street.",1,14,0
+7c48edc645012bfb983d0861eb58b520,eval,a1109658670fb29d13ac113d322c004c,11,identity,TIME|FAR_ZOOM|SHOTS,"Yes, there is a white van in your lane.",0,9,0
+851075aac237e8e9ff7836acb3c508de,eval,2a469a9042a47e4c68cadfaa7bdb4519,9,where,TIME|SHOTS,"Yes, I see a cyclist on the left side of the road.",1,12,0
+9e734f5dae8528dc78b9738265040a5e,eval,2a469a9042a47e4c68cadfaa7bdb4519,6,counting,TIME|SHOTS,There are 2 parked cars on the left.,0,8,0
+02f75a2261669fc4f359047a4821f5b2,eval,2a469a9042a47e4c68cadfaa7bdb4519,2,decision,TIME|EGO|SHOTS,"No, I am not currently decelerating because the road ahead is clear and I am maintaining a steady speed.",1,19,0
+286303d340118f875838bbb69acf2154,eval,2a469a9042a47e4c68cadfaa7bdb4519,1,why,TIME|EGO|SHOTS,I am currently decelerating because of the upcoming speedbump on the road ahead.,0,13,0
+930adf80d94d1ed3b77bc06adcfba3a3,eval,2a469a9042a47e4c68cadfaa7bdb4519,1,why,TIME|EGO|SHOTS,I am currently decelerating because of the upcoming speedbump on the road ahead.,0,13,0
+c1e914be895642247e13a37d39e37807,eval,55e44f08b5e036f3807756a162e3f66b,2,decision,TIME|EGO|SHOTS,You are positioned correctly to make a right turn at this intersection.,0,12,0
+4ac6247c4f32ace944a930e2c9b02b78,eval,55e44f08b5e036f3807756a162e3f66b,1,why,TIME|EGO|SHOTS,"No, acceleration is not necessary because the car is currently stopped.",1,11,0
+bf310d0e1ab82f67e932eb91ce710e65,eval,55e44f08b5e036f3807756a162e3f66b,1,why,TIME|EGO|SHOTS,I am changing lane to avoid the cyclist on my left.,0,11,0
+0cdc01fff914cdf537dd15c519079c1a,eval,55e44f08b5e036f3807756a162e3f66b,3,own_action,TIME|FAR_ZOOM|EGO|SHOTS,I am currently remaining stopped because the cyclist is in the lane.,0,12,0
+f251873af27c4ffd11ba636e3da5ea91,eval,55e44f08b5e036f3807756a162e3f66b,1,why,TIME|EGO|SHOTS,I am remaining stopped because the traffic lights to go straight are red.,0,13,0
+a6147b622c3069a2d19e3403f15cb635,eval,45b587bf54ee9db25085eb483cac242e,2,decision,TIME|EGO|SHOTS,You should decelerate and steer slightly left to maintain a safe distance from the pedestrian crossing ahead.,0,17,0
+78a29a7f0a2eb83b175d80dd126d8189,eval,45b587bf54ee9db25085eb483cac242e,7,light_state,TIME|LIGHT_ZOOM|SHOTS,The traffic lights at this intersection are red.,0,8,0
+384b8bb84bde90ecff036c4103ea0d45,eval,45b587bf54ee9db25085eb483cac242e,8,presence,TIME|FAR_ZOOM|SHOTS,"Yes, there is a bicycle on the road.",1,8,0
+4908f70f6ee523137b239826ff77c17a,eval,45b587bf54ee9db25085eb483cac242e,8,presence,TIME|FAR_ZOOM|SHOTS,"No, there is no vehicle ahead of me in my lane.",1,11,0
+ce5d052b9d74b9c0a7582c63172c20ea,eval,45b587bf54ee9db25085eb483cac242e,1,why,TIME|EGO|SHOTS,I am currently remaining stopped because the traffic lights to go straight are red.,0,14,0
+b68adb6171e7f8c0cb818b319bd5edcf,eval,f91e7de2b6dbd5cae22565b37cead317,1,why,TIME|SHOTS,The traffic lights to go straight are red.,1,8,0
+727a574704a82ac4b90e7a64cad2172f,eval,f91e7de2b6dbd5cae22565b37cead317,7,light_state,TIME|LIGHT_ZOOM|SHOTS,"Yes, there are traffic lights showing red.",0,7,0
+2a58e163bcfdbc7e388c07bd3e8c4223,eval,f91e7de2b6dbd5cae22565b37cead317,5,layout,TIME|SHOTS,"No, you are not legally allowed to make a right turn at this intersection because the traffic lights are red.",1,20,0
+4c3134425c5def0082294f6b1fff0812,eval,f91e7de2b6dbd5cae22565b37cead317,1,why,TIME|SHOTS,I am remaining stopped because the traffic lights to go straight are red.,1,13,0
+9a582c7388980d2f7ecf2f56f83a9a85,eval,f91e7de2b6dbd5cae22565b37cead317,4,hazard,TIME|SHOTS,Pay attention to the red lights ahead and the cyclists on your left.,1,13,0
+5b772c60606538fc43fa3bc71a92031c,eval,8f3964238bb3d551e806cb73f2182835,7,light_state,TIME|SHOTS,"Yes, there are traffic signals present displaying red, amber, and green lights.",1,12,0
+cf261542083d4f270e2438e85838e947,eval,8f3964238bb3d551e806cb73f2182835,8,presence,TIME|FAR_ZOOM|SHOTS,"No, I cannot see any scooterist in this image.",1,9,0
+f3053c1b323bb29af1af33e8b9ed758d,eval,8f3964238bb3d551e806cb73f2182835,2,decision,TIME|EGO|SHOTS,"No, I should not yield to any vehicle when going straight at this intersection.",1,14,1
+0d5fbb5197af15189455c9da13703355,eval,8f3964238bb3d551e806cb73f2182835,8,presence,TIME|FAR_ZOOM|SHOTS,The car is not currently obstructed from advancing as the traffic light is green.,1,14,0
+6a2ba143b62ea899de7c14bdc0a4a008,eval,8f3964238bb3d551e806cb73f2182835,1,why,TIME|EGO|SHOTS,I am currently accelerating because there is a gap in the traffic behind the car ahead.,1,16,0
+7896bb8c4686530f2c4187d98b469dfc,eval,9a4487ea65f5fc2dd9afccc5bfa5d329,11,identity,TIME|FAR_ZOOM|SHOTS,There are two cyclists in front of me.,1,8,0
+89918d7da49fc8db86d1ed0d9a50dc00,eval,9a4487ea65f5fc2dd9afccc5bfa5d329,2,decision,TIME|EGO|SHOTS,"No, you cannot drive in the lane to your left because it is occupied by a cyclist.",0,17,0
+bba7c9c63c861db20763e8657e1813bf,eval,9a4487ea65f5fc2dd9afccc5bfa5d329,6,counting,TIME|SHOTS,There are 3 cyclists visible in the image.,0,8,0
+7533fa42979712a649effab20e444217,eval,9a4487ea65f5fc2dd9afccc5bfa5d329,1,why,TIME|EGO|SHOTS,I am currently decelerating because of the upcoming speedbump on the road ahead.,0,13,0
+12cbc435b94b93f32039174dd1e9289c,eval,9a4487ea65f5fc2dd9afccc5bfa5d329,10,others_motion,TIME|FAR_ZOOM|SHOTS,"No, there are no pedestrians crossing the road.",1,8,0
+2a79edf9e2d8bbb29c155213f4986b76,eval,98e18cab2229850a8ad6a4bec157a454,9,where,TIME|SHOTS,"Yes, there is a designated cycle lane on the left side of the road.",0,14,0
+c45355cdef40dd8f2fcc39289e9f5811,eval,98e18cab2229850a8ad6a4bec157a454,8,presence,TIME|FAR_ZOOM|SHOTS,"Yes, there is a silver car parked on the side of the road.",1,13,0
+8cd08f045c1057cbf15b0a506b4c79d0,eval,98e18cab2229850a8ad6a4bec157a454,2,decision,TIME|EGO|SHOTS,"No, it is not safe to increase your speed because there is a cyclist ahead of you in the same lane.",1,21,0
+63192f9d4ae12019bacf2d604baa575d,eval,98e18cab2229850a8ad6a4bec157a454,1,why,TIME|EGO|SHOTS,I am currently remaining stopped because the bus stop ahead is occupied by a cyclist.,0,15,0
+f3bff88e92269abd94944b52902ca1a0,eval,98e18cab2229850a8ad6a4bec157a454,11,identity,TIME|FAR_ZOOM|SHOTS,"Yes, there is a cyclist in your lane.",1,8,0
+a2c79df618c746c6817ab88f7849d337,eval,8b1eaed55ac89d3fd98ca9a00d3b29a3,10,others_motion,TIME|FAR_ZOOM|SHOTS,"No, there are no pedestrians crossing at the intersection.",0,9,0
+d76b908d588dfda91643627a43ce612c,eval,8b1eaed55ac89d3fd98ca9a00d3b29a3,8,presence,TIME|FAR_ZOOM|SHOTS,I should yield to pedestrians who are crossing the zebra crossing ahead.,0,12,0
+fb4ebd361ae3e0d31640dea28a5f020b,eval,8b1eaed55ac89d3fd98ca9a00d3b29a3,7,light_state,TIME|LIGHT_ZOOM|SHOTS,The traffic light is red.,0,5,0
+584cc9baeabb35ebd2dd6e70587520f3,eval,8b1eaed55ac89d3fd98ca9a00d3b29a3,2,decision,TIME|EGO|SHOTS,"No, it is not safe to move forward because there are pedestrians crossing the road at the zebra crossing ahead.",1,20,0
+cea56e07fa3cee3af5092a5beb284440,eval,8b1eaed55ac89d3fd98ca9a00d3b29a3,1,why,TIME|EGO|SHOTS,I am currently accelerating because there is a gap in the traffic behind the car ahead.,0,16,0
+9510501944e3e66a68a20c17ccb7515e,eval,ddabf1e10d3aa1c5eeee62063fccf692,6,counting,TIME|SHOTS,There are two parked cars on the right.,1,8,0
+53324fa409242a955d8d6aa808a02c51,eval,ddabf1e10d3aa1c5eeee62063fccf692,1,why,TIME|EGO|SHOTS,I am currently remaining stopped because the traffic lights to go straight are red.,0,14,0
+725f7f9f5e3d404cda56dca486a464fb,eval,ddabf1e10d3aa1c5eeee62063fccf692,2,decision,TIME|EGO|SHOTS,"No, it is not safe to overtake the bus because there is a cyclist and a parked car on the left.",0,21,0
+a246fe8c8025484318f3f8c9b05bba32,eval,ddabf1e10d3aa1c5eeee62063fccf692,1,why,TIME|EGO|SHOTS,I am currently remaining stopped because the traffic lights to go straight are red.,0,14,0
+a73d886fcdb50a5925dd00116369bb9a,eval,ddabf1e10d3aa1c5eeee62063fccf692,6,counting,TIME|SHOTS,There are two parked cars on the left.,0,8,0
+ca0ca03abf47164bed3b23a283ab011f,eval,69de30a10f550407d84c778f9ae9570c,8,presence,TIME|FAR_ZOOM|SHOTS,"No, there is no designated lane for cyclists.",0,8,0
+8d3982682d773428ca71a414e730336c,eval,69de30a10f550407d84c778f9ae9570c,1,why,TIME|EGO|SHOTS,I am currently remaining stopped because the traffic lights to go straight are red.,0,14,0
+572fb3b36846630180c258c2806824ed,eval,69de30a10f550407d84c778f9ae9570c,2,decision,TIME|EGO|SHOTS,"No, you are not permitted to make a right turn at this specific location.",1,14,0
+2986cd44aae556ea1f686cdb5cc40ba4,eval,69de30a10f550407d84c778f9ae9570c,7,light_state,TIME|LIGHT_ZOOM|SHOTS,The traffic light is exhibiting a green color.,1,8,0
+0a551fcd11e0ea60b295b39a35b45581,eval,69de30a10f550407d84c778f9ae9570c,2,decision,TIME|EGO|SHOTS,"No, the road is not clear for you to accelerate because there is a large van directly in front of you.",1,21,0
+3fae31163415c57fb6e517595a957cfc,eval,a51fb9e029890062f7c86d581cbd96a2,5,layout,TIME|SHOTS,"No, there are no zebra or pedestrian crossings ahead.",0,9,0
+913270906dfdc500d425673fe1522571,eval,a51fb9e029890062f7c86d581cbd96a2,7,light_state,TIME|LIGHT_ZOOM|SHOTS,The traffic lights are red.,1,5,0
+56dbeffcb94b648ea66836a200bbbf5a,eval,a51fb9e029890062f7c86d581cbd96a2,8,presence,TIME|FAR_ZOOM|SHOTS,"Yes, there is a white van parked on the left side of the road.",1,14,0
+1d3758cf9d8113d81ad36a08627a62de,eval,a51fb9e029890062f7c86d581cbd96a2,1,why,TIME|EGO|SHOTS,I am currently decelerating because of the upcoming speedbump on the road ahead.,1,13,0
+8c86ebf0532a0141c96f7e8fbdc5bd1d,eval,a51fb9e029890062f7c86d581cbd96a2,8,presence,TIME|FAR_ZOOM|SHOTS,"No, there are no parked cars on the right of the road.",1,12,0
+1a92080cdf89ee77fa90a8e60eb66eb4,eval,6cc9407bedea610b5abe5cc012d5fdff,2,decision,TIME|SHOTS,"No, I should not yield to a vehicle at this intersection because the traffic lights are red.",0,17,0
+634771581e7cb1ef58b3260ffefeafe7,eval,6cc9407bedea610b5abe5cc012d5fdff,10,others_motion,TIME|FAR_ZOOM|SHOTS,"Yes, there is a pedestrian about to cross the road.",0,10,0
+a0ca15ad5d7340d7295a00f9ec779383,eval,6cc9407bedea610b5abe5cc012d5fdff,2,decision,TIME|SHOTS,"Yes, I can accelerate because the road ahead is clear and there are no immediate obstacles or hazards.",0,18,0
+2f05075cb2bc15e9ce24f33cd283e118,eval,6cc9407bedea610b5abe5cc012d5fdff,5,layout,TIME|SHOTS,"No, there are no vehicles stopped at the zebra crossing.",1,10,0
+7c15ceaf17dc1544aa74cadd7278f805,eval,6cc9407bedea610b5abe5cc012d5fdff,1,why,TIME|SHOTS,I am remaining stopped because the traffic lights to go straight are red.,0,13,0
+39160422348fc9229c099a9387a3ae72,eval,f294651150b7727859aaf5d0e3ab9f2e,6,counting,TIME|SHOTS,There are no cyclists in your lane.,1,7,0
+407a4f3181b4fc9de66c6d562585cf52,eval,f294651150b7727859aaf5d0e3ab9f2e,1,why,TIME|EGO|SHOTS,I am accelerating because there is a gap in the traffic behind the car ahead.,1,15,0
+e30803864b227b90c3eb8f8206b284c9,eval,f294651150b7727859aaf5d0e3ab9f2e,11,identity,TIME|FAR_ZOOM|SHOTS,The vehicle in front of me is a red car.,0,10,0
+256aa7e4df5c7ba590d75d2551e40c50,eval,f294651150b7727859aaf5d0e3ab9f2e,7,light_state,TIME|LIGHT_ZOOM|SHOTS,"Yes, there are traffic lights present and they are green.",1,10,0
+eba6cfb98741ef9272117aae149cd630,eval,f294651150b7727859aaf5d0e3ab9f2e,6,counting,TIME|SHOTS,There are two motorcyclists visible in the video frames.,0,9,0
+27b12300b11789fe239e613d952ffffc,eval,fee75bebc1fae19b92ee5fd77e6eecb7,1,why,TIME|EGO|SHOTS,I am currently decelerating because of the upcoming speedbump on the road ahead.,1,13,0
+0697de3bf28c992032793ece0210a09e,eval,fee75bebc1fae19b92ee5fd77e6eecb7,2,decision,TIME|EGO|SHOTS,"Yes, it is safe to enter the intersection because the traffic lights are green.",1,14,0
+f118b0e1e3a60e232ef7cb27fc7dbe77,eval,fee75bebc1fae19b92ee5fd77e6eecb7,4,hazard,TIME|SHOTS,The white van ahead and the traffic lights.,1,8,0
+927db61671b1c3299eb7326a66ff2ffb,eval,fee75bebc1fae19b92ee5fd77e6eecb7,7,light_state,TIME|SHOTS,"Yes, there are visible traffic signals at this intersection, and they are green.",1,13,0
+366c7228e270ca50f4f6f3e2beeb845e,eval,fee75bebc1fae19b92ee5fd77e6eecb7,8,presence,TIME|FAR_ZOOM|SHOTS,"No, there are no construction zones or work zones visible in the provided frames.",1,14,0
+19afb4fbc9846e4e5c87b1206968e349,eval,788192e7d185b1f0071c0a096f17ff19,9,where,TIME|SHOTS,The bus is driving in the opposite lane to the right of the camera car.,1,15,0
+54ecc7607a621c0160d8818700515cb4,eval,788192e7d185b1f0071c0a096f17ff19,6,counting,TIME|SHOTS,There are 3 motorcyclists visible in the image.,0,8,0
+dc24b2bc54578bd6fe99bd108ef3bd07,eval,788192e7d185b1f0071c0a096f17ff19,6,counting,TIME|SHOTS,There are 2 pedestrians crossing the road.,0,7,0
+b016cd9613ef6b86d34fc4f4c513f076,eval,788192e7d185b1f0071c0a096f17ff19,6,counting,TIME|SHOTS,I can see one truck.,0,5,0
+ae792d86dcb9ce2b204ae8b45aaf59a8,eval,788192e7d185b1f0071c0a096f17ff19,1,why,TIME|EGO|SHOTS,I am currently remaining stopped because the traffic lights to go straight are red.,0,14,0
+c11246d24fb56e38317207f69c3ab29e,eval,59be3cde639a4f1f56fd581647861cc7,8,presence,TIME|FAR_ZOOM|SHOTS,"Yes, there is a cyclist in your lane.",1,8,0
+bf94e8fd2f2c4355348fa25e66b19756,eval,59be3cde639a4f1f56fd581647861cc7,1,why,TIME|EGO|SHOTS,I am currently decelerating because of the upcoming speedbump on the road ahead.,0,13,0
+2aa1b2b2f6401389be74a2f1350c490d,eval,59be3cde639a4f1f56fd581647861cc7,2,decision,TIME|FAR_ZOOM|EGO|SHOTS,"No, it is not safe to overtake the cyclist because there is oncoming traffic and a pedestrian crossing the road.",0,20,0
+9c491275d20187ff0b059bed6905988c,eval,59be3cde639a4f1f56fd581647861cc7,8,presence,TIME|FAR_ZOOM|SHOTS,"No, there is no oncoming traffic.",0,6,0
+cc50291eed4caae307bebdf102c44afc,eval,59be3cde639a4f1f56fd581647861cc7,6,counting,TIME|SHOTS,There are two cyclists.,0,4,0
+975864cf21b9aa77c4653e4828215289,eval,b5e17d77ec428f982132bf4a2badac0e,2,decision,TIME|EGO|SHOTS,You are positioned correctly to make a left turn at this intersection.,1,12,0
+8f141fcd541653d8629e8217d7adabf7,eval,b5e17d77ec428f982132bf4a2badac0e,2,decision,TIME|EGO|SHOTS,You are positioned correctly to make a right turn at this intersection.,0,12,0
+9df3aa5f2b2107066a76573293dd1ae5,eval,b5e17d77ec428f982132bf4a2badac0e,1,why,TIME|EGO|SHOTS,I am changing lane to avoid the oncoming traffic.,1,9,0
+0f3c9f993c64ea0780dacf473b0afe1f,eval,b5e17d77ec428f982132bf4a2badac0e,7,light_state,TIME|LIGHT_ZOOM|SHOTS,The traffic light is displaying green.,1,6,0
+e1c305f595001df6897858a27744d0d7,eval,b5e17d77ec428f982132bf4a2badac0e,1,why,TIME|EGO|SHOTS,I am currently decelerating because of the upcoming speedbump on the road ahead.,0,13,0
+6474894fd410b339a0cf6e5c9e3e7ecd,eval,63ffb065cf9859665335ab371b593f41,4,hazard,TIME|SHOTS,Focus your attention on the pedestrian crossing the road ahead.,1,10,0
+b49d53e5eb4f9c10ec449cb976f0f7be,eval,63ffb065cf9859665335ab371b593f41,2,decision,TIME|EGO|SHOTS,"No, I am not stopping because the traffic lights to go straight are green.",1,14,0
+7c3c2457cc5d907903fd6dff0d46e7c3,eval,63ffb065cf9859665335ab371b593f41,1,why,TIME|EGO|SHOTS,I am currently remaining stopped because the traffic lights to go straight are red.,0,14,0
+036f4fddcb253239788dbe6081892c1c,eval,63ffb065cf9859665335ab371b593f41,11,identity,TIME|FAR_ZOOM|SHOTS,"No, your lane currently has no traffic.",1,7,0
+29b8ed6f8b37ac1d5c64ebfac0c9ae8b,eval,63ffb065cf9859665335ab371b593f41,7,light_state,TIME|LIGHT_ZOOM|SHOTS,The traffic lights are green.,1,5,0
+238d5ea575e17822705dad8c5b59021c,eval,88005f114b4afb9e1c9e30c022a1ff6d,1,why,TIME|EGO|SHOTS,I am accelerating because there is a gap in the traffic behind the car ahead.,1,15,0
+e112200f413873290c3270226fb0e3ec,eval,88005f114b4afb9e1c9e30c022a1ff6d,5,layout,TIME|SHOTS,"No, I do not have the priority to go right at this intersection.",1,13,0
+9061ed413e6316d30006a164bf5b3033,eval,88005f114b4afb9e1c9e30c022a1ff6d,5,layout,TIME|SHOTS,"No, I do not have the priority to go straight at this intersection.",0,13,0
+d7a75b368584cc21607aa8b8b4542b79,eval,88005f114b4afb9e1c9e30c022a1ff6d,10,others_motion,TIME|FAR_ZOOM|SHOTS,"No, the pedestrian is not crossing your lane.",1,8,0
+01b047b2c93e93b77576fdc847ee6ec7,eval,88005f114b4afb9e1c9e30c022a1ff6d,1,why,TIME|EGO|SHOTS,I am accelerating because there is a gap in the traffic behind the car ahead.,1,15,0
+3d936626b4f5b2c0b1e6b9430e8aa938,eval,a96c0d9c0c0dae3a6b27e56e983f817d,12,scene_other,TIME|SHOTS,I am currently accelerating because the traffic lights to go straight are green.,1,13,0
+dedc20d5163050b406429bde89987631,eval,a96c0d9c0c0dae3a6b27e56e983f817d,8,presence,TIME|FAR_ZOOM|SHOTS,"No, there are no cyclists in this image.",1,8,0
+8b421650148734837b8ae3d275695b5c,eval,a96c0d9c0c0dae3a6b27e56e983f817d,10,others_motion,TIME|FAR_ZOOM|SHOTS,"No, there are no pedestrians crossing the road ahead.",1,9,0
+53658dbbb0569f62973eede3b02c21b0,eval,a96c0d9c0c0dae3a6b27e56e983f817d,3,own_action,TIME|EGO|SHOTS,"No, I am not following any vehicle at this intersection.",1,10,0
+316f75ad14520f6fdd7e5a1962c563e7,eval,a96c0d9c0c0dae3a6b27e56e983f817d,1,why,TIME|EGO|SHOTS,I am currently decelerating because of the upcoming speedbump on the road ahead.,0,13,0
+c6d81aed3d50ebbacba5557a1db8fc2e,eval,5c95f9353d8c4c8a3b111fc91c8b9c2b,7,light_state,TIME|LIGHT_ZOOM|SHOTS,"Yes, there is a traffic light on this road displaying green.",0,11,0
+f501eedae7fa6688868f10ee295fada7,eval,5c95f9353d8c4c8a3b111fc91c8b9c2b,1,why,TIME|EGO|SHOTS,I am accelerating because there is a gap in the traffic behind the car ahead.,1,15,0
+637556824882ea9b2fb294fd3d8abb68,eval,5c95f9353d8c4c8a3b111fc91c8b9c2b,10,others_motion,TIME|FAR_ZOOM|SHOTS,"No, there are no pedestrians waiting to cross the road.",1,10,0
+7e1141768958858d1a6e8631fed4c9c7,eval,5c95f9353d8c4c8a3b111fc91c8b9c2b,2,decision,TIME|EGO|SHOTS,I am currently remaining stopped because the traffic lights to go straight are red.,0,14,0
+d92576c695349577f7149df7a6210bc2,eval,5c95f9353d8c4c8a3b111fc91c8b9c2b,1,why,TIME|EGO|SHOTS,The traffic lights to go straight are green.,1,8,0
+bd0198568c49a38f844fb0eb8cc6966e,eval,c6d32ceb5dc0f07b80646e9d629126a2,4,hazard,TIME|SHOTS,"No, there is no obstacle preventing me from continuing straight.",0,10,0
+04738557fefe2ff778dd87389fc271d5,eval,c6d32ceb5dc0f07b80646e9d629126a2,1,why,TIME|EGO|SHOTS,I am accelerating because there is a gap in the traffic behind the car ahead.,0,15,0
+2dde03094222767805953e7ed4ce0233,eval,c6d32ceb5dc0f07b80646e9d629126a2,2,decision,TIME|EGO|SHOTS,"No, you should not maintain your speed because the car ahead is slowing down.",1,14,1
+8ba77a2a3b6d80b8ae103d080c600eaa,eval,c6d32ceb5dc0f07b80646e9d629126a2,4,hazard,TIME|SHOTS,There is a silver car crossing the intersection from left to right.,1,12,0
+45c99db931b643a8a4b2b4eebc6dd989,eval,c6d32ceb5dc0f07b80646e9d629126a2,6,counting,TIME|SHOTS,There are no pedestrians crossing the road.,1,7,0
+46c0844d700b8b68c40e20a22b2d5a95,eval,827bde02296744ffb57736407065478d,1,why,TIME|EGO|SHOTS,"No, acceleration is not necessary because the car is already moving straight ahead.",0,13,0
+95731d957be2d132c4123b48b0594fed,eval,827bde02296744ffb57736407065478d,1,why,TIME|EGO|SHOTS,I am currently remaining stopped because the traffic lights to go straight are red.,0,14,0
+2150b4cfd0b73bdd17c567969d61e160,eval,827bde02296744ffb57736407065478d,2,decision,TIME|EGO|SHOTS,"No, I do not need to come to a stop because the road ahead is clear and there are no immediate obstacles or traffic signals requiring me to halt.",0,29,0
+a8fe57df7c7d75f92e0bbabbcadda138,eval,827bde02296744ffb57736407065478d,9,where,TIME|SHOTS,The right car is driving in the right lane.,1,9,0
+c5ac4d2afce8ea0022449e91771a40c4,eval,827bde02296744ffb57736407065478d,9,where,TIME|SHOTS,"Yes, there is a cyclist positioned on the left side of the road, riding near the curb.",1,17,0
+7891ec8a7e130ffa4d0fa474233f8dea,eval,f376bb31c1f1f01cb9aa5c2887800ab1,1,why,TIME|EGO|SHOTS,"No, I am currently remaining stopped because the traffic lights to go straight are red.",0,15,0
+bf0783395499abf85617c3ee3571e8e7,eval,f376bb31c1f1f01cb9aa5c2887800ab1,6,counting,TIME|SHOTS,I spot 1 parked car.,0,5,0
+0641f041cb81f100b1df6b5397b54a35,eval,f376bb31c1f1f01cb9aa5c2887800ab1,5,layout,TIME|SHOTS,"Yes, I am well positioned to go straight at this intersection.",1,11,0
+ee7f818e647f5d35fca82359eb9e34f9,eval,f376bb31c1f1f01cb9aa5c2887800ab1,1,why,TIME|EGO|SHOTS,I am currently remaining stopped because the traffic lights to go straight are red.,0,14,0
+96185b5129d7d9f124e0728aea963273,eval,f376bb31c1f1f01cb9aa5c2887800ab1,1,why,TIME|EGO|SHOTS,I am currently remaining stopped because the traffic lights to go straight are red.,0,14,0
+ce601417a900b9c74b75c31900a9f9ab,eval,9a000079e1504260d6dd29af9dc16e0d,2,decision,TIME|EGO|SHOTS,"No, I cannot turn right because there is oncoming traffic in the right lane.",1,14,0
+776536a5e054161234ad5e4acfebfe85,eval,9a000079e1504260d6dd29af9dc16e0d,6,counting,TIME|SHOTS,There are no pedestrians crossing the road.,1,7,0
+2adafffe72e30b3136ca49dbab7f3e39,eval,9a000079e1504260d6dd29af9dc16e0d,1,why,TIME|EGO|SHOTS,I am accelerating because there is a gap in the traffic behind the car ahead.,0,15,0
+e9931e8cd34d466b5e26778d9abc78fd,eval,9a000079e1504260d6dd29af9dc16e0d,4,hazard,TIME|SHOTS,There is no immediate hazard on the road ahead.,1,9,0
+b5ecda4d95fe4f359ce8103b60d6779f,eval,9a000079e1504260d6dd29af9dc16e0d,2,decision,TIME|EGO|SHOTS,"No, I am not stopping because there is a gap in the traffic behind the car ahead.",1,17,0
+07bf78706413664d71743c8b9d4ca404,eval,852232e46c71d346dcb9f223647c0970,11,identity,TIME|FAR_ZOOM|SHOTS,I am currently following a silver car.,1,7,0
+49c34b09ef44820a8234bc36f0196f5e,eval,852232e46c71d346dcb9f223647c0970,7,light_state,TIME|SHOTS,The traffic light on the left is green.,1,8,0
+af303069946ee56fc8488617d94021d2,eval,852232e46c71d346dcb9f223647c0970,2,decision,TIME|EGO|SHOTS,"No, I do not need to come to a stop because the traffic lights ahead are green.",1,17,0
+824c826a271ee4c42f9892831347675d,eval,852232e46c71d346dcb9f223647c0970,6,counting,TIME|SHOTS,There are no cars parked on the street.,1,8,0
+0adc3c3547a46f7b95446d1557f053bc,eval,852232e46c71d346dcb9f223647c0970,1,why,TIME|EGO|SHOTS,I am currently remaining stopped because the traffic lights to go straight are red.,0,14,0
+7245ae50057da0b86221c77dcf8d5cbf,eval,0f7cf6230ae33421d7d3e30dad38d53e,6,counting,TIME|SHOTS,There are no cyclists visible in the provided frames.,1,9,0
+d1b2267b89b1c7b0ff1aa9fa76cb5599,eval,0f7cf6230ae33421d7d3e30dad38d53e,1,why,TIME|EGO|SHOTS,I am currently remaining stopped because there is a pedestrian crossing ahead.,0,12,0
+3a6a409dc72a414de0faefb2102d5aff,eval,0f7cf6230ae33421d7d3e30dad38d53e,10,others_motion,TIME|SHOTS,"No, there is no vehicle coming from the right at this intersection.",1,12,0
+cab24eb6cae8d40eb27d800b4db85e49,eval,0f7cf6230ae33421d7d3e30dad38d53e,10,others_motion,TIME|SHOTS,"No, there is no vehicle coming from the left at this intersection.",1,12,0
+3a7ed41d2958a97b7e863f0b450fb4ea,eval,0f7cf6230ae33421d7d3e30dad38d53e,6,counting,TIME|SHOTS,"Yes, there are two pedestrians crossing the road.",0,8,0
+8ea8696d812d8fce75d9f7b9daf0aed9,eval,42b2150188e97e7c4d7d790b670f1f74,7,light_state,TIME|LIGHT_ZOOM|SHOTS,"Yes, there are traffic lights present at this intersection and they are displaying green.",1,14,0
+df022043895362b47a3ddf1f9cacd5f7,eval,42b2150188e97e7c4d7d790b670f1f74,11,identity,TIME|FAR_ZOOM|SHOTS,I am following a red SUV.,1,6,0
+2a794ab7f01f9e1e6ca64c66374c913e,eval,42b2150188e97e7c4d7d790b670f1f74,1,why,TIME|EGO|SHOTS,I am accelerating because there is a gap in the traffic behind the car ahead.,1,15,0
+b9ac9d38a50d40a41bfdabafdd52a16b,eval,42b2150188e97e7c4d7d790b670f1f74,2,decision,TIME|EGO|SHOTS,"Yes, I am accelerating because there is a gap in the traffic behind the car ahead.",1,16,0
+de3e3d226810b84184907befb8bb0b03,eval,42b2150188e97e7c4d7d790b670f1f74,2,decision,TIME|FAR_ZOOM|EGO|SHOTS,"No, I am not currently yielding to pedestrians crossing the road as they are not in my path.",1,18,0
+e4785d314c75acd4c0e4fdac11d88965,eval,aba3a80f88924404e7aeca071167920d,10,others_motion,TIME|FAR_ZOOM|SHOTS,"Yes, there are pedestrians crossing the road.",1,7,0
+e4c979d5547a545ced6cd2e994c09be4,eval,aba3a80f88924404e7aeca071167920d,2,decision,TIME|EGO|SHOTS,I am currently decelerating because of the upcoming speedbump on the road ahead.,0,13,0
+ec3afe791f20e0849b4e39dfbed4446d,eval,aba3a80f88924404e7aeca071167920d,7,light_state,TIME|LIGHT_ZOOM|SHOTS,"Yes, there are traffic lights present at this intersection and they are displaying yellow.",1,14,0
+dcaf52d3b0ceb4767a532e669efef0f3,eval,aba3a80f88924404e7aeca071167920d,2,decision,TIME|EGO|SHOTS,"No, I should not enter this intersection because the traffic lights to go straight are red.",0,16,0
+44755875feb3af0406b1eda77f6c61f5,eval,aba3a80f88924404e7aeca071167920d,1,why,TIME|EGO|SHOTS,I am currently decelerating because the traffic lights to go straight are red.,0,13,0
+d28f7c3d7f6dbb04834f0fe00cc82900,eval,6fcc62c8231450608cddba5a8e4193cd,2,decision,TIME|EGO|SHOTS,You should accelerate to match the speed of the silver car ahead and maintain your current lane position as there is no immediate obstacle or traffic to navigate around.,0,29,0
+211a7a5b9cc9322686cd65293a7159df,eval,6fcc62c8231450608cddba5a8e4193cd,6,counting,TIME|SHOTS,There are 10 parked vehicles on this street.,0,8,0
+fae4d2d17f674d74a99be650d195c48d,eval,6fcc62c8231450608cddba5a8e4193cd,8,presence,TIME|FAR_ZOOM|SHOTS,"No, there are no motorbikes on the road.",1,8,0
+4e0334f74f376671b5e4f92e448e88c8,eval,6fcc62c8231450608cddba5a8e4193cd,8,presence,TIME|FAR_ZOOM|SHOTS,"No, there are no trucks visible in this image.",1,9,0
+c9308ea1b5bd9f1d92d2ede681e54ad9,eval,6fcc62c8231450608cddba5a8e4193cd,1,why,TIME|EGO|SHOTS,I am currently accelerating because there is a gap in the traffic behind the car ahead.,0,16,0
+10a7bd5799404bd96e7281383457cff2,eval,cea4263f7822855aab6ef0c1263712bf,8,presence,TIME|FAR_ZOOM|SHOTS,"No, there are no pedestrians waiting at a pedestrian crossing.",1,10,0
+08215e84afb69324eff6b9b9450ed095,eval,cea4263f7822855aab6ef0c1263712bf,9,where,TIME|SHOTS,"No, there are no buses in this image.",1,8,0
+ae38c2927826425477ffbd18e118697b,eval,cea4263f7822855aab6ef0c1263712bf,12,scene_other,TIME|SHOTS,I am currently remaining stopped because the traffic lights to go straight are red.,0,14,0
+9f6a0ced25a31985e5b7ca349be76083,eval,cea4263f7822855aab6ef0c1263712bf,9,where,TIME|SHOTS,"Yes, I see two cyclists ahead of me in the left lane.",1,12,0
+2dac9cac1010392ede621d4c26f37cd0,eval,cea4263f7822855aab6ef0c1263712bf,1,why,TIME|EGO|SHOTS,I am accelerating because there is a gap in the traffic behind the car ahead.,0,15,0
+dd87c2fa13d98f7569213f2748f7cbbc,eval,23528c8f688e6b12a1cbc084d4962ef0,12,scene_other,TIME|SHOTS,"No, the cyclist is in the left lane.",1,8,0
+34d8b809ed6dd0e287875d37fcebf740,eval,23528c8f688e6b12a1cbc084d4962ef0,1,why,TIME|EGO|SHOTS,I am currently remaining stopped because the traffic lights to go straight are red.,0,14,0
+c4edb8ff06a305f4ee1adfe7f13ccb0e,eval,23528c8f688e6b12a1cbc084d4962ef0,6,counting,TIME|SHOTS,There are two cyclists on the road.,0,7,0
+20a51654bc53a91f9d8c0fc949d35d0c,eval,23528c8f688e6b12a1cbc084d4962ef0,2,decision,TIME|EGO|SHOTS,I am currently decelerating because of the approaching cyclist on the left.,1,12,0
+da059647f902f62a56c8c1fa3e828250,eval,23528c8f688e6b12a1cbc084d4962ef0,4,hazard,TIME|SHOTS,There is a cyclist in the left lane ahead.,0,9,0
+3460fa1ef6a878d69f96bbb4e230b6ae,eval,a55026aa4029fd3db4f6738006a50675,9,where,TIME|SHOTS,"Yes, I see a cyclist ahead of me on the road.",1,11,0
+0b1b671f378e31f1be98c5c3cb58dbfd,eval,a55026aa4029fd3db4f6738006a50675,1,why,TIME|EGO|SHOTS,I am accelerating because there is a gap in the traffic behind the car ahead.,0,15,0
+1aa98d4d5d3a315514b97565d68345d0,eval,a55026aa4029fd3db4f6738006a50675,8,presence,TIME|FAR_ZOOM|SHOTS,"Yes, there is a bicycle on the road.",1,8,0
+46f7614db510295b7ef72701593bb316,eval,a55026aa4029fd3db4f6738006a50675,11,identity,TIME|FAR_ZOOM|SHOTS,"Yes, there is traffic in your lane, consisting of a cyclist and a car.",1,14,0
+d7e9cbf3cf289bce6ab469b35006e619,eval,a55026aa4029fd3db4f6738006a50675,2,decision,TIME|EGO|SHOTS,"No, I am not currently starting, stopping, or remaining stopped, and why?",1,12,0
+e054322a5e846bf3412a81d0dc4b1d16,eval,04c64714f8a1bf28da156721ed7eff32,6,counting,TIME|SHOTS,There are 3 pedestrians present in this image.,0,8,0
+2db5e27f614f7acb0e50cdf31dbdfd1b,eval,04c64714f8a1bf28da156721ed7eff32,1,why,TIME|EGO|SHOTS,I am currently remaining stopped because the traffic lights to go straight are red.,0,14,0
+57eb80c815f383c27976c412a974d419,eval,04c64714f8a1bf28da156721ed7eff32,8,presence,TIME|FAR_ZOOM|SHOTS,"No, there is no traffic currently in my lane.",0,9,0
+dde386d56fd1447cea69f8e8945651b6,eval,04c64714f8a1bf28da156721ed7eff32,9,where,TIME|SHOTS,"No, I do not observe any cyclists on the road.",1,10,0
+aaf2776b95c07e8d7be7ed9b17fc47ea,eval,04c64714f8a1bf28da156721ed7eff32,1,why,TIME|EGO|SHOTS,I am remaining stopped because the traffic lights to go straight are red.,0,13,0
+6f80aa6acd407baec0356cf02eef2f5f,eval,16ac40a0f73c04115c5ab188d7922491,7,light_state,TIME|LIGHT_ZOOM|SHOTS,"Yes, there are traffic signals and they are displaying green.",0,10,0
+f7fde130793719c8afd5e8de7c2a1669,eval,16ac40a0f73c04115c5ab188d7922491,2,decision,TIME|EGO|SHOTS,"Yes, it is safe to enter the intersection because the traffic lights are green.",1,14,0
+a57eaea570e9cea955569d13ad4c8e23,eval,16ac40a0f73c04115c5ab188d7922491,1,why,TIME|EGO|SHOTS,I am accelerating because there is a gap in the traffic behind the car ahead.,1,15,0
+6f07035025df6d95abe8d12727dca503,eval,16ac40a0f73c04115c5ab188d7922491,8,presence,TIME|FAR_ZOOM|SHOTS,"Yes, there are two cyclists visible in the image.",1,9,0
+78e2dde5cfd5189bb194ab01610202a3,eval,16ac40a0f73c04115c5ab188d7922491,10,others_motion,TIME|FAR_ZOOM|SHOTS,"No, there are no pedestrians crossing the road ahead of me.",1,11,0
+43a93a761b31639c3dd11b97e4a7739a,eval,01dbcf4b079b49b6ca34c0475492380c,8,presence,TIME|FAR_ZOOM|SHOTS,"No, there are no pedestrians crossing the road.",1,8,0
+60757d760b8845fb13c459d5e02b1a86,eval,01dbcf4b079b49b6ca34c0475492380c,7,light_state,TIME|LIGHT_ZOOM|SHOTS,The traffic lights are displaying a green light.,1,8,0
+3df8fd33c7747823283df9991e266165,eval,01dbcf4b079b49b6ca34c0475492380c,2,decision,TIME|EGO|SHOTS,Maintain a steady speed and steer straight ahead as the traffic lights are green.,1,14,0
+0f0ded19aa951c8f46e0dc3b3f0bcf1a,eval,01dbcf4b079b49b6ca34c0475492380c,1,why,TIME|EGO|SHOTS,I am currently remaining stopped because the traffic lights to go straight are red.,0,14,0
+4d1e627ea386de5cf9d74d488534427f,eval,01dbcf4b079b49b6ca34c0475492380c,4,hazard,TIME|SHOTS,"I am focusing on the traffic lights ahead because they are green, indicating that it is safe to proceed.",1,19,0
+c4a09e2b0c48609b8225e92f41fac983,eval,0e4e17ad8f45c7bcce2c1ac65f83b10c,2,decision,TIME|EGO|SHOTS,You should yield to the cyclist in the yellow jacket because they are approaching the yellow box junction from the right.,1,21,0
+cfe64e99e15062ea55924b8c70e81d49,eval,0e4e17ad8f45c7bcce2c1ac65f83b10c,7,light_state,TIME|SHOTS,The traffic lights at this intersection are green.,1,8,0
+2743a4965e3a9d9c67f4980f0dffef88,eval,0e4e17ad8f45c7bcce2c1ac65f83b10c,1,why,TIME|EGO|SHOTS,I am accelerating because there is a gap in the traffic behind the car ahead.,1,15,0
+96ee3656192358b39e7a9095777a4434,eval,0e4e17ad8f45c7bcce2c1ac65f83b10c,11,identity,TIME|FAR_ZOOM|SHOTS,I am following a group of cyclists.,1,7,0
+0c5e38b13986cfe96a71ed037e275d6c,eval,0e4e17ad8f45c7bcce2c1ac65f83b10c,4,hazard,TIME|SHOTS,The driver's attention is required due to the presence of multiple cyclists and pedestrians crossing the road ahead.,0,18,0
+b31fbd9b3ffd48ffac9b490bbf285085,eval,ab4845470b41f0e123da50c996c35745,1,why,TIME|EGO|SHOTS,I am stopping because the traffic lights to go straight are red.,1,12,0
+283ead94a77adaeb1ee443979bca9506,eval,ab4845470b41f0e123da50c996c35745,7,light_state,TIME|LIGHT_ZOOM|SHOTS,The traffic light is displaying red.,1,6,0
+fc17a2707547c73bd15def36ca9d4fab,eval,ab4845470b41f0e123da50c996c35745,1,why,TIME|EGO|SHOTS,I am currently remaining stopped because the traffic lights to go straight are red.,1,14,0
+afb24a72bfd09faf721435284284545d,eval,ab4845470b41f0e123da50c996c35745,2,decision,TIME|EGO|SHOTS,"No, you cannot enter the intersection because the traffic light is red.",1,12,0
+27cd6f3876d403b27123b7b8bb323ded,eval,ab4845470b41f0e123da50c996c35745,1,why,TIME|EGO|SHOTS,The car is impacting my driving by being stopped at the red traffic lights.,0,14,0
+7b48a237f98e303b9585f051c337ec29,eval,2506f1593774d92c0e46c61a8b6fb61e,7,light_state,TIME|SHOTS,"No, there are no traffic signals at this junction.",1,9,0
+e8879ea879a5e841f3a2c7d538d6e807,eval,2506f1593774d92c0e46c61a8b6fb61e,2,decision,TIME|EGO|SHOTS,"No, you cannot drive over the zebra crossing at this time because the pedestrian crossing signal is red.",0,18,0
+5b27c9761eec89f9935e154fd0fba29e,eval,2506f1593774d92c0e46c61a8b6fb61e,1,why,TIME|EGO|SHOTS,I am accelerating because there is a gap in the traffic behind the car ahead.,1,15,0
+70df921a1373944a657285e71464bf5e,eval,2506f1593774d92c0e46c61a8b6fb61e,4,hazard,TIME|SHOTS,"No, there are no roadworks or construction zones that you need to be cautious about.",1,15,0
+9b72133c6eefb9bdb6d772711d447b1a,eval,2506f1593774d92c0e46c61a8b6fb61e,6,counting,TIME|SHOTS,There are no cyclists visible in the provided frames.,1,9,0
+4d28b2fe1ca8c19447cc417479d2e780,eval,708093da66b3a7e6f2dbf35a52b01c33,1,why,TIME|EGO|SHOTS,I am currently decelerating because of the upcoming speedbump on the road ahead.,0,13,0
+d7d9164a7efd151e5c29d4f1294cdd96,eval,708093da66b3a7e6f2dbf35a52b01c33,6,counting,TIME|SHOTS,I spot 2 parked cars.,0,5,0
+55ada9111b8234843c3bc0ddcea1eed9,eval,708093da66b3a7e6f2dbf35a52b01c33,4,hazard,TIME|SHOTS,"Yes, there is a potential danger ahead as a silver car is approaching the intersection from the opposite direction.",0,19,0
+4c9e2f6c97436507b14d667214d7df8d,eval,708093da66b3a7e6f2dbf35a52b01c33,1,why,TIME|EGO|SHOTS,"No, it is not required for you to come to a stop because the traffic lights to go straight are green.",1,21,0
+486d1c8eae81e2ede2b80d474b847369,eval,708093da66b3a7e6f2dbf35a52b01c33,8,presence,TIME|FAR_ZOOM|SHOTS,"No, there are no cyclists in this image.",1,8,0
+fdf32338af93de64e58c539734aedbd0,eval,cd0f484698c6828b020fff5c65864d7c,7,light_state,TIME|LIGHT_ZOOM|SHOTS,The traffic lights are displaying green.,1,6,0
+f72ced3390488e788aa5006cf0d7546b,eval,cd0f484698c6828b020fff5c65864d7c,7,light_state,TIME|LIGHT_ZOOM|SHOTS,"Yes, there is a traffic light in sight, and it is exhibiting a green color.",1,15,0
+90275f8889696f741f5bd5cf9c292c06,eval,cd0f484698c6828b020fff5c65864d7c,5,layout,TIME|SHOTS,"No, there are no crosswalks or zebra crossings on this road.",0,11,0
+7a3eb67194206c43107252a3bc07c0fe,eval,cd0f484698c6828b020fff5c65864d7c,4,hazard,TIME|SHOTS,A person is standing on the road in front of the car ahead.,1,13,0
+2028cbded15ed826528e75e37be68784,eval,cd0f484698c6828b020fff5c65864d7c,1,why,TIME|EGO|SHOTS,I am currently decelerating because of the upcoming speedbump on the road ahead.,0,13,0
+dcb2c067997c7eeb720ccb5d6cde9287,eval,6522f0c917af4a0d8deb045e07cba594,1,why,TIME|EGO|SHOTS,I am currently accelerating because there is a gap in the traffic behind the car ahead.,1,16,0
+481b14eb3e9fd26ca65c24f70ef37be8,eval,6522f0c917af4a0d8deb045e07cba594,6,counting,TIME|SHOTS,There are 2 cyclists.,1,4,0
+706cb8a36b96d8e90ae92d32b485f5cc,eval,6522f0c917af4a0d8deb045e07cba594,6,counting,TIME|SHOTS,There are 2 cars driving in your direction.,1,8,0
+66335c423740f5cad751d3a58df3a0fd,eval,6522f0c917af4a0d8deb045e07cba594,2,decision,TIME|EGO|SHOTS,"No, you should not merge into the lane to your left because it is a bus lane.",1,17,0
+53dfbe2ca2ea314f870cf351a1a8b6a3,eval,6522f0c917af4a0d8deb045e07cba594,1,why,TIME|EGO|SHOTS,I am accelerating because there is a gap in the traffic behind the car ahead.,0,15,0
+3b40ae5959b1d718223b61b421c9d667,eval,0fc7c33bf1d778e944d5e374e64240bb,8,presence,TIME|FAR_ZOOM|SHOTS,The car is immobile because the traffic light to go straight is red.,1,13,0
+c36050705d6b759f701c8daa57e860d7,eval,0fc7c33bf1d778e944d5e374e64240bb,2,decision,TIME|SHOTS,"Yes, it is safe for me to proceed through the intersection because the traffic lights to go straight are green.",1,20,0
+139ff4a2206de6fe92aca58b74a6a547,eval,0fc7c33bf1d778e944d5e374e64240bb,8,presence,TIME|LIGHT_ZOOM|SHOTS,"No, there is no vehicle in front of me at the traffic light.",1,13,0
+ea4ae519054e64c07b4e97d2a8ac23be,eval,0fc7c33bf1d778e944d5e374e64240bb,1,why,TIME|SHOTS,I am accelerating because the traffic lights to go straight are green.,1,12,0
+04c9f9e10e0af69ea8b3c3ab075893cd,eval,0fc7c33bf1d778e944d5e374e64240bb,7,light_state,TIME|LIGHT_ZOOM|SHOTS,The traffic lights indicate that the light to go straight is green.,1,12,0
+b03c45ede977bd6673a0d4600f5108fe,eval,5fd375189aa75315f808df106a650068,1,why,TIME|EGO|SHOTS,I am accelerating because there is a gap in the traffic behind the car ahead.,0,15,0
+ef5b53f14f33f707a0029cdd9005400f,eval,5fd375189aa75315f808df106a650068,8,presence,TIME|FAR_ZOOM|SHOTS,No emergency vehicles are visible in this image.,1,8,0
+c1156cd61d5827fabffd67daa248dd5d,eval,5fd375189aa75315f808df106a650068,7,light_state,TIME|SHOTS,"No, there are no traffic lights present.",1,7,0
+8e6d287b41fcc4427cd2b0ef1efd3a98,eval,5fd375189aa75315f808df106a650068,6,counting,TIME|SHOTS,There is one vehicle in the right lane.,0,8,0
+4d5598773e7eec99aa707ec92eed7048,eval,5fd375189aa75315f808df106a650068,2,decision,TIME|EGO|SHOTS,"No, I am not reducing my speed because I am currently accelerating.",1,12,0
+4e7a7bd4b78867b2cf3c947dfe9c1df0,eval,a92897f3de30fa1578ddf84dbf708ebe,1,why,TIME|EGO|SHOTS,I am turning right because the traffic lights to go straight are red.,0,13,0
+e83261ed3f76ef3b4603b9f775c50b45,eval,a92897f3de30fa1578ddf84dbf708ebe,6,counting,TIME|SHOTS,There are no cars parked on the left side of the road.,1,12,0
+0e52d62342e9fd6a85c77e204cb566a5,eval,a92897f3de30fa1578ddf84dbf708ebe,1,why,TIME|EGO|SHOTS,"No, it is not safe to accelerate because the car ahead is stopped at the traffic lights.",0,17,0
+4301df8637b068580be2e33ae3767563,eval,a92897f3de30fa1578ddf84dbf708ebe,11,identity,TIME|FAR_ZOOM|SHOTS,The car ahead holds the right of way because it is approaching the intersection first and the traffic lights are green for it.,1,23,0
+dd658fa9b1e85b0f1691e129802a91c3,eval,a92897f3de30fa1578ddf84dbf708ebe,6,counting,TIME|SHOTS,There are no motorcyclists visible in the image.,1,8,0
+157d0fccb6daba361d2dd8b8b53df6d5,eval,dad2e5f536e0c7a91e4929405eeb19da,2,decision,TIME|EGO|SHOTS,"No, I do not need to come to a stop because the traffic lights ahead are green.",1,17,0
+a21a84894868c3a191b321581726e157,eval,dad2e5f536e0c7a91e4929405eeb19da,5,layout,TIME|SHOTS,"No, there are no vehicles stopped at the zebra crossing.",1,10,0
+3fae5943a289ca2d212ce8f78f0030e1,eval,dad2e5f536e0c7a91e4929405eeb19da,2,decision,TIME|FAR_ZOOM|EGO|SHOTS,"No, you cannot overtake the cyclist as there is a large truck in the adjacent lane.",0,16,0
+142cfc311c33085077ddbb2ad026f3f7,eval,dad2e5f536e0c7a91e4929405eeb19da,2,decision,TIME|EGO|SHOTS,"No, it is not possible for me to accelerate in this situation because there is a large truck directly in front of me.",0,23,0
+be6b56c1b43400f0b4a1281c4b884889,eval,dad2e5f536e0c7a91e4929405eeb19da,1,why,TIME|EGO|SHOTS,I am currently remaining stopped because the traffic lights to go straight are red.,0,14,0
+e63066f7e937c4bf24f1b1cecddec8a5,eval,ce3084593e16b501a27dbbef7b2aa653,2,decision,TIME|EGO|SHOTS,"No, it is not safe to enter the intersection because a pedestrian is currently crossing the road in front of you.",1,21,0
+0007efb46bd4323120fcfe5046bf8b27,eval,ce3084593e16b501a27dbbef7b2aa653,5,layout,TIME|SHOTS,"No, you are not legally allowed to make a right turn at this intersection.",0,14,0
+ad48c822d8886513700a46c512df61d7,eval,ce3084593e16b501a27dbbef7b2aa653,1,why,TIME|EGO|SHOTS,"Yes, I need to decelerate because a pedestrian is crossing the road in front of me.",1,16,0
+12cd8ae15ded41fddaf587966413c68a,eval,ce3084593e16b501a27dbbef7b2aa653,1,why,TIME|EGO|SHOTS,I am currently remaining stopped because there is a pedestrian crossing the road ahead.,1,14,0
+85b3d5f8f90f3f24709d1372be3e094a,eval,ce3084593e16b501a27dbbef7b2aa653,4,hazard,TIME|SHOTS,A pedestrian is crossing the road from right to left in front of the car.,1,15,0
+517770dcbba053a16d6101fcddbec8f2,eval,556f9177eda8301534e145f1d2287736,12,scene_other,TIME|SHOTS,I am currently remaining stopped because the traffic lights to go straight are red.,1,14,0
+9e42d272c1852d3f331217f0782ec84f,eval,556f9177eda8301534e145f1d2287736,4,hazard,TIME|SHOTS,The driver's attention is required to monitor the pedestrians crossing the street and the white van in the adjacent lane.,1,20,0
+0f21bfdcdb7599a29d5524d925a6397e,eval,556f9177eda8301534e145f1d2287736,2,decision,TIME|EGO|SHOTS,"No, you cannot make a right turn at this intersection because the traffic light is red.",0,16,0
+51e561858e5328d756fb1579f4151531,eval,556f9177eda8301534e145f1d2287736,2,decision,TIME|EGO|SHOTS,"No, it is not safe to enter the intersection because the traffic light is red.",1,15,0
+eaac7fb52303af7ee06676b0a604c9e0,eval,556f9177eda8301534e145f1d2287736,1,why,TIME|EGO|SHOTS,I am currently accelerating because there is a gap in the traffic behind the car ahead.,0,16,0
+87621ad729afa4b2ca381cf79d4b59c9,eval,5b79a31f791f6b5f575122a6ddcb6e7e,7,light_state,TIME|SHOTS,"Yes, there are traffic lights present at this intersection, and they are currently displaying red.",0,15,0
+e6dad7a1c095b6fd2027d7d19788d1a3,eval,5b79a31f791f6b5f575122a6ddcb6e7e,1,why,TIME|EGO|SHOTS,I am remaining stopped because the traffic lights to go straight are red.,0,13,0
+3348ee9650782a4af8d0d17343f395dc,eval,5b79a31f791f6b5f575122a6ddcb6e7e,5,layout,TIME|SHOTS,"No, I am not well positioned to take a left turn at this intersection because I am currently stopped at a red light.",1,23,0
+709aefe1287bb529af23f9d143f96820,eval,5b79a31f791f6b5f575122a6ddcb6e7e,8,presence,TIME|FAR_ZOOM|SHOTS,The car is immobile because the traffic lights ahead are red.,1,11,0
+2c7604b2b1644f56d12ed83c4ba44bec,eval,5b79a31f791f6b5f575122a6ddcb6e7e,10,others_motion,TIME|SHOTS,The vehicle in front is turning right.,1,7,0
+95f288c4a0627a99dde8e52da98857f7,eval,8127f3b506fa0146a795f0085bb60cd3,11,identity,TIME|FAR_ZOOM|SHOTS,"No, there is no traffic in your lane.",1,8,0
+532f9fbb943f3c8ec37d412da6c12e44,eval,8127f3b506fa0146a795f0085bb60cd3,11,identity,TIME|FAR_ZOOM|SHOTS,"No, I am not experiencing traffic congestion as there is no traffic ahead of me in my lane.",1,18,0
+27891d80077204801427b8cbfa56e4ec,eval,8127f3b506fa0146a795f0085bb60cd3,1,why,TIME|EGO|SHOTS,I am currently decelerating because there is a pedestrian crossing the road ahead.,1,13,0
+d3dd6e9a3ce775eea53e1d698dc5f101,eval,8127f3b506fa0146a795f0085bb60cd3,4,hazard,TIME|SHOTS,The pedestrian crossing the road ahead and the oncoming blue car are the primary hazards you should be mindful of.,1,20,0
+b7f321743c76342db2ca741d3631153e,eval,8127f3b506fa0146a795f0085bb60cd3,1,why,TIME|EGO|SHOTS,I am currently decelerating because of the pedestrian crossing the road ahead.,0,12,0
+1fc0edf57d4f8ce85d3daf2b40310788,eval,cedf6e4dacd1abe46f36b688ac36fc34,5,layout,TIME|SHOTS,"No, there are no road markings indicating a pedestrian or zebra crossing.",0,12,0
+402908c7f9fdc1b20d51beefcd8ce866,eval,cedf6e4dacd1abe46f36b688ac36fc34,1,why,TIME|SHOTS,I am remaining stopped because the traffic lights to go straight are red.,0,13,0
+76189ebee0f3fa4e300c248ce0d8b926,eval,cedf6e4dacd1abe46f36b688ac36fc34,1,why,TIME|SHOTS,The traffic lights to go straight are green.,1,8,0
+7be0e99f6beb0384c13ffbd522da1a43,eval,cedf6e4dacd1abe46f36b688ac36fc34,2,decision,TIME|FAR_ZOOM|SHOTS,"Yes, there are pedestrians present on the sidewalks and crossing the street near the traffic lights.",1,16,0
+e3c7ac883028106de16f24477ed53de9,eval,cedf6e4dacd1abe46f36b688ac36fc34,11,identity,TIME|FAR_ZOOM|SHOTS,I am following a white car.,1,6,0
+762f6dbd5e7bad995c19b585ad064f2b,eval,e2f2517cb762eb532be383cae04d652a,10,others_motion,TIME|FAR_ZOOM|SHOTS,"No, there are no pedestrians crossing the road.",1,8,0
+b165f94c591f02241d849f5305cd81e3,eval,e2f2517cb762eb532be383cae04d652a,7,light_state,TIME|LIGHT_ZOOM|SHOTS,"Yes, there is a traffic signal present and it is exhibiting a red light.",1,14,0
+d485f9ea658061f01e58b7c6045c5490,eval,e2f2517cb762eb532be383cae04d652a,1,why,TIME|EGO|SHOTS,I am currently decelerating because of the upcoming speedbump on the road ahead.,0,13,0
+06406192a47022c3435fc373360598eb,eval,e2f2517cb762eb532be383cae04d652a,12,scene_other,TIME|SHOTS,I am currently remaining stopped because the traffic lights to go straight are red.,1,14,0
+a47dda86da7478ca8eceaadfd5d194d8,eval,e2f2517cb762eb532be383cae04d652a,6,counting,TIME|SHOTS,There are no cars parked on the left side of the road.,1,12,0
+f7e6e328de6577dc6745c11e13dc1e52,eval,43e53c341ab5aae565705dede4de87ab,8,presence,TIME|FAR_ZOOM|SHOTS,"No, there is no vehicle ahead of me in my lane.",1,11,0
+ca95110b435c057fdae479aa64e83cdd,eval,43e53c341ab5aae565705dede4de87ab,7,light_state,TIME|LIGHT_ZOOM|SHOTS,"Yes, the traffic lights are displaying yellow.",0,7,0
+e57cccea9abd16102ccb97a096dd3786,eval,43e53c341ab5aae565705dede4de87ab,1,why,TIME|EGO|SHOTS,I am currently remaining stopped because the traffic lights to go straight are red.,0,14,0
+1b162cb04033be77383da35286e2cc02,eval,43e53c341ab5aae565705dede4de87ab,8,presence,TIME|FAR_ZOOM|SHOTS,"No, there are no buses visible in this image.",1,9,0
+24d9c858457262a877eae79d76260cd7,eval,43e53c341ab5aae565705dede4de87ab,1,why,TIME|EGO|SHOTS,I am currently remaining stopped because the traffic lights to go straight are red.,0,14,0
+118cc31bd8b2b03e3643d0163d864a8f,eval,2a3e08c04123f3cb76368ec6f2800ae6,12,scene_other,TIME|SHOTS,"Yes, the motorcyclist is in your lane.",1,7,0
+0a8c3ff0818fe1b9b4e29b078f6dae73,eval,2a3e08c04123f3cb76368ec6f2800ae6,11,identity,TIME|FAR_ZOOM|SHOTS,I am currently following a motorcyclist.,1,6,0
+75f69977b8503f97c7ea1963ce6eaf1b,eval,2a3e08c04123f3cb76368ec6f2800ae6,12,scene_other,TIME|SHOTS,"No, the cyclist is in the left lane.",1,8,0
+5531be42dd8310f19550da4630f361b6,eval,2a3e08c04123f3cb76368ec6f2800ae6,9,where,TIME|SHOTS,The red car is driving in the opposite direction.,1,9,0
+3aded9e3430db07f8d73f2a9b69526ec,eval,2a3e08c04123f3cb76368ec6f2800ae6,1,why,TIME|EGO|SHOTS,I am currently remaining stopped because the traffic lights to go straight are red.,0,14,0
+2e12078f7c64ed3cbf7604909b0f84b1,eval,b6e397dd9a84bf1151e4c8d27f6e03fa,12,scene_other,TIME|SHOTS,"No, the road ahead is not clear because there are pedestrians crossing the street.",1,14,0
+40804cfcd6002c42177d155feaca1653,eval,b6e397dd9a84bf1151e4c8d27f6e03fa,9,where,TIME|SHOTS,"Yes, there are cyclists present in the image, positioned on the road ahead near the center.",0,16,0
+04686c2681702c75cc8f57dc07f5ef17,eval,b6e397dd9a84bf1151e4c8d27f6e03fa,6,counting,TIME|SHOTS,There are 4 pedestrians crossing the road.,0,7,0
+f3558e51ab1157828d13753a1f153365,eval,b6e397dd9a84bf1151e4c8d27f6e03fa,1,why,TIME|EGO|SHOTS,"No, you cannot proceed forward because the traffic lights to go straight are red.",0,14,0
+e1e5c60b576e24f6a6ac9e60cf4a9a29,eval,b6e397dd9a84bf1151e4c8d27f6e03fa,1,why,TIME|EGO|SHOTS,I am accelerating because there is a gap in the traffic behind the car ahead.,0,15,0
+05052ff0141a5cde9312dbc372ff20b5,eval,590371e02b04e7d99853064a97ed3fe1,11,identity,TIME|FAR_ZOOM|SHOTS,"Yes, there is heavy traffic congestion in your lane caused by a line of vehicles including a red car, a white car, a large truck, and a cyclist.",0,28,0
+113cceb17f30a3bc543bdfc7dbaa3b99,eval,590371e02b04e7d99853064a97ed3fe1,1,why,TIME|EGO|SHOTS,I am currently remaining stopped because the traffic lights to go straight are red.,0,14,0
+e48446bb7dce984cab682a232816fc5e,eval,590371e02b04e7d99853064a97ed3fe1,11,identity,TIME|FAR_ZOOM|SHOTS,I am currently following a red car.,1,7,0
+b907d5696dd9425930990606882f18ae,eval,590371e02b04e7d99853064a97ed3fe1,8,presence,TIME|FAR_ZOOM|SHOTS,"No, there are no vehicles parked on the side of the road.",1,12,0
+ac80decdd376989ecdae87be1b1d9c8d,eval,590371e02b04e7d99853064a97ed3fe1,4,hazard,TIME|SHOTS,You should pay attention to the cyclist and the red car ahead as they are the primary objects requiring your attention in this scenario.,1,24,0
+cd1a4de5aa41a1eb79a634e62c4c51dc,eval,78bda9041fc31a77da224df63f6b8cd0,1,why,TIME|EGO|SHOTS,I am currently decelerating because the traffic lights to go straight are red.,0,13,0
+6b7ca6f5741dfcb6bfea72dc93153bb3,eval,78bda9041fc31a77da224df63f6b8cd0,2,decision,TIME|EGO|SHOTS,Slow down and steer slightly left to avoid the white car ahead.,0,12,0
+e8d1c1fb44ec2aa00454555b4f2a7a48,eval,78bda9041fc31a77da224df63f6b8cd0,2,decision,TIME|EGO|SHOTS,"You should consider the green traffic light ahead, which indicates it is safe to proceed.",1,15,0
+2f66550f5f4ec7a4e4022bf1075110e5,eval,78bda9041fc31a77da224df63f6b8cd0,7,light_state,TIME|SHOTS,"Yes, the traffic signals are green.",1,6,0
+d2ea1c2b085f8755fe5eeb1873b61f77,eval,78bda9041fc31a77da224df63f6b8cd0,4,hazard,TIME|SHOTS,Focus your attention on the white car ahead and the pedestrians waiting at the crosswalk.,1,15,0
+d59c89293c6154ea36b758a3f8f2413a,eval,76cb389da4bde25d3af627968de66278,1,why,TIME|EGO|SHOTS,I am accelerating because there is a gap in the traffic behind the car ahead.,0,15,0
+d88776f4ae18ce8fa3d35b2d60ebc0f4,eval,76cb389da4bde25d3af627968de66278,1,why,TIME|EGO|SHOTS,"No, it is not necessary to bring the vehicle to a halt because the car ahead is already moving and there is no immediate obstacle or traffic signal requiring a stop.",1,31,0
+090aa262fdb85ac783a265ad66481fa2,eval,76cb389da4bde25d3af627968de66278,1,why,TIME|EGO|SHOTS,"No, I am already speeding up because there is a gap in the traffic behind the car ahead.",1,18,1
+1e10df39088f96cc42621ea79bfa7c1f,eval,76cb389da4bde25d3af627968de66278,6,counting,TIME|SHOTS,There are no parked vehicles visible in the image.,1,9,0
+e6c091c80da6adbc09babb4435fc92db,eval,76cb389da4bde25d3af627968de66278,1,why,TIME|EGO|SHOTS,The car is speeding up to maintain a safe distance from the bus ahead.,0,14,1
+87265df72a8c5e4e3485e213d010f143,eval,e9148b5d1dc3d42ae93cb718d1585aca,2,decision,TIME|EGO|SHOTS,"No, it is not safe to enter the intersection because the traffic light is red.",1,15,0
+206ffe54c1fc72591f2f6ea17179c6c4,eval,e9148b5d1dc3d42ae93cb718d1585aca,1,why,TIME|EGO|SHOTS,I am moving to the right lane to avoid the oncoming traffic and pedestrians crossing the intersection.,0,17,0
+0e6f7ee826af1a21a3dd636be2483b6c,eval,e9148b5d1dc3d42ae93cb718d1585aca,7,light_state,TIME|LIGHT_ZOOM|SHOTS,The traffic lights are red.,1,5,0
+b76f1d84c06a7f7c3dd42065453fd2b9,eval,e9148b5d1dc3d42ae93cb718d1585aca,6,counting,TIME|SHOTS,There are 3 pedestrians crossing the road.,0,7,0
+4d9fccaaa6e286b8a2bda6d2c5557680,eval,e9148b5d1dc3d42ae93cb718d1585aca,1,why,TIME|EGO|SHOTS,I am currently accelerating because there is a gap in the traffic behind the car ahead.,1,16,0
+00c2c186d458a64e22c4a8b6264afba7,eval,ee230014b451c96aa1e690f112ed6738,2,decision,TIME|EGO|SHOTS,"Yes, I need to come to a stop because there is a pedestrian crossing the road ahead.",1,17,0
+ab45c73853c851fd5947eced89a49df8,eval,ee230014b451c96aa1e690f112ed6738,4,hazard,TIME|SHOTS,A pedestrian is crossing the road from right to left.,1,10,0
+fe531f63345a9a432710fd5d922d0434,eval,ee230014b451c96aa1e690f112ed6738,2,decision,TIME|EGO|SHOTS,"No, I should not increase my speed because the road ahead is clear and I am currently slowing down.",1,19,1
+9b0ee39bcc2ffcd3d9e82952e7580a0d,eval,ee230014b451c96aa1e690f112ed6738,1,why,TIME|EGO|SHOTS,I am currently decelerating because of the pedestrian crossing the road ahead.,1,12,0
+f58a20e98cec9b5ed6aca187b9c7dd95,eval,ee230014b451c96aa1e690f112ed6738,11,identity,TIME|FAR_ZOOM|SHOTS,"Yes, there is a white car in your lane.",0,9,0
+a656539e99008c78f0f071817ab83cdb,eval,40d730969d4fd2469790189ae721bd10,2,decision,TIME|EGO|SHOTS,"No, the road is not clear because there are pedestrians crossing the zebra crossing ahead.",0,15,0
+42165a259c2deafc0350d58250f1c306,eval,40d730969d4fd2469790189ae721bd10,11,identity,TIME|FAR_ZOOM|SHOTS,The vehicle directly ahead of me on the road is a white truck.,0,13,0
+02ef913d821daa46aa36c9b74dbe53b0,eval,40d730969d4fd2469790189ae721bd10,1,why,TIME|EGO|SHOTS,I am currently accelerating because there is a gap in the traffic behind the car ahead.,0,16,0
+706984b5b22aae7bbb51b45dda37bfe4,eval,40d730969d4fd2469790189ae721bd10,2,decision,TIME|EGO|SHOTS,You should decelerate and steer right to avoid the pedestrians crossing the zebra crossing ahead.,1,15,0
+a524203a4ad47497caf459f4866d2307,eval,40d730969d4fd2469790189ae721bd10,11,identity,TIME|FAR_ZOOM|SHOTS,"Yes, there is traffic in your lane caused by a white truck and a silver car.",0,16,0
+a125123fca23569bab20bc6ce4f67c0f,eval,990fbf8f0b48da3a82613643b3827aa4,7,light_state,TIME|SHOTS,"Yes, there are traffic signals displaying red.",0,7,0
+180d99700d81cb2b7d398cabba43c6a2,eval,990fbf8f0b48da3a82613643b3827aa4,10,others_motion,TIME|SHOTS,"Yes, there is traffic going straight as indicated by the green arrow on the traffic light.",1,16,1
+da3da1dad5a54d8f4493afb81161894f,eval,990fbf8f0b48da3a82613643b3827aa4,1,why,TIME|EGO|SHOTS,I am currently remaining stopped because the traffic lights to go straight are red.,0,14,0
+b6f140124fe9891f173279c9793ae325,eval,990fbf8f0b48da3a82613643b3827aa4,1,why,TIME|EGO|SHOTS,I am accelerating because there is a gap in the traffic behind the car ahead.,0,15,0
+5c33235ff3d6032892fe44224b1239d3,eval,990fbf8f0b48da3a82613643b3827aa4,10,others_motion,TIME|FAR_ZOOM|SHOTS,The scooter is turning left.,1,5,0
+527818d289cee334f9903df88f6f3f67,eval,00fb5ab9e2d508c573d588652cf0d025,6,counting,TIME|SHOTS,There are three cyclists visible in the image.,1,8,0
+5bb70f548212e262aa85332f29d3b1e8,eval,00fb5ab9e2d508c573d588652cf0d025,2,decision,TIME|EGO|SHOTS,"No, I am not stopping because there is a gap in the traffic behind the car ahead.",1,17,0
+0c8e9268f24b1dc414c21ebacd24ced9,eval,00fb5ab9e2d508c573d588652cf0d025,1,why,TIME|EGO|SHOTS,I am currently decelerating because of the approaching cyclists.,1,9,0
+8453ff3d2fb1a49eb6913076104ebe0d,eval,00fb5ab9e2d508c573d588652cf0d025,9,where,TIME|SHOTS,Vehicles are parked on both the left and right sides of the road.,1,13,0
+8e21a4ee04ee8a95308f9dc1327a6314,eval,00fb5ab9e2d508c573d588652cf0d025,11,identity,TIME|FAR_ZOOM|SHOTS,I am overtaking a cyclist.,1,5,0
+6856f07854d392590abffb42cc7d45a9,eval,8755e0bc3abbc4807dc090bc9129f6ec,9,where,TIME|SHOTS,"No, I do not notice any motorcyclists on the road.",1,10,0
+09b2700134f738d7277082de652309f0,eval,8755e0bc3abbc4807dc090bc9129f6ec,1,why,TIME|EGO|SHOTS,I am currently decelerating because of the upcoming speedbump on the road ahead.,0,13,0
+2f949a29f3076f8aa98d55c629353027,eval,8755e0bc3abbc4807dc090bc9129f6ec,2,decision,TIME|EGO|SHOTS,"No, I should not yield to any vehicle as there is no vehicle directly in front of me.",1,18,0
+c949a6b1c355eb0412e948f621dfa338,eval,8755e0bc3abbc4807dc090bc9129f6ec,11,identity,TIME|FAR_ZOOM|SHOTS,A white van is directly ahead of me on the road.,0,11,0
+2b40de09b484fed8c01e5704015a7589,eval,8755e0bc3abbc4807dc090bc9129f6ec,1,why,TIME|EGO|SHOTS,You are positioned correctly to make a left turn at this intersection.,1,12,0
+87dd3586773c2a3364d7aebb8abb5afe,eval,f6d832c4b3279c6491278500918e792e,2,decision,TIME|EGO|SHOTS,"No, the road is not clear for you to accelerate because there is a pedestrian crossing the road in front of you.",0,22,0
+87833bfe06b5c9560230c2fa48c35f93,eval,f6d832c4b3279c6491278500918e792e,8,presence,TIME|FAR_ZOOM|SHOTS,"Yes, a pedestrian is crossing the road from right to left in the last frame.",1,15,0
+4bbec95b286d5642cbc9fdb64cfe0c7e,eval,f6d832c4b3279c6491278500918e792e,9,where,TIME|SHOTS,I am going around the pedestrian from the left side.,1,10,0
+0325dc94bcb09bffe5214a5baafe9b1e,eval,f6d832c4b3279c6491278500918e792e,4,hazard,TIME|SHOTS,A pedestrian is crossing the road from right to left in front of the car ahead.,1,16,0
+80b92fe08868be1f3e817b9245660f58,eval,f6d832c4b3279c6491278500918e792e,1,why,TIME|EGO|SHOTS,I am accelerating because there is a gap in the traffic behind the car ahead.,0,15,0
+291c71d1d00d99b519ed24c27ec529ce,eval,192ddf6ced03be1ea37e716d960eb1d4,1,why,TIME|EGO|SHOTS,I am currently decelerating because of the upcoming speedbump on the road ahead.,0,13,0
+48334b0e701a004ebc8b99e628e38f1b,eval,192ddf6ced03be1ea37e716d960eb1d4,7,light_state,TIME|LIGHT_ZOOM|SHOTS,"Yes, the traffic lights are red.",1,6,0
+c449c6a88f1b5093733f9b7a3fb63703,eval,192ddf6ced03be1ea37e716d960eb1d4,1,why,TIME|EGO|SHOTS,"No, I am currently decelerating because of the upcoming speedbump on the road ahead.",0,14,0
+fc734171b35e7bf8c13ddf8db23d6e3c,eval,192ddf6ced03be1ea37e716d960eb1d4,2,decision,TIME|EGO|SHOTS,I am currently decelerating because of the upcoming speedbump on the road ahead.,0,13,0
+47dc1518dacae0d706fb0c17b45c3cf7,eval,192ddf6ced03be1ea37e716d960eb1d4,11,identity,TIME|FAR_ZOOM|SHOTS,The white van is in front of me.,1,8,0
+5e538bb7e2510528abbcdb5764a6a9ec,eval,065d10fc58526a238d2b4c8d9c06e763,4,hazard,TIME|SHOTS,A cyclist is crossing the intersection ahead of the car.,1,10,0
+18320749c3acfaf56849d998ec591bb7,eval,065d10fc58526a238d2b4c8d9c06e763,1,why,TIME|EGO|SHOTS,"Yes, I should consider reducing my speed because there is a pedestrian crossing the street ahead.",1,16,0
+27249e65ee7048cfbf0ee38e8d4e45ae,eval,065d10fc58526a238d2b4c8d9c06e763,1,why,TIME|EGO|SHOTS,I am currently decelerating because of the upcoming speedbump on the road ahead.,0,13,0
+81dc439f812c979add0f4c87a64457d6,eval,065d10fc58526a238d2b4c8d9c06e763,1,why,TIME|EGO|SHOTS,The vehicle on the right has the right of way because it is approaching the intersection first.,0,17,0
+5fb02c97ffb458e39221b1be126b1c2a,eval,065d10fc58526a238d2b4c8d9c06e763,1,why,TIME|EGO|SHOTS,The adjustment of my speed is important to maintain a safe distance from the cyclist ahead and to prepare for potential traffic changes.,0,23,0
+4a8046ff3d497ed16aa680433fe486f0,eval,3f3bfab70356daed6fa27f0f11cc35dc,8,presence,TIME|FAR_ZOOM|SHOTS,"Yes, there is a dark van parked on the left side of the road.",1,14,0
+9b1eb6ac736236c2903a06201111ada6,eval,3f3bfab70356daed6fa27f0f11cc35dc,6,counting,TIME|SHOTS,There are 3 pedestrians crossing the road.,0,7,0
+96f15eabeec52b11bac94ba635d50354,eval,3f3bfab70356daed6fa27f0f11cc35dc,4,hazard,TIME|SHOTS,There is no obstacle on your path.,0,7,0
+2910c92f43f8d3c9c0926623f84143d9,eval,3f3bfab70356daed6fa27f0f11cc35dc,8,presence,TIME|FAR_ZOOM|SHOTS,"No, there is no zebra crossing or pedestrian crossing ahead.",1,10,0
+d90732069e218c234fbbc3e52ffff578,eval,3f3bfab70356daed6fa27f0f11cc35dc,1,why,TIME|EGO|SHOTS,I am currently decelerating because of the upcoming speedbump on the road ahead.,0,13,0
+3a770ccf8855bc5d26e9d49c8598e4c6,eval,8acfd91fc5488115f4a96cfb9901b35c,1,why,TIME|EGO|SHOTS,"No, I am not decreasing my speed because the traffic lights to go straight are green.",0,16,0
+2bd7d32da752c5087834ece2e41539de,eval,8acfd91fc5488115f4a96cfb9901b35c,1,why,TIME|EGO|SHOTS,"No, changing to the right lane is not possible because the lane is occupied by a motorcyclist.",0,17,0
+2140a76b9570386742c00be7dc485168,eval,8acfd91fc5488115f4a96cfb9901b35c,1,why,TIME|EGO|SHOTS,I am currently remaining stopped because the traffic lights to go straight are red.,0,14,0
+de5bf275d5db5f0f9ced9efde31928ec,eval,8acfd91fc5488115f4a96cfb9901b35c,5,layout,TIME|SHOTS,"No, there are no ongoing roadworks or construction zones nearby.",1,10,0
+91d64881fba8ed0a49349abca82f67b4,eval,8acfd91fc5488115f4a96cfb9901b35c,6,counting,TIME|SHOTS,There are 0 parked cars on the right of the road.,0,11,0
+4a6cd0be5b06e0a22a5f4a437e57a6cb,eval,97a2a11eb970cb429cf1cf8457123fab,5,layout,TIME|SHOTS,The traffic sign indicates a speed limit of 20 mph.,0,10,0
+6dab6c7e64ad2ba5fae147fd1e6fb3d8,eval,97a2a11eb970cb429cf1cf8457123fab,6,counting,TIME|SHOTS,"There are two cyclists, one in each lane, driving away from the camera.",1,13,0
+06b54dd9e9244b30a5701ec23ff1797a,eval,97a2a11eb970cb429cf1cf8457123fab,6,counting,TIME|SHOTS,"There are two parked cars, one on the left side of the road and one further down the street on the left.",1,22,0
+68328392e31e7d12a69a2758f418c7f5,eval,97a2a11eb970cb429cf1cf8457123fab,2,decision,TIME|EGO|SHOTS,"No, you should not stop behind the black cab because it is already stopped in the lane ahead.",1,18,0
+9c7af05ae1a6d0a6c96d78f4c31939e8,eval,97a2a11eb970cb429cf1cf8457123fab,1,why,TIME|EGO|SHOTS,I am currently remaining stopped because the traffic lights to go straight are red.,0,14,0
+8a6c98beeaf8943f5758020053103731,eval,fbdf56c8cf8500903a2b6b88f84522f0,2,decision,TIME|EGO|SHOTS,"No, you cannot turn left when in this lane because it is a one-way street with traffic moving in the same direction.",1,22,0
+b646b094da21042fc2a0662b794a1cd6,eval,fbdf56c8cf8500903a2b6b88f84522f0,10,others_motion,TIME|SHOTS,The traffic in front is decelerating because of the upcoming speedbump on the road ahead.,0,15,0
+61804c43c7287cd9045a67b7b7501af5,eval,fbdf56c8cf8500903a2b6b88f84522f0,11,identity,TIME|FAR_ZOOM|SHOTS,"No, there is no vehicle in the lane to your left.",1,11,0
+a6df923bb4967b7d689f7cd253a1dd03,eval,fbdf56c8cf8500903a2b6b88f84522f0,1,why,TIME|EGO|SHOTS,"No, it is not safe to accelerate because the vehicle ahead is already accelerating.",0,14,0
+ee746fd004096aeccdef57c5ed6ca3be,eval,fbdf56c8cf8500903a2b6b88f84522f0,1,why,TIME|EGO|SHOTS,I am accelerating because there is a gap in the traffic behind the car ahead.,1,15,0
+0dd053c9e8b3d20ee3c2381d6a5e57fc,dev,aa838a7603bd0f881e00db81ec8af298,2,decision,TIME|EGO|SHOTS,You should not stop or brake in this situation.,0,9,0
+faa8e9316314f6fa3893dc8fa0bb1c54,dev,1622fb748a11fc356ee2264103b23a62,2,decision,TIME|EGO|SHOTS,You should stop because the traffic light to go straight is red.,1,12,0
+0a4a7e09d9bdebc5592a4c361b161353,dev,b934641408dd60ea0fe7a0955f92f9e1,1,why,TIME|EGO|SHOTS,There is a pedestrian crossing the road with dogs in front of you.,1,13,0
+98e919580b7afd8c1b1c9755a7ff38fb,dev,bf652384d466432559f1784eb68cf2e7,1,why,TIME|EGO|SHOTS,I am currently starting because the traffic lights to go straight are red.,0,13,0
+e619643755d25266e1df54e5cda5cd4c,dev,7105b6885a92a7e77f7bc6f526b62743,1,why,TIME|EGO|SHOTS,I am steering left to avoid the parked cars on the right side of the road.,0,16,0
+3ec284e40bc39a188d57604d666c6d74,dev,d73324d3970d6ab3a3f017a968516f98,4,hazard,TIME|SHOTS,I am paying attention to the pedestrian crossing the street ahead because I need to ensure their safety.,0,18,0
+d07a41c5c21cbbd6a4493cb8f766ca48,dev,c7c92a0fb609c4e6109880d2a5cbfb70,4,hazard,TIME|SHOTS,"The hazard is the stationary white van on the left and the parked cars on the right, which require you to be aware of their presence and potential for blocking your path.",0,32,0
+2d512bbbb19452d54571e2949f442b94,dev,496a706be18ed666f42662a2d25526a7,2,decision,TIME|SHOTS,"No, it is not safe for me to accelerate in this situation because there is a cyclist in my lane.",0,20,0
+f3d1ccf9b9a9232814abf7d41fc816dc,dev,9336df226c1c9afb96e3faff21504859,2,decision,TIME|EGO|SHOTS,You should decelerate because there is an obstacle or hazard ahead.,1,11,0
+76a67fa647e62ae9ed37fbe2a53049cd,dev,d3b60c1980bafebe1b8e66a1e60bb69a,2,decision,TIME|EGO|SHOTS,"No, it is not safe for you to accelerate at this time because the road ahead is blocked by parked cars and a stationary van.",1,25,0
+d403252b1d1fa52343ba4d58378f53a3,dev,68b79583e7231d86cb04280f404dd2ff,1,why,TIME|EGO|SHOTS,I am decelerating because the traffic lights to go straight are red.,1,12,0
+63de26a42825315868c4b1f46d6ee581,dev,9538a085aede8d4c17b0edab69436384,4,hazard,TIME|SHOTS,I am paying attention to the bus stop sign and the pedestrian waiting at the bus stop because they are potential hazards.,0,22,0
+5156b1bedb67d7616fa8ed46c1371a24,dev,dd24bb810b43dec5a838a09a0aa4833d,2,decision,TIME|EGO|SHOTS,"No, it is not safe to steer left in this situation because there is a parked blue car on the left side of the road.",0,25,0
+02b7651de48b88e9343b863575734e75,dev,d4fe8b8ae6883cf427f60f31e8a9791e,11,identity,TIME|FAR_ZOOM|SHOTS,I am following a large white garbage truck.,0,8,0
+c29255198893e355498d7b50c072eaf6,dev,0e59d87034d00cf04cd4febc78126bcc,2,decision,TIME|EGO|SHOTS,I am currently turning right because the traffic lights to go straight are red.,0,14,0
+2f04badb3faae23563203413e1f7c07f,dev,63c6b4534d8100867803af8769bb3716,1,why,TIME|EGO|SHOTS,I am positioned in this way because I am slowing down.,0,11,1
+7848e390c3dd71fa4c784436df082af4,dev,155a66e6b298e857b75a20c07b2fe8ef,2,decision,TIME|EGO|SHOTS,You should stop because the traffic lights to go straight are red.,0,12,0
+c2a66661803fe1e0035b66ec99673c09,dev,4c733413267a79d1ebe48f02641a5b19,4,hazard,TIME|SHOTS,"You must pay attention to the traffic lights ahead, as they are currently red and you must wait for them to turn green before proceeding.",1,25,0
+a3073c5ca44d77899765a3c78c551a33,dev,bc64881d5223fb6231ba71f8035f09a3,1,why,TIME|EGO|SHOTS,I am remaining stopped because the traffic lights to go straight are red.,1,13,0
+85dc9dd9f8eb89518537cb8f2890d966,dev,7053b223557a4516db856adf378cf912,4,hazard,TIME|SHOTS,"Yes, there is a pedestrian crossing the road ahead.",1,9,0
+e1a4cd731551c4a06441c7e97ab7100f,dev,192bc3720b03f2e6169522bc3d5d8bdf,2,decision,TIME|EGO|SHOTS,You should remain stopped because the traffic lights to go straight are red.,1,13,0
+c4a4745db75576e08fbf25cbc8da149b,dev,89bc356b023bfe85cdf558810bfe58c2,4,hazard,TIME|SHOTS,I am paying attention to the car ahead because I am following it.,1,13,0
+96641ef3e519d5b355f791644e931151,dev,483fb0a276d294d1b1d59d87153ef58c,1,why,TIME|EGO|SHOTS,I am starting because the traffic lights to go straight are red.,0,12,0
+d5937616013ef866cfcbc9d9694fb607,dev,ad52823ae4e1172ba9eb4a80cbebaf23,1,why,TIME|EGO|SHOTS,I am decelerating because there is a pedestrian crossing the road ahead.,1,12,0
+f76fb57344c2164e87f9a496b63dc8f9,dev,08f471f6dd1628e8d57db25f611bd90e,2,decision,TIME|EGO|SHOTS,Move to the right side of the road to avoid the parked cars on the left.,0,16,0
+c5eebd0aff560d1df3d78f8f6fb09694,dev,808d7f89b6a26113738ce6fed8c8dfa7,11,identity,TIME|FAR_ZOOM|SHOTS,I am following a line of parked cars.,0,8,0
+1a2472e6f06324d8498f344a57ccd4e6,dev,e1b53c88a46015b4c96553c3e77f7361,1,why,TIME|EGO|SHOTS,I am currently decelerating because of the upcoming speedbump on the road ahead.,0,13,0
+e42e1b746b7febe1854a253c730c0890,dev,e0200d5807c6db0a31821090172323d1,7,light_state,TIME|SHOTS,The traffic lights are green.,1,5,0
+0adbc16121f8ac14c1b05c475fe3a701,dev,953d160052f258b7feafa6969b65ccf6,1,why,TIME|EGO|SHOTS,I am accelerating because there is a gap in the traffic behind the car ahead.,0,15,0
+61702207a5eb29746ae3b86f5743ce3a,dev,cc87a8d695b0e919e812462f0bc3ffe1,1,why,TIME|EGO|SHOTS,There is a gap in the traffic behind the car ahead.,1,11,0
+fe3ec405f04f3e708fef8c2010544547,dev,b4f4ee368441c3ecbb45a486a8f36ea7,2,decision,TIME|EGO|SHOTS,You should decelerate because of the cyclist ahead.,1,8,0
+a14e52c422541dfe6f7aba540dce3bcc,dev,449f7c0dbd67845c66db1ea59565f853,1,why,TIME|EGO|SHOTS,I am currently remaining stopped because the traffic lights to go straight are red.,0,14,0
+d4b6727b1b8dc3db20eb5ceca579c9ea,dev,e1f4ecad1351ed13e1ac8bc4eab86094,1,why,TIME|EGO|SHOTS,I am accelerating because there is a gap in the traffic behind the car ahead.,1,15,0
+8897ebf89db711c6e2404da74f7a02a2,dev,4de26af55897ca891e4788163888ba3f,2,decision,TIME|EGO|SHOTS,"No, it is not safe for you to accelerate in this situation because there is a cyclist in front of you.",1,21,0
+fdccb1184663b8c1250044a4e6b91f01,dev,3ce6ac693238de3d0043693f989c772f,1,why,TIME|EGO|SHOTS,I am currently remaining stopped because the traffic lights to go straight are red.,0,14,0
+fcccf4dcb477e57cbfba1389fe9e1f03,dev,3612f912ba521bc2c22135ce6da62eb9,2,decision,TIME|EGO|SHOTS,Move to the left side of the road to avoid the parked cars on the right.,1,16,0
+26a100f9645932212c40dfe927663e69,dev,2e637c28c7c64ef95df6a07d7208a4cd,2,decision,TIME|EGO|SHOTS,I am currently remaining stopped because the traffic lights to go straight are red.,0,14,0
+eb8c910db171c7cae14d322cb78d6ef5,dev,28038b19393450b78365a07f92566348,1,why,TIME|EGO|SHOTS,I am currently decelerating because of the upcoming speedbump on the road ahead.,0,13,0
+38029a27b4fd59eb5d4133f778231ba7,dev,89031ada785bf020d8be41689d3c650e,1,why,TIME|EGO|SHOTS,I am currently remaining stopped because the traffic lights to go straight are red.,0,14,0
+68e0f31ef2d94fd5a8b885a790a1f924,dev,6b138eacdc679b601140256dd5c4d077,1,why,TIME|EGO|SHOTS,I am accelerating because there is a gap in the traffic behind the car ahead.,0,15,0
+92be019c20e94fe9b8d390a698d23347,dev,9bd48382add5c61a295e8f87bd5eb14b,1,why,TIME|EGO|SHOTS,I am currently decelerating because of the upcoming speedbump on the road ahead.,0,13,0
+919cc8040ef48b2e1e64487a61d5c971,dev,40f40f16cc5508829d6538bb49c83266,9,where,TIME|SHOTS,The vehicle waiting to turn in front that you are overtaking is a white van.,0,15,0
+396e04e756079522fbe874ded1017da5,dev,5b3c8116b13c23003627c9a39d751fa7,4,hazard,TIME|SHOTS,"Yes, there is a hazard on the road ahead because the traffic lights to go straight are red.",0,18,0
+4b12274ddb914d470b24c95df2a5c12f,dev,733e806318a03648fd2d2e559a5e78bb,1,why,TIME|EGO|SHOTS,I am currently remaining stopped because the pedestrians crossing the road are blocking my path.,0,15,0
+45fd31d7cefe18879be87bcde43f0e45,dev,afa8293f9e48202f523cb0d0aa71c55c,1,why,TIME|EGO|SHOTS,I am decelerating because the traffic lights to go straight are red.,1,12,0
+06d8582b929e42662fcd9232006d61a5,dev,b9d6d6d99ae7666565f05cd63c5ea00b,1,why,TIME|EGO|SHOTS,I am decelerating because of the upcoming speedbump on the road ahead.,0,12,0
+4bef459b084cb6a5531df3eaca7d911b,dev,9c5561145b1c726b4e3cf45020e94cfb,1,why,TIME|EGO|SHOTS,It is unsafe for me to accelerate because there is a cyclist crossing the road ahead.,0,16,0
+2ad3d10932f1888443068ed9b6444424,dev,1e612de610826f8615db74ef8f760ed3,8,presence,TIME|FAR_ZOOM|SHOTS,"No, there is no traffic ahead.",0,6,0
+c95fde77cc840a1bfe9ed2f18fa89dcb,dev,9569034378f82324f308a2ea93ee073d,1,why,TIME|EGO|SHOTS,I am currently decelerating because of the upcoming speedbump on the road ahead.,0,13,0
+babf87c2da6c1179862b7342179875ba,dev,e120799f13cc4b59a7a299ceeeea4ff6,2,decision,TIME|EGO|SHOTS,"No, it is not safe to proceed across the zebra crossing ahead because a silver car is approaching from the right.",0,21,0
+d2fe07efd0e2428a371844d3662d68ed,dev,fd6395aad809c5b9c9da0fe3e8add441,2,decision,TIME|EGO|SHOTS,You would hit the curb and the red bus lane markings.,0,11,0
+021bae1d9702426df9fcf9b0261cd943,dev,156d8993cbb3e0914fce80e5326e8250,2,decision,TIME|EGO|SHOTS,You should brake because there is a cyclist in front of you.,0,12,0
+81a82426cd48b7c495874442d1a9f2fa,dev,e2de1184a9355d26e333ccd500443dca,1,why,TIME|EGO|SHOTS,I am steering right to avoid the oncoming truck in the adjacent lane.,0,13,0
+c9f35096fe3c2ab20e0a962fa44c7527,dev,c2cc9f3d546f1d7f7ea11a44a1aaa0b3,1,why,TIME|EGO|SHOTS,I am currently decelerating because of the upcoming speedbump on the road ahead.,0,13,0
+cccb4d7b52466314bc50628002f3bb93,dev,a5abd1d0588332bef5a6b1ecb827ef72,1,why,TIME|EGO|SHOTS,I am currently decelerating because of the upcoming speedbump on the road ahead.,0,13,0
+4d5ffa07bf7e13e6cb44dd8b6f839235,dev,0a8cfe6af3406033469610c49f3a0c60,1,why,TIME|EGO|SHOTS,I plan to overtake the cyclist ahead because there is a gap in the traffic behind the car ahead.,0,19,0
+f958ce7b9a99c9a1108d447cbb894d2d,dev,9f328903cdc7c3ac81820f29bab69235,2,decision,TIME|EGO|SHOTS,You should remain stopped because the traffic lights to go straight are red.,0,13,0
+a54fa456222562b4c0641909517c7637,dev,9f6ae95b59b368cfad480d7f171878b8,1,why,TIME|EGO|SHOTS,The kerb is impacting my actions by requiring me to stop at the red light.,0,15,0
+e85427c9d0bf818cc54b1386e9ee8694,dev,16e08cf1d2272fda39b022b8135785e1,1,why,TIME|EGO|SHOTS,I plan to overtake the red bus ahead because there is a gap in the traffic behind it.,0,18,0
+3a04f352891b17365dc77cded315789e,dev,724cc79a5e339c65523f3966aa54157c,8,presence,TIME|FAR_ZOOM|SHOTS,"Yes, there is a line of traffic ahead of me.",1,10,0
+943cea7b592c5b8712627a90b5db515c,dev,1ceab909a4d1abe346b9962198872c63,2,decision,TIME|EGO|SHOTS,I am currently remaining stopped because there are pedestrians on the zebra crossing.,0,13,0
+08a968198f0491b02b26691b757bad87,dev,b1914e843fc720560f5a80e7e8111994,1,why,TIME|EGO|SHOTS,I am currently accelerating because there is a gap in the traffic ahead.,0,13,0
+86cd929ff39700d50768f481f0cc4739,dev,9b2f7a635b802c14a6d0ce80e7fa2089,1,why,TIME|EGO|SHOTS,I am decelerating to keep a safe distance to the kerb as pedestrians are crossing the road.,0,17,0
+bbb0a3f7c16847e214bdef22a2d385b7,dev,e7ea4d10013f597ad7e7cbdf8996e3c7,1,why,TIME|EGO|SHOTS,I am stopping because the car ahead is stopped.,1,9,0
+5753e640e336af1cbaa3e220936afdff,dev,fc7e2f85b5ac2e88388e9ecf0bff7610,9,where,TIME|SHOTS,The parked vehicle you are overtaking is on the right side of the road.,0,14,0
+31802aaf3ab62c4cfd51f00d065c4c57,dev,55ee7f8733a109cd2505af31d8da678a,4,hazard,TIME|SHOTS,I am paying attention to the white van ahead and the traffic lights because I need to maintain a safe following distance and ensure I can proceed when the lights turn green.,1,32,0
+81aec017e0a113b2d6f543ead7766c8c,dev,c7062a6b27e71bcc57f47cd9af2d7a48,4,hazard,TIME|SHOTS,The traffic lights to go straight are red.,0,8,0
+50ab23f46c016b263224edec479923e4,dev,ddda7a88336116680dbb988d0a3bfe8b,2,decision,TIME|EGO|SHOTS,"No, I am not stopping because I am currently accelerating.",0,10,0
+910cfbfb4cc13b328a7d6a1c06283296,dev,44941ef42b48f9a04358673aaae3a941,4,hazard,TIME|SHOTS,You must pay attention to the roadworks ahead and the stationary vehicles blocking the lane.,1,15,0
+24c62da287b45d36a007bb0829c7aedb,dev,1f57281d20971dc3bfec45612b194831,1,why,TIME|EGO|SHOTS,I am accelerating because there is a gap in the traffic behind the car ahead.,0,15,0
+f00150bd2ceccf0fb896a4ac8a13414f,dev,597cb63f82ff3b2e3f7d6e70fad8de2a,11,identity,TIME|FAR_ZOOM|SHOTS,I am following a red car.,1,6,0
+80239a76e4969a078ab95cf5581b626c,dev,2f6edc3270f5d89c962740edce2714b1,2,decision,TIME|EGO|SHOTS,You should stop because the traffic lights to go straight are red.,0,12,0
+49e38dec887c87bdd54a6012e99343d9,dev,741a7b02014116c66e16d509a917e438,1,why,TIME|EGO|SHOTS,I am accelerating because there is a gap in the traffic behind the car ahead.,0,15,0
+1eed4956ead85d57bc840a1810682cbd,dev,1971f1444c819f0ffe0211162d62954c,1,why,TIME|EGO|SHOTS,I am accelerating because there is a gap in the traffic behind the car ahead.,1,15,0
+74b542913c44ed48f8e477dd2814ba1f,dev,e4fb2994bf7592338f3ecf1e73eca9d4,1,why,TIME|EGO|SHOTS,I plan to overtake the silver car ahead because there is a gap in the traffic behind it.,0,18,0
+b326e4d1c8428b839f07e37fc061ec53,dev,32a3f541c2a243f5697dd1295be29ae5,2,decision,TIME|EGO|SHOTS,"No, it is not safe for you to accelerate at this time because there is a cyclist approaching in your lane.",0,21,0
+470ff0914e238759beb4e210c294367e,dev,83e9530181f36e241323e5706bc40765,4,hazard,TIME|SHOTS,I am paying attention to the cyclist ahead because they are riding in my lane and I need to maintain a safe following distance.,0,24,0
+4a973f56fa6c1da44f5cf8cbb2df8dc1,dev,5d40ed8ab2ddeaea1072cb3314ead1c4,2,decision,TIME|EGO|SHOTS,Move to the right side of the lane to avoid the oncoming white car.,0,14,0
+8d3eae8b21bf602e7aa74992634d006d,dev,f9f633d4b7a7a909ed154081135e1bac,1,why,TIME|EGO|SHOTS,I am decelerating because of the large red bus to my left.,0,12,0
+46cf47237c92c5cfed6a96bf2d2acc1f,dev,0b646255bf214ee0669e5cd11a1bf38f,8,presence,TIME|FAR_ZOOM|SHOTS,"Yes, there is traffic ahead as a white van is visible in the distance.",0,14,0
+93b6c99a7d62f0044ec6181f7c2f3a6d,dev,18b6837f6d890d83d7fa018259bc7c29,1,why,TIME|SHOTS,It is unsafe to accelerate because there is a pedestrian crossing the road ahead.,0,14,0
+7137d944020812c24c27c1ca94df92b2,dev,1fad57c8a84ce3da254efb72c2daded6,1,why,TIME|EGO|SHOTS,I am currently remaining stopped because the traffic lights to go straight are red.,0,14,0
+2d46125b3d6cd214e0ef40ad0293a06f,dev,baa30adf11e161f45979004ab3ebc849,4,hazard,TIME|SHOTS,I am paying attention to the pedestrian crossing the street ahead because I need to ensure their safety.,1,18,0
+8de9b43a022658125817de35d208eb46,dev,a688c0ecf944dca5f81b3e8876142497,2,decision,TIME|EGO|SHOTS,You should remain stopped because the traffic lights to go straight are red.,0,13,0
+4f67467bc8aa865333e977df5b1b8a34,dev,1ac01ac70782c688bd02de17d4f3b8b2,2,decision,TIME|EGO|SHOTS,I am currently decelerating to safely overtake the parked vehicle.,0,10,0
+bc6b04f66651b5588b2d8de61dd5f21e,dev,b6fa0f281f43327739bd5995548de2d0,2,decision,TIME|FAR_ZOOM|EGO|SHOTS,"No, you should not stop to give way to pedestrians in this situation.",1,13,0
+a5178943abbfcbdbede1757ba408518b,dev,99c91aea7c34d84b573a9c66e1c99302,2,decision,TIME|EGO|SHOTS,"No, I am currently decelerating because of the upcoming speedbump on the road ahead.",0,14,0
+4c32f00f3dc7dbab2b7d727b16f78340,dev,8b961d750206e8a2ed63c5f6a538efef,1,why,TIME|EGO|SHOTS,I am currently stopping because of the upcoming speedbump on the road ahead.,0,13,0
+230fd4d08b6d6520049259ce5e1fec48,dev,866fc8830a9caca71d046217678c59ad,8,presence,TIME|FAR_ZOOM|SHOTS,"Yes, there is traffic ahead as there is a white van in front of me.",0,15,0
+5ffe35a57f1df989622f3170ced57def,dev,ca4435bf68c07e5afd5029155705f11d,10,others_motion,TIME|FAR_ZOOM|SHOTS,"Yes, there is a pedestrian crossing on the zebra crossing.",0,10,0
+20441cc283a46d47a0432e5f597b761e,dev,9ac3486402ac64bc348fe0d4d9918d75,8,presence,TIME|FAR_ZOOM|SHOTS,"Yes, there is traffic ahead as there is a bus and a van in front of me.",1,17,0
+bdc07c3c98bb3d2a3655f95bff1b1281,dev,b2e3b04145b2e969060895ac8b8627b4,11,identity,TIME|FAR_ZOOM|SHOTS,I am following a red double-decker bus.,1,7,0
+3b4d16c2d2993933c2db8f2780f89a22,dev,3584f51128bcfc8f539b4d353575977e,2,decision,TIME|EGO|SHOTS,You should decelerate because the gap in the traffic ahead suddenly disappears.,1,12,0
+f6727a011cf1357b27e96654a505a5df,dev,88682bac3c2c6850cfd9d7ca9368004b,1,why,TIME|EGO|SHOTS,It is unsafe to accelerate because a cyclist is approaching from the left and you are stopped.,1,17,0
+926e9bdf01802beef312aa064bec59c4,dev,c47110d61ae0a51c65beaa3b50ebcbf6,4,hazard,TIME|SHOTS,"You must pay attention to the traffic lights to go straight, which are currently red.",1,15,0
+8043138e8afce7f519d45d11a33f58f0,dev,015fec1ae84837d49c3adec2376186a4,1,why,TIME|EGO|SHOTS,There is a gap in the traffic behind the bus ahead.,1,11,0
+987f0f51495b1b2a3f56dd92996f952d,dev,200d333ebaa29b4a19d1c17e107fabc9,1,why,TIME|EGO|SHOTS,I am accelerating because there is a gap in the traffic behind the car ahead.,1,15,0
+cc2495acf217c548220d9dd9fb2d401b,dev,ca2838a8cb4515d7456d5f641b6e296d,4,hazard,TIME|SHOTS,I am paying attention to the parked cars on the left and right sides of the road to ensure there is enough space to maneuver safely.,1,26,0
+4b0480cab7b77e72d0f5a67f5eb078a0,dev,bce7f36614f2a03ca10c1c59210dbafc,2,decision,TIME|EGO|SHOTS,I am currently accelerating because there is a gap in the traffic behind the car ahead.,0,16,0
+120b7725a51614eb23f7b04f3b598e32,dev,c1c5da704764dffb3773ec747814373c,4,hazard,TIME|SHOTS,I am paying attention to the white van approaching in the opposite lane to ensure it maintains a safe distance.,0,20,0
+a318bc392b87cda26a5726b61c133457,dev,23f47d147e16d40a5b3be6a4d7bb4b7f,1,why,TIME|EGO|SHOTS,I am remaining stopped because the traffic lights to go straight are red.,0,13,0
+c0b84a1077ce27d4c2e8d36923122f8b,dev,09177ae111df62f03788afb4b3122498,1,why,TIME|EGO|SHOTS,I am remaining stopped because the traffic lights to go straight are red.,0,13,0
+002ac2a4e6bd89c28bee556506e9321c,dev,f918bcf61d5e1c76fc9e43578bb4d07d,1,why,TIME|EGO|SHOTS,I am currently decelerating because of the upcoming speedbump on the road ahead.,0,13,0
+1ae74dda0a151e8ba7ef075cf527ce01,dev,63a6b5ebb7f22bead830f19bdd4ba82c,1,why,TIME|EGO|SHOTS,I am turning right because the road ahead is clear.,0,10,0
+1b822fbb8371d06483da10124e0ff51b,dev,877905e165db39cdebc4d497e7998e51,1,why,TIME|EGO|SHOTS,I am currently accelerating because there is a gap in the traffic behind the car ahead.,1,16,0
+82c721376fb8d1b453a2d12d39179a2a,dev,dede5dfbdde342198c763c9d51df009f,2,decision,TIME|EGO|SHOTS,You should stop because there are pedestrians crossing the road in front of your vehicle.,1,15,0
+83058641cc8dfb5021b243155e5fa2bf,dev,f1b09a4e5df26be3d8f3f803112c085d,1,why,TIME|EGO|SHOTS,I am decelerating to keep a safe distance from the oncoming lane as the black SUV ahead is turning left.,1,20,0
+8cb16eda7aebc6061255a4ae0d2147f8,dev,3a8b28070828d6a553753c850cfc171e,4,hazard,TIME|SHOTS,I am paying attention to the parked cars on the right side of the road because they are close to the curb and could potentially move into my lane.,0,29,0
+8cd749ba318182328e1b4771d8f473bd,dev,77392a225aef350e594ccc9af872624b,2,decision,TIME|EGO|SHOTS,"No, it is not safe for you to accelerate in this situation because there is a cyclist directly in front of you.",1,22,0
+95d1b534b36d95abdbbc3e1d2a08772f,dev,b763a7ccacf4993e8405a52f4cacd955,1,why,TIME|EGO|SHOTS,I am steering left to avoid the oncoming yellow truck.,1,10,0
+1154d51e2f214b0ecc6976dc740185a7,dev,ee40b871212f0aa23ad84b0708d42de3,2,decision,TIME|EGO|SHOTS,I am currently accelerating because there is a gap in the traffic behind the car ahead.,0,16,0
+dc2c76f8ac8d0e7d2e0318381e546909,dev,a20d6d0e77a96af49985f887cc032e7b,1,why,TIME|EGO|SHOTS,There is enough room to pass safely.,1,7,0
+f5897dc8d6cda3460edd4d51d9cb5cd4,dev,27124cae88454d1335e4d202c8c9b353,1,why,TIME|EGO|SHOTS,I am remaining stopped because the traffic lights to go straight are red.,0,13,0
+dc166f284f0e27afe6dbc1b7d8686ef6,dev,e9b3461e7cd87488bdc4a04849960d30,2,decision,TIME|EGO|SHOTS,I am currently remaining stopped because the road ahead is blocked by parked cars and roadworks.,0,16,0
+4c2064669b604f953badc1061f18c21e,dev,f6de1837a6451a57ea1f3a4fd4ad0a23,4,hazard,TIME|SHOTS,I am paying attention to the traffic lights ahead because they are green and I am proceeding through the intersection.,1,20,0
+284f363d1dc372535adfa2352355267c,dev,bbdc4a4632fcafb7be1f3cf8334f2e95,2,decision,TIME|FAR_ZOOM|EGO|SHOTS,"No, it is not safe to overtake the cyclist at this time because there is oncoming traffic.",0,17,0
+95b428b2c3cc2daab05e27d58b5b43ba,dev,8639b526f14fd4ce53bac08519a65043,1,why,TIME|EGO|SHOTS,I am remaining stopped because the traffic lights to go straight are red.,0,13,0
+fc61a91c8407929f759dfd4501e64653,dev,74d2f73a1a2a0c658dd99e02b76f6de9,4,hazard,TIME|SHOTS,No.,1,1,0
+c6fff316d6eefd7360c7870cee9f8fd4,dev,1f4886dfff21a539fe41d149e36760ed,4,hazard,TIME|SHOTS,You must pay attention to the cyclist ahead of you.,0,10,0
+599d111e11ed2472be562dd333888332,dev,4c2a76ec1b9c0cf0138caed1a20e921a,1,why,TIME|EGO|SHOTS,I am turning right because there is a gap in the traffic behind the car ahead.,1,16,0
+3dd0377c40f071a43efc993c545a7f63,dev,1930091c4f5bae8c6ab700aa54cef410,1,why,TIME|EGO|SHOTS,I am decelerating because of the upcoming speedbump on the road ahead.,0,12,0
+1c7ed319a24e3fbcfd8018d1c049f698,dev,255f858191fd0779b5c715c4c99e7a01,1,why,TIME|EGO|SHOTS,"The adjacent lane is empty, so I am not currently slowing down due to traffic.",0,15,1
+52c6bb92c364d20bd635d3c3c12a764e,dev,8779c4a9301a084b6325b943b644de6b,1,why,TIME|EGO|SHOTS,I am accelerating because there is a gap in the traffic behind the car ahead.,0,15,0
+88383a2324c23a1fd6a4f47719081642,dev,849bbecb9aeecf4a210532a71692660e,1,why,TIME|EGO|SHOTS,The traffic light is red.,1,5,0
+0fc2b54bfad62b9208ce463ffd634dea,dev,340fa44e8225adf918eb5f4e9bfba86f,2,decision,TIME|EGO|SHOTS,You should be braking because there is a motorcyclist approaching in the opposite lane.,0,14,0
+7a75c4daa1f753455897a486e694a9c9,dev,8485258a1cbdd158ab7fc7029e02ea05,1,why,TIME|EGO|SHOTS,There is a car approaching in the opposite lane.,0,9,0
+a57d282f544a3392a432bf4461e50cb2,dev,17600cc840680ae37b566b3127159904,2,decision,TIME|EGO|SHOTS,"No, it is not safe to proceed across the zebra crossing ahead because a pedestrian is currently crossing it.",0,19,0
+804177b6010e94d1a1a79100bc9ac338,dev,6059641cca90fa554312dbf6d32fa774,1,why,TIME|EGO|SHOTS,I am currently positioned in the left lane because the road ahead is clear and I am following the flow of traffic.,0,22,0
+23708378fdc37c3d443cf3a9ae19cf63,dev,af0f18cc4561cc4815d3c279948e9f6b,4,hazard,TIME|SHOTS,I am paying attention to the traffic lights ahead because they are green and I am starting.,0,17,0
+6749f2450f80815a190cb1f92f26fae9,dev,7a0b7b6a1e2bce8a9909cbaa513c7cf6,1,why,TIME|EGO|SHOTS,I am accelerating because there is a gap in the traffic behind the car ahead.,0,15,0
+94c77e798e604eef210d4f4b4372bfb5,dev,5847e6c2463fa0dcee019d210bab58ec,1,why,TIME|EGO|SHOTS,I am accelerating because there is a gap in the traffic behind the car ahead.,0,15,0
+990efab1dd0a7506dc4ac711c5848f9b,dev,5ee9faef08d240f19f1e976ada2b2ac9,4,hazard,TIME|SHOTS,The white van ahead and the road ahead.,0,8,0
+fde13c926d1becb305d3a98029676d29,dev,65dad8de26d6d629fe78e531f7fe3aee,1,why,TIME|EGO|SHOTS,I am currently decelerating because of the upcoming speedbump on the road ahead.,0,13,0
+80ed26118509589c8e96931cfe446366,dev,5bb4a85e3d97225ad7b5b7e4c8844cd7,1,why,TIME|EGO|SHOTS,I am currently remaining stopped because the traffic lights to go straight are red.,0,14,0
+07cb6970af6bf613cb7866d0c48f269e,dev,0126059506a55bb976b52fe1f143cee2,1,why,TIME|EGO|SHOTS,I am currently remaining stopped because the traffic lights to go straight are red.,0,14,0
+85b3f24fcafa4b4ad610506c79fc9704,dev,254a2cf154abbc4925c990dfddc737b7,4,hazard,TIME|SHOTS,I am paying attention to the traffic lights ahead because they are red.,0,13,0
+5058ff2774e736d20e73051706594284,dev,2f3d9d9ea8f4e0204b22a72dccf5e2e8,11,identity,TIME|FAR_ZOOM|SHOTS,I am following a car ahead.,1,6,0
+8bdef39678f5bb623a00672bd36828f9,dev,2b1b152779ce15ff3fff3e2a3bcaed5d,1,why,TIME|EGO|SHOTS,I am currently decelerating because of the upcoming speedbump on the road ahead.,0,13,0
+fbc93d816868c2ad4e11c9bba6e74d94,dev,e15583a3f305af4674383d1334f36e71,4,hazard,TIME|SHOTS,"Yes, there is a hazard obstructing your path as a person with a blue suitcase is crossing the road in front of you.",0,23,0
+8bfeff851a632e305152b94f03256dcb,dev,77e70e9f7a4da26b03561d73419d1748,1,why,TIME|EGO|SHOTS,I am currently remaining stopped because the traffic lights to go straight are red.,0,14,0
+37793f32176c8ff92cc20227ad0415cb,dev,d7aa81736843943f85c1a341b3218acf,2,decision,TIME|FAR_ZOOM|EGO|SHOTS,I am currently remaining stopped because the cyclist is in my lane.,0,12,0
+07209f9df4702fb5f724d3eeb2a4d073,dev,6d65f4addfd7dd3e6e82f0ec20f4cfc6,2,decision,TIME|EGO|SHOTS,"No, it is not safe for you to accelerate in this situation because the traffic lights to go straight are red.",0,21,0
+5a883e1daab9c0439a94bb2578f294a3,dev,20f765be844f4ffac1e847796d60d5c1,2,decision,TIME|EGO|SHOTS,You should decelerate because the white van ahead is slowing down.,1,11,1
+684be86c42d42d2ffc02c7ab9a7aab14,dev,a377bc5c69f9bb927407542422e6bb5d,1,why,TIME|EGO|SHOTS,I am decelerating because of the upcoming speedbump on the road ahead.,0,12,0
+266d5e97e1e67a05edcbeacbbae2c8b6,dev,ed92297d5f559d9a35d03c2f70dd7849,1,why,TIME|EGO|SHOTS,I am currently accelerating because there is a gap in the traffic behind the car ahead.,0,16,0
+86c8516bb2614a7d0b425722f64364fd,dev,aac3b9e7f0da3d6382229e6961f8b538,2,decision,TIME|EGO|SHOTS,"No, it is not safe for you to accelerate in this situation because there is a pedestrian crossing the road in front of you.",0,24,0
+740b3b09a39c952b579a2ecbd2f80fb1,dev,e0c63509d0481aa1bfdfbd43982215e0,4,hazard,TIME|SHOTS,The parked cars on the left and right sides of the road.,0,12,0
+643f0ea7e7bc8d58cd80fe8e7b253acc,dev,bee9ec96657a948138e2eef1db25fa5e,1,why,TIME|EGO|SHOTS,I am slowing down because of the white van ahead.,0,10,1
+7cee5fa5a5f5a0cd06f51ca4250b69b6,dev,87804798964689a6ee39b6edbd6c993f,4,hazard,TIME|SHOTS,I am paying attention to the silver van in front of me and adjusting my position to maintain a safe following distance.,0,22,0
+03520d27b9cc362fb12d7099eba39614,dev,ff0336ae0e07cbd2a0d758137a9c644d,1,why,TIME|EGO|SHOTS,The traffic lights to go straight are red.,0,8,0
+184eb174e7c8ffda331de060966398f4,dev,abaeb54606171d412df8be772a39f733,1,why,TIME|EGO|SHOTS,There is a white car crossing the road from left to right in front of me.,0,16,0
+6a09d4dd3accb39550d06e3e1341453e,dev,2cbc90a2ea67c5fee933a02b18cc0af1,1,why,TIME|EGO|SHOTS,I am currently remaining stopped because the traffic lights to go straight are red.,0,14,0
+08406069d4af76bd239d729c513923d2,dev,cfc112a005325e4303005c559340000b,1,why,TIME|EGO|SHOTS,It is unsafe to accelerate because the traffic lights to go straight are red.,0,14,0
+8b404b2aa34c3e0fccf2f693a92a4ec8,dev,2596bc46aa0fc008ed1a296888ee3cad,7,light_state,TIME|LIGHT_ZOOM|SHOTS,The traffic lights are green.,1,5,0
+62a07e96dd88f8ccbf50481cc3755e32,dev,40db2cdf7e723f5dca2a3dcdc8cd7808,11,identity,TIME|FAR_ZOOM|SHOTS,I am planning to overtake the red double-decker bus on the right.,1,12,0
+b0fad0d35d33082ee76b109a6f7f1516,dev,28b93649f33761d1f2b3a40958e93de8,11,identity,TIME|FAR_ZOOM|SHOTS,I am following a red double-decker bus.,1,7,0
+5c781f548d873068e72c15a058d2f818,dev,56fdef2cb7e76fb54575efd3ca6f5373,1,why,TIME|EGO|SHOTS,I am currently remaining stopped because the traffic lights to go straight are red.,0,14,0
+3ee8eb103aabdcd027ebb7c537e60f3a,dev,ad15f4379fb66002bdb9c8a90aed7e7a,2,decision,TIME|EGO|SHOTS,"No, it is not safe for you to steer left in this situation because there is a pedestrian crossing the road.",0,21,0
+cb535e1d5f704d6cb433d263cb072ba9,dev,bf1bb15f2ab26cda1983e620a8997b4a,1,why,TIME|SHOTS,The adjacent lane is impacting my actions because I am decelerating to avoid a pedestrian crossing the road.,0,18,0
+66e52e3b7bab3744abf97ee6ed7cb1f2,dev,42f428bcf3728909f990867cc5b810f1,2,decision,TIME|EGO|SHOTS,"No, it is not safe to overtake the parked vehicles at this time.",0,13,0
+b79aed9e1aa65e6ae5b298beb84d5e8a,dev,47aef4a7b0dfe44c191dd3236876a8ad,2,decision,TIME|EGO|SHOTS,I am currently turning left because the traffic lights to go straight are red.,1,14,0
+75632a458b234a578400c1aef26622a5,dev,07b7139efac4e2d2c525412a12f29916,1,why,TIME|EGO|SHOTS,I am remaining stopped because the pedestrian crossing ahead is occupied by a person.,0,14,0
+456d27b7ecc8b5e6cc42e1e9d1f5a72e,dev,508c5b0a231c1f2a649a41ade32adcce,2,decision,TIME|EGO|SHOTS,"No, it is not safe for you to accelerate at this time because there is a cyclist approaching in your lane.",0,21,0
+d4f5f1a2341a2cea96f3682cfb6dbc80,dev,4f604ca70e27fa2ad14c27c835558b8e,2,decision,TIME|EGO|SHOTS,You would hit the pedestrian crossing island and the yellow bollard.,1,11,0
+dc7eff670561036de00ce459310c6c03,dev,55522d07be223ccd3da0a4db5ea855ea,7,light_state,TIME|LIGHT_ZOOM|SHOTS,The traffic lights are red.,1,5,0
+d253d0c2df9fce3ccbdf2f0af132363e,dev,947e9cf208d0e6cb72c8776e3a07764e,2,decision,TIME|EGO|SHOTS,"No, it is not safe for you to accelerate in this situation because there is a car ahead of you.",0,20,0
+5e28c00419ceda8bac9727c4e8cbc08d,dev,45b86701c294a06d915e05068a92b413,1,why,TIME|EGO|SHOTS,I am planning to overtake the parked cars on the right because there is a gap in the traffic behind the car ahead.,0,23,0
+45a5423b3fe37cce795bd8f86daec258,dev,68ad2abc8355fa0b2cd2e2a4012e8971,2,decision,TIME|EGO|SHOTS,I am currently remaining stopped because there is a pedestrian on the zebra crossing.,0,14,0
+6ed72d63e7959b54157e7da180a94621,dev,9b37bb4faf4e647a0b2218378486d1d9,4,hazard,TIME|SHOTS,"Yes, there is a hazard on the road ahead as the traffic light is red.",0,15,0
+199a88cb77bc7ce14ff08c82900cac8a,dev,5e30965c30f9991ca94fb1a7a2a89243,2,decision,TIME|EGO|SHOTS,You would hit the parked cars on the right.,1,9,0
+09f47fcdc8c3b98873ee76fe2ec06b85,dev,7eb7e281674c83e30227201bf0946a61,1,why,TIME|EGO|SHOTS,I am currently remaining stopped because the traffic lights to go straight are red.,1,14,0
+f6fa43401988dac94d70398fe83191de,dev,868c981fe5c868fb305a5fa2be3acd0f,1,why,TIME|SHOTS,I am stopping because there is a pedestrian crossing the road.,1,11,0
+f19573d37adbf817b3439f18f51f90cf,dev,d6204aec8b3569e4ddb6157fdff52e92,2,decision,TIME|FAR_ZOOM|EGO|SHOTS,I am currently remaining stopped because there are pedestrians crossing the zebra crossing ahead.,1,14,0
+90ff2b799dee8df030fb6dd2555ba203,dev,bfec59785bb04b1c9a87f518c1fa8e08,1,why,TIME|FAR_ZOOM|SHOTS,The cyclist is causing me to decelerate because they are occupying the lane ahead.,1,14,0
+56498d9daa40206b6a5eea9378c61751,dev,ebcb6fddbd925d66849cd63075c0713f,1,why,TIME|EGO|SHOTS,I am decelerating because of the upcoming speedbump on the road ahead.,0,12,0
+63de5003cc889457eb88330e1f17f78a,dev,539f828f602e17fc939ba88fd9fa5588,1,why,TIME|EGO|SHOTS,I am stopping because the traffic lights to go straight are red.,0,12,0
+9abd5f74cc4df77ea4198505ee2efe5a,dev,917ca001e46a29fd45d9f18e546b722e,1,why,TIME|EGO|SHOTS,The traffic lights to go straight are red.,1,8,0
+d59c23dd82dab0ef1fda83efb60647d2,dev,fabf96163d8a60291af23ded4f216ca5,4,hazard,TIME|SHOTS,I am paying attention to the road ahead and the traffic to ensure I maintain a safe distance and follow the lane correctly.,0,23,0
+dafe51e242f3c4b81b1590f3a6d8788e,dev,46d50a154ba63e4115589a0ee3410524,4,hazard,TIME|SHOTS,"Yes, there is a cyclist on the left side of the road ahead.",1,13,0
+4579995f265052b8dc12814654a85b7a,dev,ef551b722204cee008392c2c0d0f2c63,4,hazard,TIME|SHOTS,I am paying attention to the pedestrians and market stalls on the sidewalk to ensure safe navigation around them.,0,19,0
+18fdc5f2ae954389efd9261457805d4b,dev,6fcf38fa61c4cf26db106d1200005ca3,1,why,TIME|SHOTS,I am starting because there is a gap in the traffic behind the car ahead.,1,15,0
+531f9cfae86d2cf292c79be07fd3c29b,dev,46374010c4fca3c01663d1d112c943b6,4,hazard,TIME|SHOTS,"Yes, there is a hazard on the road ahead as there is a cyclist in front of me.",0,18,0
+dff5971f6ab62015ab559de5b7afe57d,dev,ab7257616837d8b654909c4e7ab93746,2,decision,TIME|EGO|SHOTS,"No, it is not safe for you to accelerate in this situation because you are currently slowing down.",0,18,1
+f954938cc064bfcb88af2a5411ad06ce,dev,81faf642fbce0b0b5bf13fd8639087ad,2,decision,TIME|EGO|SHOTS,"No, it is not safe for you to accelerate at this time because there is a white van directly in front of you.",0,23,0
+68c502c58b81393007be799b232749be,dev,f5a243b53d75adfc1fec326414a6f9ea,1,why,TIME|EGO|SHOTS,I am currently positioned in the left lane because the road ahead curves to the right.,0,16,0
+40a5be3d1b3bc3255998624a0b989400,dev,589921c2a8d8738a211dd8881c96cdab,8,presence,TIME|FAR_ZOOM|SHOTS,"Yes, there is traffic ahead as indicated by the black car in front of me.",1,15,0
+ad1c72c9ee5f072e67c73cb9b0e12773,dev,a7f03c7ecf80e98375bfb06ff47296fd,1,why,TIME|EGO|SHOTS,I am currently decelerating because of the upcoming speedbump on the road ahead.,0,13,0
+71cae3fede379f32730a24dd448d7714,dev,8460fec49c0eed48b7e45b0838e529e4,2,decision,TIME|EGO|SHOTS,"No, I am currently remaining stopped because the traffic lights to go straight are red.",0,15,0
+e50383cbe2cd3d7ec826f468dee1b3c9,dev,e1c0c40ac331429edfd4f9b2d045a566,4,hazard,TIME|SHOTS,"Yes, there is a cyclist crossing the road from left to right.",0,12,0
+d759c11db34fe8e06ede373b1c739b26,dev,7f7e4863d711e033f8ac2a1b9bbce8eb,1,why,TIME|EGO|SHOTS,I am remaining stopped because the traffic lights to go straight are red.,0,13,0
+21269556f1531732b327638a867afe36,dev,1494d4e57bafc2c61241b143d02f89e4,1,why,TIME|EGO|SHOTS,I am currently remaining stopped because the traffic lights to go straight are red.,0,14,0
+a16d37757caf064cceebb65ea083eb0e,dev,1117109bf6e9111cbc242b0f11344aa0,1,why,TIME|EGO|SHOTS,I am currently remaining stopped because the traffic lights to go straight are red.,0,14,0
+799bafadef3c509c45032a96b01b4fd8,dev,8f27c11ce91e953495c3ca8f3f5103ba,2,decision,TIME|EGO|SHOTS,I am currently remaining stopped because the traffic lights to go straight are red.,0,14,0
+bab0a4bc817a870dfc8b76ab91cbdb76,dev,542ecd9ed9d76a2c5f5388955237aa3c,2,decision,TIME|SHOTS,I am currently remaining stopped because the traffic lights to go straight are red.,0,14,0
+35d4c22ac827dbe0b75c0c8c74e8d1aa,dev,13c5bdeaf0a9fb57ce3c122f1589b700,2,decision,TIME|EGO|SHOTS,You would hit the curb and the bus stop shelter on your left.,1,13,0
+85f2460fba8731bd0142a9e76adbce8c,dev,3f37f6945e2874d917f113637a4f0f50,2,decision,TIME|EGO|SHOTS,Move to the left side of the lane to avoid the oncoming traffic and the pedestrian crossing ahead.,0,18,0
+d98cef991cc843791ec607d753493203,dev,82e4f912759d234c9cfb56fe8f49cc8f,4,hazard,TIME|SHOTS,I am paying attention to the silver car ahead because it is moving slowly and I need to maintain a safe following distance.,0,23,0
+5c812897b94596eedbed11e91cd941be,dev,7e8a077f585d92b570f0385f024fbfd2,4,hazard,TIME|SHOTS,A parked car is catching my attention because it is parked on the left side of the road.,1,18,0
+235b65165932ac10f7b3a860d9b17aea,dev,eb122e5fc44983c64b98a82c699b1787,4,hazard,TIME|SHOTS,I am paying attention to the green traffic lights ahead.,1,10,0
+dd951de61c6ced16afa0cf6c170f4813,dev,40337f99b8f8423584ac1208e8017b79,1,why,TIME|EGO|SHOTS,I am currently remaining stopped because the traffic lights to go straight are red.,0,14,0
+68b6ed28754ac42030b4192732382852,dev,e1c0d283a549959d81a6455471bf2415,1,why,TIME|EGO|SHOTS,I am currently positioned in the left lane because the road ahead is clear and I am following the flow of traffic.,0,22,0
+b3e2ea0a708527fbd4bea9d27b1d8b9b,dev,65fc6b13b94c671fbec520b961de3c5a,2,decision,TIME|EGO|SHOTS,You should stop because the bus ahead is stopped at the bus stop.,1,13,0
+5a51f931c2b2be9dd0fb3ec4ff53a1c3,dev,05d290ff93259394c94b4a37b6e15ac1,4,hazard,TIME|SHOTS,"Yes, there is a pedestrian crossing the road from the right side.",0,12,0
+db9701acc70aa2ceb45114a3f2fb8d2b,dev,7a8510aefe3641ef97dc7fe5536f3b40,2,decision,TIME|EGO|SHOTS,You should brake because the car ahead is slowing down.,1,10,1
+a421e99954830607b94c58c0e7fc23ce,dev,0726a2f5eedf0050ab9abac21bf56488,2,decision,TIME|EGO|SHOTS,I am currently remaining stopped because the traffic lights to go straight are red.,0,14,0
+97adc4b84370af22a206ca525eca1a9c,dev,de1c00d2807eb2a643a5ee131f8a49e8,1,why,TIME|EGO|SHOTS,I am steering left to avoid the parked cars on the right side of the road.,0,16,0
+01128f940a4bc6faec62b90809322af6,dev,c64707d7e3ddf662c03ee07c5fb016bd,1,why,TIME|EGO|SHOTS,I am currently remaining stopped because the white van ahead is stationary.,0,12,0
+507a8fea1eb94af8386ca69b9443921f,dev,7128f53ad3e811cd07041fdae9b33d3f,4,hazard,TIME|SHOTS,I am paying attention to the parked cars on the right side of the road to ensure there is enough space to pass safely.,0,24,0
+2cdaccefaba2a5ef85a0649e9233d7ae,dev,f59e2fe070544f069a1d8e00d4270e9c,4,hazard,TIME|SHOTS,I am paying attention to the parked cars and the road ahead to ensure I can safely navigate the intersection.,0,20,0
+7987976a99cdb14f363cdfa1735c0521,dev,634533b9d48612fb208319e40a139ee7,1,why,TIME|EGO|SHOTS,I am turning left because there is a gap in the traffic behind the car ahead.,0,16,0
+b04bc008279e5ec5130a45a1a106ca28,dev,04d68c879534d4eccefec8ab7a0420ec,2,decision,TIME|EGO|SHOTS,You should decelerate because of the upcoming speedbump on the road ahead.,0,12,0
+5261ff9725aae5dc63f26413caed3c69,dev,0c0c19e1e186e5c6fe43eba2fc7e2e93,2,decision,TIME|EGO|SHOTS,I am currently remaining stopped because the traffic lights to go straight are red.,0,14,0
+76537b77de032f00c8da6758e52935f4,dev,46e06d3efbe0e2e3ece29cca40ee1a68,4,hazard,TIME|SHOTS,"Yes, there is a hazard on the road ahead because a red bus is stopped at a bus stop.",0,19,0
+935720a1711d9161c3122eede499599d,dev,fecfc828f0b32aaaac7c63b9a8372010,1,why,TIME|EGO|SHOTS,I am currently stopping because of the white van ahead.,0,10,0
+0b3ba1bdd83c60ee07ebfdc425717b5e,dev,b6270405f8595fd771c3eab2fb2d3829,2,decision,TIME|EGO|SHOTS,I am currently decelerating because of the upcoming speedbump on the road ahead.,0,13,0
+6750e0cbf89171596229a4ecd60e6eff,dev,6da8477416cf15638212f56053e366f7,1,why,TIME|EGO|SHOTS,There is a cyclist in front of me.,1,8,0
+6c0cc1c06cf0c662a0210704e413378c,dev,4b9a1b22c890f648a1edab4ce15302df,1,why,TIME|EGO|SHOTS,I am currently remaining stopped because the traffic lights to go straight are red.,0,14,0
+c276e0cc57abcd2175ae4a185db9e00c,dev,a7c87bae21788a42797bbebd571acab0,1,why,TIME|SHOTS,I am planning to overtake the red double-decker bus ahead because it is stopped at the bus stop.,0,18,0
+1eae99eebc773cefe0acf7b071f518da,dev,0faa0ca3583b3aaf21c543a8696419b4,4,hazard,TIME|SHOTS,I am paying attention to the pedestrian crossing ahead because I am approaching it.,0,14,0
+99a5017ea1137b9f62ea7b2d14f6c4fe,dev,3a0e775b16a0ce18f5fd976b6020278f,1,why,TIME|EGO|SHOTS,I am accelerating because there is a gap in the traffic behind the car ahead.,1,15,0
+dae234e975f2cb57b73efadbec717aa4,dev,bbb68f34e659ffbd43afad1df71765ab,1,why,TIME|EGO|SHOTS,I am steering left to avoid the parked cars on the right side of the road.,0,16,0
+ed99a9c19c949de4596991f1f2826d7a,dev,c0cd7c634da9ded99bd6f4bf9023c969,1,why,TIME|EGO|SHOTS,I am remaining stopped because the traffic lights to go straight are red.,0,13,0
+701338f5c1fea5be7412fc375a3ad7b3,dev,c16190d031b9a87d425927557518ea78,8,presence,TIME|FAR_ZOOM|SHOTS,"Yes, there is traffic ahead as the black SUV is driving in front of me.",1,15,0
+25e03a53c4a200414b916fc140590783,dev,2ca4f1b6532c5efb5d2d93917cba3ccd,4,hazard,TIME|SHOTS,I am paying attention to the cyclist ahead and the traffic lights to ensure safe passage through the intersection.,0,19,0
+c18b27430659729f8f69d23a6aecca05,dev,94ddefd2d4b8603b770f001764396dd9,1,why,TIME|EGO|SHOTS,I am currently decelerating because a pedestrian is crossing the road in front of me.,1,15,0
+a2d97ece72400ca964239c65a74f041f,dev,01c863fb4ef32da377e48d7225dd6e3f,1,why,TIME|EGO|SHOTS,I am decelerating because of the black van ahead.,0,9,0
+7074e0f0bea61aa571eeaf48efa1a8c3,dev,7a873ead4848f0a3ce4256df04bb89d6,1,why,TIME|EGO|SHOTS,I am currently decelerating because of the upcoming speedbump on the road ahead.,0,13,0
+db859d054cc383725ceb5fcd0cbe1e21,dev,0abad86bfc6747d7dcecfa9e10c5cb7e,2,decision,TIME|EGO|SHOTS,I am currently remaining stopped because the traffic lights to go straight are red.,0,14,0
+695a7bc1eb990c726936f63ed23dd8e2,dev,4851f89bec17fa22af27cbb0f6621b44,2,decision,TIME|EGO|SHOTS,I am currently decelerating because of the upcoming turn.,1,9,0
+bb8f21884a0c97e9da30d5697b2bfcfa,dev,6aabf01ec5bbde31525c34e5e96625d6,2,decision,TIME|EGO|SHOTS,"No, it is not safe for you to accelerate in this situation because there is a car ahead of you.",0,20,0
+06dd555c748f9685781014effec4d393,dev,06141870935f48d9febee24254c29b05,1,why,TIME|EGO|SHOTS,I am remaining stopped because there is a pedestrian crossing the road in front of me.,1,16,0
+0666575499c0613d65491ec8315707da,dev,89f1e3bf80828b9ac9fa512875122767,4,hazard,TIME|SHOTS,I am paying attention to the silver car ahead and the pedestrian crossing the road because I need to maintain a safe following distance and ensure I can stop in time if the pedestrian steps into the lane.,0,38,0
+65a230f0133d65fc03f3d6def6445b84,dev,3b460e129acc4d867bda497e2fc92ccc,1,why,TIME|EGO|SHOTS,I am currently positioned in the left lane because the traffic ahead is moving slowly.,0,15,0
+61b66b70714bc3d08703975ae79e2cda,dev,5883490cd4ad81a4b5a157278015e91a,11,identity,TIME|FAR_ZOOM|SHOTS,I am following a white car.,0,6,0
+0f996d8b63d206c89070f05c3d4777db,dev,437806fd0352c7ae2051b5317050aad2,1,why,TIME|EGO|SHOTS,I am currently decelerating because of the upcoming speedbump on the road ahead.,0,13,0
+dcaba36e4e8212fdc158d70a7f9162a6,dev,5c1669e8162f5496e2fcd8f5fbeabd27,4,hazard,TIME|SHOTS,I am paying attention to the bus ahead because it is occupying the lane and I need to maintain a safe following distance.,1,23,0
+73d8d950f2cc51715c4cd7a66a427dc3,dev,4907bb197d758ab28faabaa5afa4f0ba,1,why,TIME|EGO|SHOTS,I am stopping because there is a large white van with orange stripes entering the road from the left.,1,19,0
+5a3d21285689746da3eafae552f84fd8,dev,79d3831f13029fb236d87d746f64d2e1,2,decision,TIME|EGO|SHOTS,Move slightly to the left to maintain a safe distance from the bus ahead.,0,14,0
+a9b06a8ef54e8d720c7abcc58167fbcd,dev,755388edba60c5dfd33ca0dea4bee40a,8,presence,TIME|FAR_ZOOM|SHOTS,"Yes, there is traffic ahead as there is a white van directly in front of me.",0,16,0
+d1f045afda2673b2e114cd1c0358f8ce,dev,fdf575fa5c1a334e749f25a3fb914ae9,1,why,TIME|EGO|SHOTS,I am anticipating a gap in the traffic ahead to accelerate.,0,11,0
+625f179efbaa2847bfbbabba7f7aec7b,dev,4e4324179f8f157bd5a8db576189bf43,1,why,TIME|SHOTS,I am remaining stopped because the traffic lights to go straight are red.,0,13,0
+2bff3ae318cd49377a0abddf97cb0d14,dev,d265d2bd01f3b96a65256703986dd5a1,1,why,TIME|EGO|SHOTS,I am adjusting my position to avoid the oncoming lane where the bus is.,0,14,0
+f13bbb1055f0473d688876349ce05cd0,dev,fb60dab46635cf0d62d64cd8ecabff87,2,decision,TIME|EGO|SHOTS,I am currently remaining stopped because the traffic lights to go straight are red.,0,14,0
+1ea80e5b60451b9b5787b261a138a4a0,dev,82e30453a32cf3ce02942ff3a73e92e9,2,decision,TIME|EGO|SHOTS,I am currently accelerating because there is a gap in the traffic behind the car ahead.,1,16,0
+d903ebe5e1ef277d4868f37cba502a36,dev,aa947bf97491762f0a3d0279a1fc01b8,1,why,TIME|EGO|SHOTS,I am accelerating because there is a gap in the traffic behind the car ahead.,0,15,0
+8ce5ceab5ac1dc059e3c0e75aeabe313,dev,b2796391ee2c1141f4959c9c91f1dea7,4,hazard,TIME|SHOTS,I am paying attention to the red double-decker bus ahead and the pedestrian with the stroller on the left sidewalk.,0,20,0
+096ba0f01e00c884a8999eee214f05a9,dev,8af796891fde1741a70ec4907eb64552,8,presence,TIME|FAR_ZOOM|SHOTS,"Yes, there is traffic ahead as a dark car is approaching in the opposite lane.",0,15,0
+99ce30a3c43e5a8d1ea11e8ba0b318b8,dev,7d62ef3523ca44b67c7cc56ca82123d8,11,identity,TIME|FAR_ZOOM|SHOTS,I am following a dark grey hatchback.,1,7,0
+0f832934a8eed87cae8baf29c2b9e75f,dev,c17977d22cb188b670654008a61f74a9,3,own_action,TIME|LIGHT_ZOOM|EGO|SHOTS,The driver is remaining stopped because the traffic lights to go straight are red.,0,14,0
+4aff6683ab83410976087252a8028013,dev,ea45f9e416f88a5d76222a96d2f13390,2,decision,TIME|EGO|SHOTS,"No, it is not safe to overtake the parked vehicles at this time because there is oncoming traffic.",0,18,0
+f1769aa87df9b114e321827cca7b89b0,dev,36ba527325c3a02dec94abd35bc730b1,2,decision,TIME|EGO|SHOTS,"No, it is not safe for you to accelerate in this situation because there is a pedestrian crossing the road in front of you.",0,24,0
+f32f0fafce002a5db74dc96e6c368371,dev,656c39ca7a6075c9d949cf66923fb9b8,2,decision,TIME|EGO|SHOTS,"No, I am currently decelerating because of the upcoming speedbump on the road ahead.",0,14,0
+d0960b8976c69b3be91502467fe5eafb,dev,1a49e43d400bb57ff7897abd941f9de1,2,decision,TIME|EGO|SHOTS,"No, I am not stopping because I am accelerating.",0,9,0
+859fd2359138843840a70db4c6d9e551,dev,a973c852e16e4a12c436750c90a1313c,1,why,TIME|EGO|SHOTS,I am currently decelerating because of the upcoming speedbump on the road ahead.,0,13,0
+aafb271be43e010e023799dfe5a7bca2,dev,98581ffaf3f1588c95fd1f606b3f158e,1,why,TIME|EGO|SHOTS,I am currently stopping because of the silver car ahead.,0,10,0
+47cf7a177a377a8199fac69a74875bc6,dev,143680f9c99f428ab5a3978da8736b18,4,hazard,TIME|SHOTS,I am paying attention to the parked cars on the right side of the road to ensure there is enough space to pass safely.,0,24,0
+f27bcdf6f6a1e2d5fee20dd43a9040bd,dev,719dc8be053e5248454826ceba1128e2,1,why,TIME|EGO|SHOTS,I am stopping because of the oncoming traffic.,1,8,0
+7a4ad08646baf1b8a1cb3a64e4896daa,dev,172b5227ee2fe451cd034e510c07b50a,1,why,TIME|SHOTS,I am remaining stopped because the traffic lights to go straight are red.,0,13,0
+3581dbbafb636538e9bdf4ed7a2ee484,dev,22a18adc0ab8117aaaeb7b057233d5ec,2,decision,TIME|EGO|SHOTS,"No, it is not safe to overtake the lorry because the road ahead is narrow and there is oncoming traffic.",0,20,0
+20119f8adbc0e2d225e2443af84c0039,dev,657e2a5c852dbf1e56e8f19700ffb297,1,why,TIME|EGO|SHOTS,I am accelerating because there is a gap in the traffic behind the car ahead.,0,15,0
+f3f728dcbfeb304e874fc474f8774c3f,dev,93386f03d204302fe8ada83c94e22bf2,2,decision,TIME|SHOTS,"No, it is not safe for you to accelerate at this time because there is a red car parked on the left side of the road.",0,26,0
+dc7a9bc5f20c2c7578d06f7fb7ca810f,dev,723977afa1b12db132ddd2f6a3fd5a55,2,decision,TIME|EGO|SHOTS,You should not stop or brake in this situation.,0,9,0
+165358b11cf5d153a129cd4cdc90153b,dev,d4ded35fee361e3a996f2af0b3bcf125,2,decision,TIME|EGO|SHOTS,I am currently remaining stopped because the traffic lights to go straight are red.,0,14,0
+ec6d59603d606c01ebe4e10af44862d3,dev,0dd77f51a8a1139d32312ab30aa16123,4,hazard,TIME|SHOTS,I am paying attention to the traffic lights ahead because they are red.,0,13,0
+74526e1bcc2a498e362ed71ca980f20a,dev,e85b17b929cff2d00c70436e9bbc98df,8,presence,TIME|FAR_ZOOM|SHOTS,"Yes, there is traffic ahead as indicated by the stationary van and the ""LET GO"" markings on the road.",0,19,0
+8704f51563216cf2a96b2bb97f90e7ea,dev,d37e42d91f07b6ddc0405a993bc72e04,11,identity,TIME|FAR_ZOOM|SHOTS,I am following a red double-decker bus.,0,7,0
+1f7ac59957ee088890c16dd24a6c9401,dev,a90d86b221131300c7526223195010bf,1,why,TIME|EGO|SHOTS,I am steering left to avoid the parked cars on the right side of the road.,1,16,0
+e816c03c731b82bdc4c2837d0ffcfee1,dev,ce0c08201129563aa4ee988e2ec98385,4,hazard,TIME|SHOTS,I am paying attention to the cyclist on the left because I need to maintain a safe distance from them.,0,20,0
+74443bb77437db206c26634abb893a9c,dev,6e3f3ac88ccb351a2bcb35592f49f05d,2,decision,TIME|EGO|SHOTS,You should stop because the traffic lights to go straight are red.,0,12,0
+f23e29467279e5a03ead89099121a9aa,dev,8e80ffed16dee098cbc65db7c702e4f3,1,why,TIME|EGO|SHOTS,It is unsafe to accelerate because there is a pedestrian crossing the road ahead.,1,14,0
+e09b0eaf4391398e4babd6b9749056d4,dev,d6961ca3001c3cd31c47bfc7f5193391,2,decision,TIME|EGO|SHOTS,I am currently turning left because the traffic lights to go straight are red.,0,14,0
+9bfde8488fb9c8ebc07f7731ee04e4c6,dev,5869b7984c65467ab992398643f46c6e,4,hazard,TIME|SHOTS,I am paying attention to the red truck ahead because it is in my lane and I need to maintain a safe following distance.,0,24,0
+6d05e4a2642508a13ca5770eccdf1e92,dev,193a970026d4fcea561cc998449e6681,2,decision,TIME|EGO|SHOTS,"No, it is not safe for you to accelerate in this situation because there is a large silver car parked on the right side of the road.",0,27,0
+7879551bddfe1279ba1fb28625fbbf38,dev,e665ac562a0abab77ab06661627cd7d7,4,hazard,TIME|SHOTS,Pay attention to the pedestrian crossing the road and the yellow traffic sign indicating diverted traffic.,0,16,0
+754467d3b748231b6a80534c52bf0692,dev,34237d0ec93baef5824f4d6a1ab24bbf,4,hazard,TIME|SHOTS,I am paying attention to the pedestrian crossing the road ahead because I need to ensure their safety.,0,18,0
+95bfacdb4e3c85f2c0f4a35b0406fb46,dev,c43f664522fb5d3128572ade56bfc538,1,why,TIME|EGO|SHOTS,The road ahead is clear and there are no immediate obstacles or hazards.,0,13,0
+d133d792fba07cdd32c802c947d2c2e5,dev,f45b822b88ebaf4c1a5052aa3ae82833,2,decision,TIME|SHOTS,I am remaining stopped because the oncoming lane is occupied by a vehicle.,0,13,0
+6b709c535179ef648e862004c7b7e7b0,dev,c9bf153666344e8ce14138a0af747e7a,2,decision,TIME|EGO|SHOTS,You should be braking because the car ahead is slowing down.,1,11,1
+c22204c9ee102989f5adbd92a0a60a3c,dev,97bdcf4f3a6f7651dda63cbb59c96821,1,why,TIME|SHOTS,I am adjusting my position to avoid the oncoming UPS truck.,0,11,0
+b5884258292a4c7ccf848defb380cfc0,dev,56f6387cc078432380bd92a5dfcb6c09,9,where,TIME|SHOTS,I am overtaking the parked vehicle on the left side.,1,10,0
+dc89889ee81a4cec18dfa38ca46d2cc3,dev,32109a52e953fb07d655b54a483f9ce5,1,why,TIME|EGO|SHOTS,I am remaining stopped because a pedestrian is crossing the road in front of me.,0,15,0
+d42e936dd571292655f7804ac94729b9,dev,b26c7ed8efc85a2e191264ff2d8be311,8,presence,TIME|FAR_ZOOM|SHOTS,"Yes, there is traffic ahead as there is a car in front of me.",1,14,0
+96bd998548eac962cc721129275ebc55,dev,f511e13b1240f4ef5cdae8322cc597d9,1,why,TIME|EGO|SHOTS,I am anticipating and adjusting my position for the upcoming intersection ahead.,0,12,0
+4f40a44400d1b16b7dbe874a4a4ac986,dev,ada8aa24e347956b76d276580b00d6e8,1,why,TIME|EGO|SHOTS,It is unsafe to accelerate because there is a car ahead of you that is slowing down or stopped.,1,19,1
+203ccd03a787d65f649ba90ed3b45fb3,dev,5b0c4c529bcbd096755ff725c0ef7efb,1,why,TIME|SHOTS,I am currently remaining stopped because the traffic lights to go straight are red.,1,14,0
+7da541d8a986236436c6b2a1b176e282,dev,b2a37a62c63d493b9502af8bf5860841,1,why,TIME|EGO|SHOTS,I am turning left because there is a gap in the traffic behind the car ahead.,0,16,0
+84d20f19b481ade0176a2a9b7a728709,dev,2786cee6f8d7075ce93602434d42636a,2,decision,TIME|EGO|SHOTS,Move to the right lane to avoid the oncoming traffic and the cyclist.,0,13,0
+d520e2f5b8f2edaa43399070ba4dc633,dev,cf566ab88b52bbb77367c67469930e21,2,decision,TIME|EGO|SHOTS,"No, it is not safe to steer left in this situation because there is a large bush and a building on the left side of the road.",0,27,0
+fc08356ce41fe0703d08a2195f2eb033,dev,c9637d47260163cac37eb1119b98c508,2,decision,TIME|EGO|SHOTS,"No, it is not safe for you to accelerate in this situation because the traffic lights to go straight are red.",1,21,0
+680ed65679432f2281ebf4cfea158991,dev,b08661ef6cfaa7e35378d8fe1ad71af8,1,why,TIME|EGO|SHOTS,I am decelerating because the traffic lights to go straight are red.,0,12,0
+90d26789c21f57470e003a70bd71b968,dev,c981b3f2b019e49c70e562916eb6405e,1,why,TIME|EGO|SHOTS,I am steering right to avoid the parked cars on the left side of the road.,1,16,0
+fb1608e5f201f0c47e8c1d6f8798f050,dev,863f8b3cdfcc5c44ab8ec5fce0810489,4,hazard,TIME|SHOTS,I am paying attention to the white van parked on the left side of the road because it is stationary and could potentially move into my lane.,1,27,0
+c735b8a61fc704e53992c629ed4ae786,dev,8ae06edc4a15b9d64ce25975379e1ebc,1,why,TIME|EGO|SHOTS,I am currently decelerating because of the upcoming speedbump on the road ahead.,1,13,0
+fcf0ce848552e8c521068cc04d87593b,dev,39056e57989b34a62beffb6c5c4d9c6f,4,hazard,TIME|SHOTS,The parked cars on the right are catching my attention because they are blocking part of the road.,0,18,0
+118ddb474e49cc504e01ed64c9c552b7,dev,5865b36888cb9da76dcca3b6a53973d8,2,decision,TIME|EGO|SHOTS,"No, it is not safe to steer right in this situation because there is a blue car and a white truck in the right lane.",0,25,0
+0f8b6af2cc5d1b009350bde32121cde7,dev,383d761337ab4c99882e6fdc67987e9a,4,hazard,TIME|SHOTS,The yellow bollards on the road ahead are catching my attention as I am approaching them.,0,16,0
+df66070b8b351d11a41aeca1b9fa755c,dev,5117d615bc729cf2232580a78778e5d9,1,why,TIME|EGO|SHOTS,I am steering left to avoid the parked cars on the right side of the road.,0,16,0
+c405b3af616f34fca2519c04f4e56d7d,dev,67d013010c2149300d703dfa1df3134e,2,decision,TIME|EGO|SHOTS,I am currently accelerating because there is a gap in the traffic behind the car ahead.,1,16,0
+40db7ea56a23008b3a6ace56b067e9d4,dev,373f3252094a1f14347a1f87dbab9c4a,2,decision,TIME|EGO|SHOTS,"No, it is not safe for you to steer left in this situation because there is a parked truck on the left side of the road.",0,26,0
+ec04ae8d3214ca78654de993571ed35f,dev,e2c0337ac881a2a43fcfca2302a6e080,1,why,TIME|EGO|SHOTS,I am maintaining my current lane position to stay centered in the lane and follow the road ahead.,0,18,0
+0ed3a31e6bb1c1c5ee0f579ecd496fd2,dev,e298335aa6e0b4074b336b954f69441e,4,hazard,TIME|SHOTS,I am paying attention to the parked cars on the left and the road ahead to ensure I maintain a safe distance and stay on the correct lane.,0,28,0
+5fc4396469819ccf0a16d29101c3302c,dev,3a8b61070d0b0b0fbf9feed98494c20b,1,why,TIME|EGO|SHOTS,I am currently remaining stopped because the traffic lights to go straight are red.,0,14,0
+aaeac6e289d72617befcad737a5542d6,dev,28e0233f8f5a0c6417909ae6da1fa1e4,2,decision,TIME|EGO|SHOTS,I am currently remaining stopped because there is a pedestrian on the zebra crossing.,1,14,0
+c2de728608bbaef6166c3dda5e75ffe0,dev,beaa213b663de8fe04b5122b6ddd82d6,4,hazard,TIME|SHOTS,I am paying attention to the traffic lights ahead and the vehicle in front of me.,0,16,0
+f59146e7d6c9bb7444affecfa4b2b274,dev,40724b09de6f878bed3277bbedce81d1,1,why,TIME|EGO|SHOTS,I am currently decelerating because of the upcoming speedbump on the road ahead.,0,13,0
+2b9080816167421b741a4406c9c743f5,dev,06c6be893386b71ec5f313a83878d292,4,hazard,TIME|SHOTS,I am focusing on the pedestrian crossing ahead because I need to ensure it is clear before proceeding.,1,18,0
+9444246fbc3089214d8ac90e3972656e,dev,db7de29b492c37a08f84bf86135fbfdc,1,why,TIME|EGO|SHOTS,I am currently remaining stopped because the traffic lights to go straight are red.,1,14,0
+85bf37195fde0300515a0d7eedf10c15,dev,6df7477155216ba355c03f6cb6fb2776,1,why,TIME|EGO|SHOTS,I am accelerating because there is a gap in the traffic behind the car ahead.,0,15,0
+5bb67409e7874f2b9975687509682e8a,dev,eed03d562715d4f3b3c09424c2a3ef72,1,why,TIME|EGO|SHOTS,I am adjusting my position to avoid the oncoming bus lane.,0,11,0
+256e3bb3cfd5f2790d8df1ab5f10042c,dev,7442f73e57b4fcf411c8c0e6c105541b,2,decision,TIME|EGO|SHOTS,Move to the right lane to avoid the oncoming white van.,0,11,0
+868e0316ed8e7de619ff2ac9bb877baf,dev,dd2e3fa78427657510d2bd003ba174fa,1,why,TIME|EGO|SHOTS,"There is a large grey minivan approaching in the opposite lane, making acceleration unsafe due to potential oncoming traffic.",1,19,0
+9ce50bfc112a44371992459830cbdaeb,dev,d5d1d39ad7341b118a781e67ff2134ac,7,light_state,TIME|LIGHT_ZOOM|SHOTS,The traffic lights are red.,1,5,0
+2bc6a253952642c186f0e7777830b5f4,dev,0cbe8436d8803b7a149a94b6b32c9057,1,why,TIME|EGO|SHOTS,I am adjusting my position to avoid the parked cars on the right.,0,13,0
+aeea1f9542ebd377c5c9ba3047a7d0ef,dev,184d729860aad3a17ed6a7c201efd2ca,9,where,TIME|SHOTS,The parked vehicle you are overtaking is on the right side of the road.,1,14,0
+224c9d0e60592a8f8e33c8fee2a67803,dev,a74781c26e569f8abb7f998b75d0c76f,1,why,TIME|EGO|SHOTS,I am currently remaining stopped because the traffic lights to go straight are red.,0,14,0
+eca5d32e0e5d6a4b3f90390f3cbb00f2,dev,8a41ff25521ec31ecc861260e44e3ced,1,why,TIME|EGO|SHOTS,I am accelerating because there is a gap in the traffic behind the car ahead.,0,15,0
+93648168159e52b21af1f2b07dd7ab9f,dev,f5d8661745e2e9a254cbdca887473f35,9,where,TIME|SHOTS,I am overtaking the bus on the left side.,1,9,0
+1d93fdfa1868dfa22ff8a48c22ebac4f,dev,8c93bb7ee5e3073ec1f33cb8bf61daa8,2,decision,TIME|EGO|SHOTS,You should decelerate to safely complete the left turn.,1,9,0
+4d6d262a454ceab00fb8e9b278f8e1d2,dev,152a009908dc3e453a42350224c2baee,2,decision,TIME|EGO|SHOTS,You should remain stopped because there is no gap in the traffic ahead.,1,13,0
+61ecfdcfcfd15a6d0c3c28f206183f79,dev,c9cc951cf63225f2fe0810e4cac9b4ad,4,hazard,TIME|SHOTS,I am paying attention to the black car on the left and the white car on the right to ensure I maintain a safe distance and avoid any potential collisions.,0,30,0
+2acbea53a6baa35730f9fd2252a2b33e,dev,12e70e0e0ba48e91999d2ef2471cb2d4,2,decision,TIME|FAR_ZOOM|EGO|SHOTS,I will slow down and stop to let the pedestrian cross safely.,1,12,0
+64ce766138d256a77aeebb526d7839a5,dev,e8d69f4155a35b184fddb6d33e6bd8e9,4,hazard,TIME|SHOTS,I am paying attention to the parked cars on the right side of the road to ensure there is enough space to maneuver safely.,0,24,0
+7af21cae1591a5d71937c74134fd94c5,dev,1d62f8c27d76d13058ff311f62beac4d,2,decision,TIME|EGO|SHOTS,"No, it is not safe for you to accelerate in this situation because there is a large garbage truck directly in front of you.",1,24,0
+afe66537e1dc0bebf22b8068f2173816,dev,db6ff56283ea9ecd0716d5e405acb329,4,hazard,TIME|SHOTS,"No, it is not safe to overtake the obstacle at this time because there is oncoming traffic.",0,17,0
+3796b9fd7ff353a7ea504508ee9015f0,dev,c2c924f9809733fa17f69fb803a00ce5,1,why,TIME|EGO|SHOTS,I am currently stopping because the traffic lights to go straight are red.,0,13,0
+262c4e8923eb493cb2a7831e69527f19,dev,dc804d5e38015662e4522aa62f6812cc,3,own_action,TIME|LIGHT_ZOOM|EGO|SHOTS,The driver is remaining stopped because the traffic lights to go straight are red.,1,14,0
+0470f178e894e01839808e427222e6f4,dev,185e11b347ebd2729bf92b5554ba194a,1,why,TIME|EGO|SHOTS,There is a gap in the traffic behind the car ahead.,0,11,0
+d8b25e80392cf54e4aaf6adba3771589,dev,9eaa0e73b2a88bd15ea1167744a509d1,1,why,TIME|EGO|SHOTS,I am steering right to avoid the oncoming lane and the parked cars on the right side of the road.,0,20,0
+a1344260ac2bba869ff17b3318f9ffa8,dev,0f7183b496fe5d3752cf4c862a0db478,2,decision,TIME|EGO|SHOTS,"No, it is not safe for you to accelerate in this situation because there is a car approaching from the left.",0,21,0
+1fec1de230631c82c054c588e2d898d8,dev,b1597cdc9b147c51b5c937c291d18cfa,1,why,TIME|EGO|SHOTS,I am accelerating because there is a gap in the traffic behind the car ahead.,0,15,0
+4cc13d7527ec9cf94ebaeb3527ac1783,dev,3c22ea6201e966a48fa16e90517d75b5,1,why,TIME|EGO|SHOTS,I am accelerating because there is a gap in the traffic behind the car ahead.,0,15,0
+8c17fda5d1978bd69a90d419d0e7b302,dev,516e5878f999cc231397842836a5acd3,1,why,TIME|EGO|SHOTS,I am accelerating because there is a gap in the traffic behind the car ahead.,0,15,0
+95cf26e7a0445968c2e05b3f57469e2c,dev,d4e88275c4950ba46349c6148ebcbf55,2,decision,TIME|EGO|SHOTS,I am currently remaining stopped because the traffic lights to go straight are red.,0,14,0
+6c0db70eb6e535bcc0ce0ed1eecced00,dev,79daaa7b47037c7ab5b6178d87d35073,4,hazard,TIME|SHOTS,"You must pay attention to the traffic lights ahead, as they are green and indicate it is safe to proceed.",1,20,0
+83d4d9f50338086eec1db292a6fdc000,dev,3789c3b6783e96a89b6a88d31ecf2e0a,1,why,TIME|EGO|SHOTS,I am remaining stopped because the traffic lights to go straight are red.,1,13,0
+fa0a0823fa82818f38a1ca463df21ed2,dev,505cd341ce172795a33db279b71eed26,3,own_action,TIME|EGO|SHOTS,I am currently slowing down.,0,5,1
+c7dfd5a0e81f62a8d1c26e7fe0c65524,dev,c76c50856c34ec3d6f0eb7c7c99780c7,1,why,TIME|EGO|SHOTS,"The traffic lights are red, so I am maintaining speed to avoid stopping in the intersection.",0,16,0
+c2ed0f2c172ecb00098b066d01c4e7e7,dev,24fba6205aa775a855c775f2f0c95467,2,decision,TIME|EGO|SHOTS,"No, it is not safe for you to accelerate in this situation because you are currently remaining stopped.",0,18,0
+891eaa430bddbd37ed80c00ec6162118,dev,e6f0bb62908fb41856485e04b8b4862b,4,hazard,TIME|SHOTS,No.,0,1,0
+8d9b9a55a073576c00118dd3af66dfe2,dev,3a6256538c216b9dbbed3a0c9cee394d,4,hazard,TIME|SHOTS,I am paying attention to the large white truck ahead because it is occupying my lane and I need to maintain a safe following distance.,1,25,0
+e75c7fdab2c8569b0b3de42ce8052df0,dev,f635fadeaf0207c467019355273a509c,2,decision,TIME|EGO|SHOTS,Move to the right lane to avoid the oncoming white van.,0,11,0
+fec54f264ba1885a0f414d7c422a1bc8,dev,2ae8e218bf5082f15b8f712bf9e8c26b,1,why,TIME|EGO|SHOTS,I am currently decelerating because of the upcoming speedbump on the road ahead.,0,13,0
+ec339af0f25f9b6090aad00b3a76b596,dev,2aec0d97502f5dbb16fa743080200532,2,decision,TIME|FAR_ZOOM|EGO|SHOTS,"No, I am not stopping to give way to pedestrians in this situation because there are no pedestrians visible in the crosswalk or near the crosswalk.",0,26,0
+c565fad01807a11564e234cc8f762357,dev,203c115fd6335f5de75f6745bf124b34,2,decision,TIME|EGO|SHOTS,"No, it is not safe for you to accelerate in this situation because you are currently slowing down.",0,18,1
+8bfa92276a010a648aa11507263b60d6,dev,0477753c217639b1698f4225329b6e15,1,why,TIME|EGO|SHOTS,I am remaining stopped because the traffic lights to go straight are red.,0,13,0
+1a2a4cfe9ded49041bc7e531b1b2955b,dev,91c34804425780c670bdd58281811638,1,why,TIME|EGO|SHOTS,I am positioned in this way because I am following the parked cars on the left side of the road.,0,20,0
+d0a2e536c43df4896b896bac6f1d11b5,dev,6a064f3368616fa1f458fc1075413273,2,decision,TIME|EGO|SHOTS,You should be braking because there is a cyclist approaching in your lane.,1,13,0
+040266bb3bd831d9e6ac91b31bd76fdb,dev,f4bee9029e543ec29bcc86aef2690dcc,2,decision,TIME|EGO|SHOTS,I am currently remaining stopped because the traffic lights to go straight are red.,0,14,0
+83e8c67c9ec3ffef6fcaecd44bbccc86,dev,6e4df49a5ffa215724f4daa6159f1075,1,why,TIME|EGO|SHOTS,I am accelerating because there is a gap in the traffic behind the car ahead.,0,15,0
+7dcc29280a732524f15fdffc0a57a0b4,dev,97399aa0f30839d144733aea669d955f,1,why,TIME|EGO|SHOTS,The traffic lights to go straight are red.,0,8,0
+d9262a5cb9eb3dcccdd5ea6790fd3a2c,dev,5ca280d941338a3aaf997d7cbc510d0e,9,where,TIME|SHOTS,The parked vehicle you are overtaking is on the left side of the road.,1,14,0
+9df49b62f2d4364f8cfbdd345d5ee2dc,dev,f8e6930c85ce91a53d47d5e5a62b3cc8,8,presence,TIME|FAR_ZOOM|SHOTS,"Yes, there is traffic ahead as indicated by the vehicles on the road.",0,13,0
+ad5e4d7094b319614dc513895ffd00e7,dev,c4d1a0b9e1b1d342799a2408c8654f7b,7,light_state,TIME|LIGHT_ZOOM|SHOTS,The traffic lights are red.,0,5,0
+dc872014828e22e09256565759e96854,dev,94072b5fc33f7fee7df9e6ced88aec08,2,decision,TIME|EGO|SHOTS,"No, it is not safe for you to accelerate in this situation because there is a pedestrian crossing the road.",0,20,0
+a89e0062a5b776d62f6acf288276545f,dev,2d9851b2784cd0c1c6a3493f699fa969,4,hazard,TIME|SHOTS,I am paying attention to the parked cars on the right to ensure there is enough space to pass safely.,0,20,0
+4899ec2bc19fb7b6355acb3f73096b22,dev,5e52415955deede8f9f4b1808aeaf78d,3,own_action,TIME|EGO|SHOTS,I am currently accelerating because there is a gap in the traffic behind the car ahead.,0,16,0
+6bb133a2a5a449c9f67932091da348cd,dev,ff33e9bd3d085095baadeb0e853b2ec5,2,decision,TIME|EGO|SHOTS,Move to the right lane to avoid the oncoming traffic and the cyclist.,0,13,0
+97a0e3b32b65d80d87634582789c65e4,dev,c6bff86c5fe73fb05bed76c2913ab3c6,4,hazard,TIME|SHOTS,I am paying attention to the red car ahead because it is slowing down and I need to maintain a safe following distance.,0,23,1
+187863afa35bd8b8ad4af77dc8f8da8b,dev,f963cb2b2f6c7ae0fe7ed4ab5a996c7c,4,hazard,TIME|SHOTS,I am paying attention to the red van to the right to ensure I maintain a safe distance from it.,0,20,0
+1510237224aca683500a33dfe89d9b54,dev,e4ef22304676b6d1d2c48440e657de67,1,why,TIME|EGO|SHOTS,I am remaining stopped because the traffic lights to go straight are red.,0,13,0
+4f492ef789e4a941ee07ce023db30515,dev,36de51415575068a47829563db10ceed,4,hazard,TIME|SHOTS,I am paying attention to the traffic lights ahead because they are red.,0,13,0
+7c88f0c0b499f12de72e6a97d1383a03,dev,58b39e0d0b2fa9166e1e82b9f5331afe,1,why,TIME|EGO|SHOTS,I am remaining stopped because the pedestrian crossing ahead is occupied by a person.,0,14,0
+e3a840539198bf4bfd84084aa88efe99,dev,066ca1a28c27f67258be7f13ac4b25f4,4,hazard,TIME|SHOTS,I am paying attention to the blue car ahead because it is the vehicle I am following.,1,17,0
+8e7cd6bf321bb85cf0139118eef2e036,dev,4db9f668852930fbcb0cd0b77e68fe78,1,why,TIME|EGO|SHOTS,I am currently positioned in the left lane because the road ahead is clear and there is no immediate traffic or obstacles.,0,22,0
+f7e7150353c1f69645fb951faad11777,dev,6c68162312b40ff896ca965383b19784,1,why,TIME|EGO|SHOTS,I am decelerating because of the upcoming speedbump on the road ahead.,0,12,0
+b302e8baf73058ca312d35d9ded00edf,dev,af661167ba8162947575ada05e0ef935,1,why,TIME|EGO|SHOTS,I am currently stopping because the traffic lights to go straight are red.,1,13,0
+4d3ca8de6815d2e75d421f9ffa1f19f2,dev,09d6c6ab4f47f9c090b28b7e812a8c07,2,decision,TIME|EGO|SHOTS,"No, it is not safe for you to steer left in this situation because there is a parked car on the left side of the road.",0,26,0
+53a0d9c5a141444996be63dffab3c7d8,dev,416dd3e228256265537a6e308de0d00e,8,presence,TIME|FAR_ZOOM|SHOTS,"Yes, there is traffic ahead as there is a black car in front of me.",1,15,0
+26d3b106f34aedf901d08e46f980aad9,dev,f5849c55fae9b9e02ac209218f7765a8,2,decision,TIME|EGO|SHOTS,You would hit the curb and any pedestrians on the sidewalk.,0,11,0
+220b4021d98884d08f611627d0b84311,dev,0b303d02bdb76a4a7fbccb16e2926c2a,4,hazard,TIME|SHOTS,You must pay attention to the parked cars on both sides of the road and the pedestrian crossing ahead.,0,19,0
+3b9e80a927ba4ed72db8b7b0a7889940,dev,54453ab300086f6b85aaf4638a1e8695,11,identity,TIME|FAR_ZOOM|SHOTS,I am following a dark grey car.,1,7,0
+b5492a7151cf9487f9270be92771ca48,dev,601db61dd1ef7c90bfef6729fcb11409,1,why,TIME|EGO|SHOTS,I am positioned here because the road ahead is clear and there is no immediate traffic or obstacles.,0,18,0
+bb1897f67508c233d2a6f90a3328a983,dev,5517c60d3bdfbb8164156db9212413bb,2,decision,TIME|FAR_ZOOM|EGO|SHOTS,"No, I am not stopping to give way to pedestrians in this situation because the traffic lights to go straight are red.",0,22,0
+c49d6507897a389b5eed00d6c041020a,dev,4d090eb5c369525456d8b93c7856f1ad,2,decision,TIME|EGO|SHOTS,You should be braking because there is a pedestrian crossing the road ahead.,1,13,0
+aada855e91aa151c43ce65726dcd0187,dev,691c4b83004cf68628225b578164995e,3,own_action,TIME|EGO|SHOTS,I am currently maintaining my speed because the road ahead is clear.,0,12,0
+1d783e26f8e6cbb7770abb4b0abc1ec7,dev,34cc28fc6dc4cbb72b7e8a8e79b29333,1,why,TIME|EGO|SHOTS,I am starting because the traffic lights to go straight are green.,1,12,0
+eab7ad69d89f6510fdd2bee1668de211,dev,9e60d27d52d5c31ba86214765a63c380,1,why,TIME|EGO|SHOTS,I am currently decelerating because of the upcoming speedbump on the road ahead.,1,13,0
+b7fd5feccdc7511e8850b9886d9d58d3,dev,44cb8fca91d819c866dec1bda3356f8c,3,own_action,TIME|EGO|SHOTS,I am currently slowing down because of the upcoming speedbump on the road ahead.,0,14,1
+900bc86b0c95a51c682c40cf7003a2b5,dev,53f9d3dd29087f879a1c80a65bfa62cb,2,decision,TIME|EGO|SHOTS,I would be stopping because the traffic lights to turn left are red.,1,13,0
+e0a16cc9e78d4544048cf26cb6d3bd98,dev,c029bc3b70bd22d2db4ddd935781168c,2,decision,TIME|EGO|SHOTS,"No, it is not safe to overtake the parked vehicle at this time because there is oncoming traffic.",0,18,0
+1fb0ea5728e7bd721455c9b32b76cbe0,dev,4477e5a2dceb9e043a4552fb4ceff201,2,decision,TIME|EGO|SHOTS,"No, it is not safe for me to accelerate in this situation because there is a pedestrian crossing the road.",1,20,0
+e885306215220918c731a2d53d90daf9,dev,0c4ba62aa94d904c7654aafa85d6fda1,1,why,TIME|EGO|SHOTS,I am decelerating because of the upcoming speedbump on the road ahead.,0,12,0
+119de453152ebe3c199dc4a307357684,dev,6933fdabb44d0db86a3deefa05c3b163,8,presence,TIME|FAR_ZOOM|SHOTS,"Yes, there is traffic ahead as indicated by the red bus and other vehicles in the distance.",1,17,0
+3602049a2955363b8b18145250317f36,dev,2256b827ed38c6f047e7ae131ee83b56,1,why,TIME|EGO|SHOTS,I am positioned in this way because I am following the truck ahead.,0,13,0
+a4d0d600bf2cfc4b2793777f8c1506d0,dev,5252ac0368fb28204842885f471c7beb,2,decision,TIME|EGO|SHOTS,"No, it is not safe for you to accelerate in this situation because there is a car ahead of you.",0,20,0
+2f0ee57f2e5ae717f035b984c4797bcf,dev,f2b7930f7a87b0edadd22656904b4bd4,3,own_action,TIME|LIGHT_ZOOM|EGO|SHOTS,The driver is remaining stopped because the traffic lights to go straight are red.,1,14,0
+611545ed2928f36a31bfc1819a9c33ce,dev,f91a7a8b76f5a4e96ab9f7c5b3d3adf1,2,decision,TIME|EGO|SHOTS,You should maintain your current speed to safely overtake the obstacle.,0,11,0
+6ea9195770410e49c691208a3cd63211,dev,530b080944e1cfb67ceaaeae9fdf17a7,2,decision,TIME|EGO|SHOTS,I am currently accelerating because there is a gap in the traffic behind the car ahead.,1,16,0
+b938cc85606b195302718f4b17892b99,dev,6c5a1160995118c488a0a1cd2448785c,11,identity,TIME|FAR_ZOOM|SHOTS,I am following a silver car.,0,6,0
+4d33d4cdb2dd1d99097cd86905b54291,dev,5d519f77232e1a01fbbd51afe946c2fd,2,decision,TIME|EGO|SHOTS,Move to the right side of the lane to avoid the curb and any potential obstacles.,0,16,0
+40e11772548d27e9627f2eb94c7c3a1a,dev,309fbef40a9fc70fc5dd2482f9857cfd,1,why,TIME|EGO|SHOTS,I am decelerating because of the pedestrian crossing the road ahead.,1,11,0
+aefb1e80060ee67e15bed1e1084c5bbc,dev,0e885590718f5818e0d28aaa6ddf4e2d,1,why,TIME|EGO|SHOTS,There is a gap in the traffic behind the car ahead.,1,11,0
+ef1e84a590443ba3eba6f3d779b3e2bc,dev,de59c5f78cdae752647ad28ce4e2208a,2,decision,TIME|EGO|SHOTS,I am currently remaining stopped because the traffic lights to go straight are red.,0,14,0
+4be781aa3d1ea52d02cd36686cde46a4,dev,f084d15cefc849b5a7524d7ad53270f3,2,decision,TIME|EGO|SHOTS,Move to the left lane to avoid the oncoming traffic and prepare to stop at the red light.,0,18,0
+c82d07c1a2e033a18e0aefc57ee31670,dev,d4affa79ce1ec73da9c36ec6e12d2c5d,2,decision,TIME|EGO|SHOTS,I am currently remaining stopped because the traffic lights to go straight are red.,0,14,0
+81688390965f5f1367769bfb6b47b258,dev,db65572f8691b3e11bcd1ebc8a03983c,2,decision,TIME|EGO|SHOTS,Move to the right side of the road to avoid the parked cars and pedestrians on the left.,1,18,0
+0fdb2bc6ba396d8cf4816287acef8bab,dev,b0be1c72d98cefd8f3f6ea0df2e40bd0,4,hazard,TIME|SHOTS,I am paying attention to the traffic lights ahead to ensure I can proceed safely.,1,15,0
+95baedf6586f522129ae08e158f20dae,dev,fff771f7ff75a7cca4c21de43e3b5ed7,1,why,TIME|EGO|SHOTS,I am stopping because the traffic lights to go straight are red.,0,12,0
+c2bee3888bc07d1560d6d97f44176707,dev,5c24a9c8bea5d0f4867b810c2eab61b1,2,decision,TIME|EGO|SHOTS,"No, it is not safe for you to accelerate in this situation because the traffic lights to go straight are red.",0,21,0
+5cb4bcf85a62708bfc4713f44e17c08a,dev,22324cfa79079d87871e473edb065c89,1,why,TIME|EGO|SHOTS,I am currently remaining stopped because the traffic lights to go straight are red.,0,14,0
+69c21299e20de4a9e8dc4e99dd3eeeef,dev,46566973268982880d73a889355aa067,4,hazard,TIME|SHOTS,I am paying attention to the cyclist ahead and the motorcyclist to the right to ensure safe following distance and avoid any potential collisions.,0,24,0
+1a9527fefbb63f27532cc930aa3c8426,dev,20ad773963cafcb505e8ebc0a2eaf775,2,decision,TIME|EGO|SHOTS,You should not stop or brake in this situation.,0,9,0
+a9495fcba00e1f02b93bd8c1a01760ba,dev,4bd2ae2db37ee5af4741edb2381d221e,4,hazard,TIME|SHOTS,I am paying attention to the white van in front of me because it is moving slowly and I need to maintain a safe following distance.,0,26,0
+8e5a4f38cecf9b3a936701a245718c92,dev,5d6989e6eefd259675a9bf9a6ca2573c,2,decision,TIME|EGO|SHOTS,You would hit the parked cars on the right.,1,9,0
+48e031186a81d9a0d26517825caeeeae,dev,1dd7fff730e120b87ad0159f4aad55a8,2,decision,TIME|EGO|SHOTS,"No, it is not safe for you to accelerate in this situation because you are currently slowing down.",0,18,1
+3e630e0d142555476904c38df2ca2a68,dev,d0501e332a95245ec0d276c939f3681d,2,decision,TIME|EGO|SHOTS,You would hit the parked cars on the right side of the road.,0,13,0
+d6f5b776e0dcaabcc7f1a69f3dfff7e9,dev,8be5e07ae6b6510470929f1122d5cc43,1,why,TIME|EGO|SHOTS,I am remaining stopped because the traffic lights to go straight are red.,0,13,0
+436ae02f62065ce95f7a7a47cba9fa4a,dev,7a7d2a540390b656626b3bd0d979481d,4,hazard,TIME|SHOTS,You must pay attention to the cyclist in front of you.,0,11,0
+f6612f264a4dcac30bbf42d0d534cd44,dev,5c78923a6659dd396065d2885d11959e,2,decision,TIME|EGO|SHOTS,You should brake because the traffic lights to go straight are red.,0,12,0
+399cbf7a06cf11033d0791ddb5669954,dev,4172cc3d7de58a0bd5f21b62fa4697c3,2,decision,TIME|EGO|SHOTS,You should be braking because the car ahead is slowing down.,1,11,1
+a05cefff9c44de2e73f9959ce111a613,dev,8e9410bd7ce8d865ae6420b4cc4d9fc9,1,why,TIME|EGO|SHOTS,I am accelerating because there is a gap in the traffic behind the car ahead.,0,15,0
+42c58481b469ca6c905d6b29cf806a6a,dev,b65439dd77e941562025cb79a07e207a,7,light_state,TIME|SHOTS,The traffic lights are red.,1,5,0
+5ba80a200e9f02f4b2e5589cc2bdcb72,dev,913ad100ea54899df0941aefc6989f68,1,why,TIME|EGO|SHOTS,I am currently stopping because there is a pedestrian crossing the road.,0,12,0
+ca983943d1afdc7753dcfdf44adb383f,dev,cc3e15ceeb686129afef8e19afcfb708,1,why,TIME|EGO|SHOTS,I am currently decelerating because of the cyclist ahead.,1,9,0
+a591fd94d6744d4ac0d9e2237ae70c86,dev,1bc0fe5369569354b85465144eee6c8d,1,why,TIME|EGO|SHOTS,I am accelerating because there is a gap in the traffic behind the car ahead.,0,15,0
+125172be9de15eea6635750bcccb0e7b,dev,c47fde7f6c4356b55ab637cb6f87f550,3,own_action,TIME|LIGHT_ZOOM|SHOTS,The driver is decelerating because of the upcoming speedbump on the road ahead.,0,13,0
+8839a554543a53c27ba694c8191f478a,dev,076e675af0674dc6830de9ad93736c22,1,why,TIME|EGO|SHOTS,I am accelerating because there is a gap in the traffic behind the car ahead.,0,15,0
+77445a7420a371f05764e5904156d052,dev,abc8a0cb91695315cb4f28c0cd7729f5,8,presence,TIME|FAR_ZOOM|SHOTS,"Yes, there is traffic ahead as indicated by the white van in front of the car.",1,16,0
+5aa13166ad86506ee12a676b4770fe23,dev,473890aa1c88b16cbc0372829eaee2a8,4,hazard,TIME|SHOTS,"No, it is not safe to overtake the obstacle at this time because the traffic light is red.",0,18,0
+447ba8abb30b40f9539e9c2b76aab1ec,dev,292f1f9c63028de175ccb8680d6c3513,4,hazard,TIME|SHOTS,The red double-decker bus is catching my attention because it is occupying the lane to my left.,1,17,0
+b36df86d523945a41455d726953bba5b,dev,6b32b505f0d76d301177a0e3630482f4,1,why,TIME|EGO|SHOTS,I am currently positioned in the left lane because the road ahead is clear and I am following the flow of traffic.,0,22,0
+5fcbd672f3f61555d5da5a0bcfea9d15,dev,7e84b526abf87ce2b9e292db313799ea,2,decision,TIME|EGO|SHOTS,I am currently remaining stopped because the traffic lights to go straight are red.,0,14,0
+8e3e0c351ba2b753a33f712b3740b64f,dev,084eca9f0ce4c66d3f9d7c4a4c670e20,7,light_state,TIME|LIGHT_ZOOM|SHOTS,The traffic lights are red.,0,5,0
+4506732801681d59f42a81bcee48667e,dev,6d83909fb7c9634cd841539e03241602,3,own_action,TIME|LIGHT_ZOOM|EGO|SHOTS,The driver accelerates because the green traffic lights to go straight are green.,1,13,0
+90dd203e391ae2c3ebbff3e445251c41,dev,8d85f33be0af518cbd00fad37996f363,2,decision,TIME|EGO|SHOTS,I am currently remaining stopped because the traffic lights to go straight are red.,0,14,0
+147eee2ea38fc0e51ec615be6600f577,dev,48be14ae032fd9f41519934a1b31a69c,2,decision,TIME|EGO|SHOTS,I am currently accelerating because there is a gap in the traffic behind the car ahead.,0,16,0
+d95fa756b3b6abcec9bcd757f6ff0476,dev,8f298c8ac7a7e8f2407449a1046abd2b,2,decision,TIME|FAR_ZOOM|EGO|SHOTS,"No, you should not stop to give way to pedestrians in this situation because there are no pedestrians crossing the road at the zebra crossing.",1,25,0
+3410a672cb1b7f1efd8c6e403a00fb11,dev,e177a8592f0898c6a420e037473f85d0,1,why,TIME|EGO|SHOTS,I am turning left because there is a gap in the traffic behind the car ahead.,0,16,0
+0f643fc83eccd501d3eb3285c03ce0b5,dev,e11d833e334762950d1e7d64b531c3c9,1,why,TIME|EGO|SHOTS,The parked cars on the right are forcing me to steer left to avoid them.,1,15,0
+3ab40fa546cb18307a5f129d4c6fff39,dev,fd21911ccc01de693f23b1e4695ab43d,2,decision,TIME|EGO|SHOTS,You should remain stopped because the traffic lights to go straight are red.,0,13,0
+82579cc80ed03722b3267e40e2052410,dev,fec7704a5568051a606f5b38fe94a2cd,1,why,TIME|EGO|SHOTS,The car ahead is moving slowly.,0,6,0
+cdcd3c12a6283d92466c8a6e17f3d8d3,dev,ed89ed35b90aa92c687d5b3a9c788e63,2,decision,TIME|EGO|SHOTS,You should stop because the traffic lights to go straight are red.,0,12,0
+eded64e39fb2b61cf51c53fb5be4f2df,dev,2a9208eea6de72e926bfb4e982e001e4,1,why,TIME|EGO|SHOTS,I am turning left because the traffic lights to go straight are red.,0,13,0
+f438dca4cda9a9c5840a385febdbdd5d,dev,40775275a02e1c15d869600971f2bbe3,2,decision,TIME|EGO|SHOTS,You should decelerate because of the upcoming speedbump on the road ahead.,1,12,0
+6f7910f4b5170af9e92456304e1e8d04,dev,8ac09dbc5ceba4ccd2c38b0833318e75,8,presence,TIME|FAR_ZOOM|SHOTS,"Yes, there is traffic ahead as there is a large red truck in the lane directly in front of me.",1,20,0
+a73064094d97529a4a8bacbf86ec2649,dev,e752869ec1564d03169f469df5b6228a,1,why,TIME|EGO|SHOTS,I am currently remaining stopped because the traffic lights to go straight are red.,0,14,0
+af64fe4e0b2356ef1ea52d390ca0ad29,dev,36a7b163766056071cfd8e1afe92c8d7,4,hazard,TIME|SHOTS,I am paying attention to the parked cars on the right to ensure I maintain a safe distance from them.,0,20,0
+b9ad8a8f7df12886630cfda92ca4db53,dev,64bc7ee87588224660eeb86eb87f05c4,1,why,TIME|EGO|SHOTS,I am currently positioned in the left lane because it is the only lane that is not obstructed by parked cars.,0,21,0
+381b196033ae8f8962d9d6048b4f2050,dev,64a5edb6c3e82183d3bcccab14be21e8,1,why,TIME|EGO|SHOTS,I am starting because the traffic lights to go straight are green.,1,12,0
+96174cdb6a9122d3cd53e36bded6ee8d,dev,73840f83ebe2e96b27f39d7cc3429bfa,1,why,TIME|EGO|SHOTS,I am currently decelerating because of the upcoming speedbump on the road ahead.,0,13,0
+160a5fc9a20c629b38dc35df8a11b738,dev,4dfb4dfec1cce03befe37fdc9440f834,2,decision,TIME|EGO|SHOTS,You should remain stopped because the traffic lights to go straight are red.,1,13,0
+ed43d4baa892585447d72252892b4b32,dev,df5e2c2ad0762e26752a7586e47006ea,4,hazard,TIME|SHOTS,You must pay attention to the parked cars on the right and the road markings.,0,15,0
+54b7b63e1019c8cdd2f8bea7f421b548,dev,ae233bf78d25504b181adc2780cf6690,2,decision,TIME|EGO|SHOTS,"No, it is not safe to accelerate because the car ahead is already accelerating.",1,14,0
+78c5c36e50cb41a97eaa6409c07722f3,dev,892f45408ddd4fe18c44061ee52cb5d6,1,why,TIME|SHOTS,I am positioned in this way because I am following the parked cars on the right side of the road.,0,20,0
+53fc563c543ce4bedc7a17a5e5cefe44,dev,4f09d1d7938fb8cf1c3483804f0a4d7b,1,why,TIME|EGO|SHOTS,I am accelerating because there is a gap in the traffic behind the car ahead.,1,15,0
+e317b4fe1c928423b205556a5b2f5b04,dev,bcc9269d4c4df5c78f3426b37b06ba53,11,identity,TIME|FAR_ZOOM|SHOTS,I am following a white van.,0,6,0
+b19864dafbab6c42cdbc2fecb25cb6a2,dev,67e2fd512f9593bf04f655c290ca719e,4,hazard,TIME|SHOTS,I am paying attention to the cyclist ahead because I need to maintain a safe following distance.,0,17,0
+5050e1f8b331c1b430d2c2d9a1322b18,dev,99e9a44a0e99cf58a09c10309c76ebf6,4,hazard,TIME|SHOTS,I am paying attention to the parked cars on the left and the road ahead to ensure safe driving.,1,19,0
+635d4877c09f39e0cacfe5ba843ccc6e,dev,29bf79b53f092783b17508865a26953f,1,why,TIME|EGO|SHOTS,There is a gap in the traffic behind the car ahead.,0,11,0
+2ddba7b68809c96d2f9c992e76f074ce,dev,c2f45454e9dcf01e58c7a858699785e9,1,why,TIME|EGO|SHOTS,The traffic lights to go straight are red.,0,8,0
+dcb6fff1d22fd6bc2ac87a2e00eec064,dev,bb463c275670e08a8c70e3eed45a5b24,1,why,TIME|EGO|SHOTS,I am accelerating because there is a gap in the traffic behind the car ahead.,0,15,0
+d88ffbccda562ba4cd51da6cf7fafc76,dev,72b331f1f614a8b8ecd788f99cee1424,1,why,TIME|EGO|SHOTS,I am positioned in this way because I am following the lane and the road ahead.,0,16,0
+26445205e817ab2c282072d09daaddee,dev,b3502e0e48f6415d61237c5cc36b391a,11,identity,TIME|FAR_ZOOM|SHOTS,I am following a white van.,0,6,0
+2d65d2d728f9b6d525a6d7a2dc7ed0b2,dev,c26a31c55e49a62dc5124c2fbaad6116,2,decision,TIME|EGO|SHOTS,You should continue accelerating because there is a gap in the traffic behind the car ahead.,0,16,0
+936ee7eaaa7e29f83f135edab43dd357,dev,6be11413a10c2353aa135183c9227eba,1,why,TIME|EGO|SHOTS,There is a blue car to my left that is moving into my lane.,0,14,0
+9489fb9f62d537744781b84e8ed435a8,dev,5808dadcde949d43821fdf400864e076,2,decision,TIME|EGO|SHOTS,I am currently decelerating because the car ahead is slowing down.,1,11,1
+7b4e0f133537e82ae4a6d4d147e0eb2d,dev,a20aa962b3ead20110aa65b1ade1f61d,4,hazard,TIME|SHOTS,I am paying attention to the white van ahead because it is the vehicle directly in front of me.,0,19,0
+ed5f61b0dddd2f3cc9c8f5f9d2ed281a,dev,9b385083ce91ac74ed67a54e6b776977,1,why,TIME|EGO|SHOTS,I am stopping because the traffic lights to go straight are red.,0,12,0
+c6f0df78d90e7a7374cfebd3c74d26f3,dev,f9f900a45ea1a1dd4b3accef5d0bd287,4,hazard,TIME|SHOTS,I am paying attention to the road ahead and the traffic lights because I need to know when to proceed.,0,20,0
+5ef941a00d6574382637ff460a94c213,dev,92f5da514e01303b6107e7b6bb1238b8,1,why,TIME|EGO|SHOTS,I am changing my position to turn left.,0,8,0
+8d1de3ab00c558969a9b166ae95283f1,dev,e0fc30b487c9b7e762703d6244634f69,1,why,TIME|EGO|SHOTS,I am positioned in this way because the road ahead is clear.,0,12,0
+796dd7113f12057ba7ba8755171a29d0,dev,f1abc2ec23858f1ddcf4db5d50f33125,2,decision,TIME|EGO|SHOTS,You should stop because a pedestrian is crossing the road in front of your vehicle.,1,15,0
+b3e2c7f762a18374a60be5ba3ce0b856,dev,cd08ed495d0ed7e2cf8bbc83a5b8cc03,1,why,TIME|EGO|SHOTS,I am steering left to avoid the large red bus occupying the adjacent lane.,0,14,0
+ab725880c3ffaf1b24f42034c46c1e27,dev,54887f3d3366be9b24cd503f86a726e0,4,hazard,TIME|SHOTS,"Yes, there is a hazard on the road ahead because a bus is stopped at a bus stop.",1,18,0
+837d97bbea80e5fca146c2588ebbeaab,dev,263aae81ebd5eaa6f633418956dfbec4,4,hazard,TIME|SHOTS,I am paying attention to the parked cars on the left and the road ahead to ensure safe navigation.,0,19,0
+bce3ac6afc6550f4412ab6e09249ea69,dev,d93adbbee737ca0c730592fdfc833e22,1,why,TIME|EGO|SHOTS,I am starting because the traffic lights to go straight are red.,0,12,0
+1af723fa7e3d0dd4ab0f4a393be58b65,dev,f798c973ed3eb1ecd706510ae4b33062,1,why,TIME|EGO|SHOTS,The parked vehicle is impacting my actions by requiring me to slow down and maintain a safe distance.,1,18,0
+c970f7b9348aed7ca18a5d41bfb17d80,dev,6e7cfbd072aa82cc0a3c791b25dca247,1,why,TIME|EGO|SHOTS,I am remaining stopped because the bus stop ahead is occupied by pedestrians.,0,13,0
+e230adacfa00104ccc90a89498e32fe0,dev,4642da79fd5fb18694f81d8429933e7c,1,why,TIME|EGO|SHOTS,There is a gap in the traffic behind the car ahead.,0,11,0
+f8f2a72a467a416d4815e8ce81ba9b14,dev,a3e691470d956070355868926c5d345a,4,hazard,TIME|SHOTS,I am paying attention to the parked cars on the right side of the road to ensure there is enough space to pass safely.,0,24,0
+cd9e21565457921d3473efe45a220d5a,dev,66189dddbd2ee0c2ab32526594dda8fc,11,identity,TIME|FAR_ZOOM|SHOTS,I am following a large orange garbage truck.,1,8,0
+8b4a4d4f270c3e4dd4e33ecc5f291c2e,dev,abfc6014a6cae8d9f3ad016ddd1086f8,1,why,TIME|EGO|SHOTS,I am accelerating because there is a gap in the traffic behind the car ahead.,1,15,0
+4c844d7ee2bdf2dbdae7dd4349024e09,dev,684be42fb2fcda7a65a96e9e4f0d80dc,4,hazard,TIME|SHOTS,I am paying attention to the wet road surface and the parked cars on the left to ensure safe navigation around the intersection.,0,23,0
+bc3a9919fca0999b4d2a07aed037ceba,dev,9b518032f3d632f573cb4b7d43ad9bc1,2,decision,TIME|EGO|SHOTS,"No, it is not safe for you to steer left in this situation because there is a large truck and construction barriers on the left side of the road.",0,29,0
+6e90cc8c87905b119a929c732c2beea5,dev,891131e8aff4180bc27495e153b22ed9,1,why,TIME|EGO|SHOTS,I am accelerating because there is a gap in the traffic behind the car ahead.,0,15,0
+04fe348c13250c7c51935ce8a3ea9e00,dev,8ee89d25fd35007e69d7cf7a188303ac,1,why,TIME|EGO|SHOTS,I am accelerating because there is a gap in the traffic behind the car ahead.,0,15,0
+2b016758a76bc52fe263fe589b679b71,dev,030ca8ff5f3e9541ca64863dfea4064b,2,decision,TIME|EGO|SHOTS,You should stop because the traffic light to go straight is red.,0,12,0
+437c787f93ce9bf2e528fd966ee1e590,dev,2c5b15b835ed33a220aaaae4c429af7d,1,why,TIME|EGO|SHOTS,I am currently decelerating because of the pedestrian crossing the road ahead.,0,12,0
+94b9ff5382a17e6de95bee92116abd61,dev,35dbf9683e17d4bcab9719278c7db04e,4,hazard,TIME|SHOTS,I am remaining stopped because the traffic lights to go straight are red.,0,13,0
+695d77522fb3ddf806e2c973f03e1070,dev,f2644df906e01316bc9c0e0302e95a4b,1,why,TIME|EGO|SHOTS,"The oncoming lane is clear, allowing me to proceed safely.",0,10,0
+caa446a4788ecaae2da2e7161f11917f,dev,d9126fc862e97c0f026c069f6fa6bcd6,1,why,TIME|EGO|SHOTS,I am decelerating because of the approaching silver car in the opposite lane.,0,13,0
+be58e0f7d6ccbf7d93a12337136bee91,dev,6c4ea13464b76e13637eaa9e9bf2126e,1,why,TIME|EGO|SHOTS,I am stopping because there is a pedestrian crossing the road ahead.,0,12,0
+003187db201dcc965e6d56daa687d995,dev,1dc7d8860eed09a4425af0f3fc207c7a,2,decision,TIME|EGO|SHOTS,"Yes, it is safe to proceed across the zebra crossing ahead as there are no pedestrians currently using it.",1,19,0
+e7e97f5b7dbe0713f53b11b305ad38ea,dev,cf286b0ced0a463b72df7f3c76e1e4a0,4,hazard,TIME|SHOTS,I am paying attention to the parked cars on the left and the oncoming traffic on the right to ensure safe driving.,0,22,0
+377b459af51ec2e0ee6c6e7a4cb3b3f6,dev,36db2d5bb7028d9428fbf533662d0011,2,decision,TIME|EGO|SHOTS,"No, it is not safe for you to accelerate in this situation because there is a car ahead of you.",1,20,0
+a8854e118962f244edcaa04900c2ff67,dev,32fb67392cd2e755810cd41e166c8c0b,4,hazard,TIME|SHOTS,"No, there is no hazard obstructing my path.",1,8,0
+2459ee37fae7057b381cfce627f05455,dev,b7c218797513e484de2e6d0b7350a333,2,decision,TIME|EGO|SHOTS,I am currently remaining stopped because the traffic lights to go straight are red.,0,14,0
+265f5b1b98ea5fcef0462742249817e2,dev,e1a7773f5f930acafcd0b86bd29a074a,1,why,TIME|EGO|SHOTS,I am accelerating because there is a gap in the traffic behind the car ahead.,1,15,0
+821a48225c57aaeeaee3c3b3f9d20289,dev,5c58d67029863a25680e8b4efd50fe69,9,where,TIME|SHOTS,I am overtaking the parked vehicle on the left side.,0,10,0
+7af1f6b5e848c082459612625d4f1a2c,dev,5f97c9fb0273a7b4904fa2d2f7e89e18,2,decision,TIME|EGO|SHOTS,"No, it is not safe for you to accelerate in this situation because there is a red SUV approaching from the opposite direction.",0,23,0
+1fef0feb400fee2ffeaa278362654dcd,dev,a62c3bd43853c4c19a08552d4b9ef88d,1,why,TIME|EGO|SHOTS,I am accelerating because there is a gap in the traffic behind the car ahead.,0,15,0
+3ed8adca818c36da85de13a122e50b7a,dev,a8019f8c77a7372c361c5084056b3af0,3,own_action,TIME|LIGHT_ZOOM|EGO|SHOTS,The driver remains stopped because the traffic lights to go straight are red.,1,13,0
+608765baa40641ec721ac90212f72317,dev,f9a54a481138d6bcd8229e03cb4f21be,4,hazard,TIME|SHOTS,I am paying attention to the car ahead because I need to maintain a safe following distance.,1,17,0
+25ec68917d2af1651148e3751b06551b,dev,5bca9d1a9c9553b68cd71407de7d7ef0,2,decision,TIME|EGO|SHOTS,I am currently remaining stopped because the traffic lights to go straight are red.,0,14,0
+08351e88cb9f22ca25d1bb9bf339f01d,dev,8456c66e3f281c2d63e8aac711b017c8,2,decision,TIME|EGO|SHOTS,You should stop because the traffic lights to go straight are red.,0,12,0
+a4196e29b00eee822e88a3775feea257,dev,7a246cffb586283f1ea96e4795e59267,2,decision,TIME|EGO|SHOTS,You should brake because there is a cyclist in front of you.,0,12,0
+0995587cf2c35dc426eee2b8cf031e3a,dev,38a2b8cd069fa22fade26d93b2e6ccd0,1,why,TIME|EGO|SHOTS,I am decelerating because there is a parked vehicle to the left.,1,12,0
+455d0b83719f004c500cec160a2a83b4,dev,fa5add75c891ca92d587ad9483917aeb,1,why,TIME|EGO|SHOTS,I am currently remaining stopped because the traffic lights to go straight are red.,0,14,0
+d6a682eb9903f4e02f898ccf2b213bfd,dev,25bd8027ee1cbcd348fc97eb18bc3c5c,4,hazard,TIME|SHOTS,I am paying attention to the cyclist in front of me because I need to maintain a safe following distance.,0,20,0
+bb68334b94df592f07d2ff8de35e5a93,dev,861417da45f75b3d8c33c375e7bb61eb,2,decision,TIME|EGO|SHOTS,"No, it is not safe for you to accelerate in this situation because you are already speeding up and turning right.",0,21,1

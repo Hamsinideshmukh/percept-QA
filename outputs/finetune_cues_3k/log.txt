@@ -1,0 +1,48 @@
+[ 0.00h] unsloth 2026.11.4 | torch 2.11.0+cu128
+[ 0.39h] eval questions: 500 official + 500 dev
+[ 0.39h] training pool 3000: {'why': 257, 'decision': 257, 'own_action': 257, 'hazard': 257, 'layout': 257, 'presence': 256, 'identity': 256, 'where': 256, 'scene_other': 256, 'light_state': 250, 'counting': 228, 'others_motion': 213}
+[ 0.39h] ego labels mined from training answers: {'slowing': 600, 'steady': 600, 'turn_left': 600, 'accelerating': 600, 'turn_right': 600, 'stopped': 490}
+[ 1.38h] ego features: 6728 clips
+[ 1.38h] EGO gates (5-fold CV balanced accuracy): {'stop': np.float64(84.9), 'trend': np.float64(86.1), 'turn': np.float64(69.9)}
+[ 1.38h] cue records 0/3600
+[ 1.45h] cue records 500/3600
+[ 1.52h] cue records 1000/3600
+[ 1.58h] cue records 1500/3600
+[ 1.65h] cue records 2000/3600
+[ 1.71h] cue records 2500/3600
+[ 1.77h] cue records 3000/3600
+[ 1.83h] cue records 3500/3600
+[ 1.85h] cue records: 3600 clips, state spoken 3013, errors 0
+[ 1.86h] collator: loss on the answer only
+[ 1.86h] graded text of example 1: '<think>\n\n</think>\n\nI am steering right in this situation to keep a safe distance from the cycle lane on the left.<|im_end|>'
+[ 2.04h] step 25/375 | {'loss': 0.7700534057617188, 'grad_norm': 2.7818820476531982, 'learning_rate': 0.00019232876712328768, 'epoch': 0.06666666666666667} | cues so far {'LIGHT_ZOOM': 30, 'TIME': 155, 'FAR_ZOOM': 51, 'EGO': 24}
+[ 2.12h] step 50/375 | {'loss': 0.6940038299560547, 'grad_norm': 2.7021644115448, 'learning_rate': 0.0001786301369863014, 'epoch': 0.13333333333333333} | cues so far {'LIGHT_ZOOM': 52, 'TIME': 307, 'FAR_ZOOM': 100, 'EGO': 57}
+[ 2.21h] step 75/375 | {'loss': 0.6574884796142578, 'grad_norm': 2.1898622512817383, 'learning_rate': 0.0001649315068493151, 'epoch': 0.2} | cues so far {'LIGHT_ZOOM': 72, 'TIME': 459, 'FAR_ZOOM': 154, 'EGO': 89}
+[ 2.30h] step 100/375 | {'loss': 0.6121850967407226, 'grad_norm': 2.273266553878784, 'learning_rate': 0.00015123287671232877, 'epoch': 0.26666666666666666} | cues so far {'LIGHT_ZOOM': 90, 'TIME': 613, 'FAR_ZOOM': 204, 'EGO': 120}
+[ 2.39h] step 125/375 | {'loss': 0.5660599899291993, 'grad_norm': 1.8709532022476196, 'learning_rate': 0.00013753424657534248, 'epoch': 0.3333333333333333} | cues so far {'LIGHT_ZOOM': 119, 'TIME': 769, 'FAR_ZOOM': 250, 'EGO': 155}
+[ 2.48h] step 150/375 | {'loss': 0.6197050857543945, 'grad_norm': 1.2111151218414307, 'learning_rate': 0.00012383561643835618, 'epoch': 0.4} | cues so far {'LIGHT_ZOOM': 154, 'TIME': 922, 'FAR_ZOOM': 295, 'EGO': 192}
+[ 2.57h] step 175/375 | {'loss': 0.6241001510620117, 'grad_norm': 1.4653611183166504, 'learning_rate': 0.00011013698630136986, 'epoch': 0.4666666666666667} | cues so far {'LIGHT_ZOOM': 172, 'TIME': 1062, 'FAR_ZOOM': 343, 'EGO': 223}
+[ 2.66h] step 200/375 | {'loss': 0.6217289733886718, 'grad_norm': 2.287628650665283, 'learning_rate': 9.643835616438356e-05, 'epoch': 0.5333333333333333} | cues so far {'LIGHT_ZOOM': 207, 'TIME': 1202, 'FAR_ZOOM': 390, 'EGO': 258}
+[ 2.75h] step 225/375 | {'loss': 0.5817805862426758, 'grad_norm': 2.0851094722747803, 'learning_rate': 8.273972602739727e-05, 'epoch': 0.6} | cues so far {'LIGHT_ZOOM': 228, 'TIME': 1357, 'FAR_ZOOM': 433, 'EGO': 295}
+[ 2.84h] step 250/375 | {'loss': 0.568431625366211, 'grad_norm': 2.242628335952759, 'learning_rate': 6.904109589041097e-05, 'epoch': 0.6666666666666666} | cues so far {'LIGHT_ZOOM': 256, 'TIME': 1505, 'FAR_ZOOM': 483, 'EGO': 334}
+[ 2.93h] step 275/375 | {'loss': 0.5329820251464844, 'grad_norm': 1.672987461090088, 'learning_rate': 5.534246575342466e-05, 'epoch': 0.7333333333333333} | cues so far {'LIGHT_ZOOM': 278, 'TIME': 1644, 'FAR_ZOOM': 527, 'EGO': 362}
+[ 3.02h] step 300/375 | {'loss': 0.5536929321289062, 'grad_norm': 1.5205411911010742, 'learning_rate': 4.1643835616438356e-05, 'epoch': 0.8} | cues so far {'LIGHT_ZOOM': 306, 'TIME': 1781, 'FAR_ZOOM': 574, 'EGO': 394}
+[ 3.11h] step 325/375 | {'loss': 0.4919332122802734, 'grad_norm': 2.826622486114502, 'learning_rate': 2.7945205479452058e-05, 'epoch': 0.8666666666666667} | cues so far {'LIGHT_ZOOM': 329, 'TIME': 1925, 'FAR_ZOOM': 637, 'EGO': 426}
+[ 3.20h] step 350/375 | {'loss': 0.5283100509643555, 'grad_norm': 1.601203203201294, 'learning_rate': 1.4246575342465754e-05, 'epoch': 0.9333333333333333} | cues so far {'LIGHT_ZOOM': 354, 'TIME': 2077, 'FAR_ZOOM': 690, 'EGO': 465}
+[ 3.29h] step 375/375 | {'loss': 0.49256900787353514, 'grad_norm': 1.4244531393051147, 'learning_rate': 5.47945205479452e-07, 'epoch': 1.0} | cues so far {'LIGHT_ZOOM': 379, 'TIME': 2229, 'FAR_ZOOM': 733, 'EGO': 498}
+[ 3.29h] step 375/375 | {'train_runtime': 5038.1823, 'train_samples_per_second': 0.595, 'train_steps_per_second': 0.074, 'total_flos': 2.9583019744970496e+16, 'train_loss': 0.5943349634806315, 'epoch': 1.0} | cues so far {'LIGHT_ZOOM': 379, 'TIME': 2229, 'FAR_ZOOM': 733, 'EGO': 498}
+[ 3.29h] FINE-TUNED {'mode': 'cues', 'why_gets_zooms': True, 'steps': 375, 'minutes': 84.0, 'loss_first': 0.7700534057617188, 'loss_last': 0.49256900787353514, 'cues_given_in_training': {'LIGHT_ZOOM': 379, 'TIME': 2229, 'FAR_ZOOM': 733, 'EGO': 498}}
+[ 3.29h] ft_cues 0/1000 | 'Yes, there is a traffic light, and it is currently green.'
+[ 3.29h] ft_cues 1/1000 | 'There are no pedestrians.'
+[ 3.29h] ft_cues 2/1000 | 'I am accelerating because there is a gap in the traffic behind the tru'
+[ 3.38h] ft_cues 250/1000 | 'No, there are no obstacles preventing me from continuing straight.'
+[ 3.47h] ft_cues 500/1000 | 'No, I should not stop or brake in this situation because the traffic l'
+[ 3.56h] ft_cues 750/1000 | 'No, it is not safe for me to accelerate in this situation because ther'
+[ 3.66h] SAVED ft_cues
+[ 3.66h] ft_cues_nocue 0/1000 | 'Yes, there is a traffic light, and it is currently green.'
+[ 3.66h] ft_cues_nocue 1/1000 | 'There are no pedestrians.'
+[ 3.66h] ft_cues_nocue 2/1000 | 'I am accelerating because there is a gap in the traffic behind the tru'
+[ 3.74h] ft_cues_nocue 250/1000 | 'No, there are no obstacles preventing me from continuing straight.'
+[ 3.82h] ft_cues_nocue 500/1000 | 'No, I should not stop or brake in this situation because the traffic l'
+[ 3.90h] ft_cues_nocue 750/1000 | 'No, it is not safe for me to accelerate in this situation because ther'
+[ 3.99h] SAVED ft_cues_nocue

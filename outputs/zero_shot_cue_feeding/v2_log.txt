@@ -1,0 +1,37 @@
+[ 0.30h] questions: 500 official + 500 dev | classes {'why': 357, 'decision': 224, 'hazard': 124, 'counting': 60, 'presence': 58, 'light_state': 50, 'identity': 40, 'where': 26, 'others_motion': 19, 'layout': 19, 'own_action': 12, 'scene_other': 11}
+[ 0.30h] ego labels mined from training answers: {'slowing': 600, 'steady': 600, 'turn_left': 600, 'accelerating': 600, 'turn_right': 600, 'stopped': 490}
+[ 0.83h] ego features: 4090 clips
+[ 0.83h] EGO gates (5-fold CV balanced accuracy on training labels): {'stop': np.float64(85.1), 'trend': np.float64(85.7), 'turn': np.float64(70.4)}  speak only if >= 70.0 and conf >= 0.6
+[ 0.83h] exemplars: [stopped] Q: Are you currently starting, stopping or remaining stopped, and why? A: I am currently remaining stopped because the traffic lights to go straight are red. || [slowing down] Q: Are you currently starting, stopping, or remaining stopped, and why? A: I am currently decelerating because of the upcoming speedbump on the road ahead. || [speeding up] Q: What action are you currently taking and why? A: I am accelerating because there is a gap in the traffic behind the car ahead.
+[ 0.83h] cue records 0/600
+[ 0.84h] cue records 100/600
+[ 0.86h] cue records 200/600
+[ 0.87h] cue records 300/600
+[ 0.88h] cue records 400/600
+[ 0.89h] cue records 500/600
+[ 0.91h] cue records done for 600 clips: {'state_spoken': 572, 'states': {'speeding up and going straight': 107, 'going straight': 61, 'slowing down': 34, 'slowing down and turning right': 17, 'speeding up and turning left': 13, 'turning left': 18, None: 28, 'speeding up': 39, 'stopped': 125, 'slowing down and going straight': 124, 'slowing down and turning left': 6, 'speeding up and turning right': 15, 'turning right': 13}, 'light_candidates': 332, 'vp_sources': {'motion': 498, 'lanes': 42, 'default': 60}, 'errors': 0}
+[ 0.92h] base 0/1000 generated=1 | 'Yes, there is a traffic light displaying a green signal.'
+[ 1.02h] base 250/1000 generated=251 | 'No, there is no obstacle preventing you from continuing stra'
+[ 1.11h] base 500/1000 generated=501 | 'No, you should not stop or brake in this situation as the tr'
+[ 1.21h] base 750/1000 generated=751 | 'No, it is not safe to accelerate as there is a pedestrian cr'
+[ 1.31h] SAVED base: 1000 new answers
+[ 1.31h] shots 0/1000 generated=1 | 'Yes, there is a traffic light displaying a green light.'
+[ 1.40h] shots 250/1000 generated=251 | 'There is no obstacle preventing me from continuing straight.'
+[ 1.50h] shots 500/1000 generated=501 | 'I am currently remaining stopped because the traffic lights '
+[ 1.60h] shots 750/1000 generated=751 | 'No, it is not safe for me to accelerate in this situation be'
+[ 1.70h] SAVED shots: 1000 new answers
+[ 1.70h] ego_noshot 0/1000 generated=0 | 'Yes, there is a traffic light displaying a green signal.'
+[ 1.74h] ego_noshot 250/1000 generated=102 | 'No, there is no obstacle preventing you from continuing stra'
+[ 1.79h] ego_noshot 500/1000 generated=215 | 'No, you should not stop or brake in this situation.'
+[ 1.86h] ego_noshot 750/1000 generated=389 | 'No, it is not safe to accelerate as there is a pedestrian cr'
+[ 1.92h] SAVED ego_noshot: 564 new answers
+[ 1.93h] ego 0/1000 generated=1 | 'Yes, there is a traffic light displaying a green light.'
+[ 2.02h] ego 250/1000 generated=251 | 'There is no obstacle preventing me from continuing straight.'
+[ 2.11h] ego 500/1000 generated=501 | 'I am currently remaining stopped because the traffic lights '
+[ 2.22h] ego 750/1000 generated=751 | 'No, it is not safe for me to accelerate in this situation be'
+[ 2.32h] SAVED ego: 1000 new answers
+[ 2.32h] all 0/1000 generated=1 | 'Yes, there is a traffic light displaying a green light.'
+[ 2.41h] all 250/1000 generated=251 | 'No, there is no obstacle preventing me from continuing strai'
+[ 2.51h] all 500/1000 generated=501 | 'You should not stop or brake in this situation.'
+[ 2.61h] all 750/1000 generated=751 | 'No, it is not safe for you to accelerate in this situation b'
+[ 2.71h] SAVED all: 1000 new answers
